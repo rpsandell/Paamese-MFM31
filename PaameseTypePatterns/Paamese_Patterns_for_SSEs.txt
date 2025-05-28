@@ -1,0 +1,3585 @@
+V1	V2	QI Final	QI Penult	Pm. 2 Window	QI Antepenult	Pm. 3 Window	Pm. 4 Window	Pm. 5 Window	Pm. 6 Window
+/S S/	S1 S	0	1	1	1	1	1	1	1
+/S S/	S S1	1	0	0	0	0	0	0	0
+/S s/	S1 s	0	1	0	1	0	0	0	0
+/S s/	S s1	1	0	1	0	1	1	1	1
+/s S/	s1 S	0	1	1	1	1	1	1	1
+/s S/	s S1	1	0	0	0	0	0	0	0
+/s s/	s1 s	0	1	1	1	1	1	1	1
+/s s/	s s1	1	0	0	0	0	0	0	0
+/S S S/	S1 S S	0	0	0	1	1	1	1	1
+/S S S/	S S1 S	0	1	1	0	0	0	0	0
+/S S S/	S S S1	1	0	0	0	0	0	0	0
+/S S s/	S1 S s	0	0	0	1	0	1	1	1
+/S S s/	S S1 s	0	1	0	0	0	0	0	0
+/S S s/	S S s1	1	0	1	0	1	0	0	0
+/S s S/	S1 s S	0	0	0	1	0	0	0	0
+/S s S/	S s1 S	0	1	1	0	1	1	1	1
+/S s S/	S s S1	1	0	0	0	0	0	0	0
+/S s s/	S1 s s	0	0	0	1	0	0	0	0
+/S s s/	S s1 s	0	1	1	0	1	1	1	1
+/S s s/	S s s1	1	0	0	0	0	0	0	0
+/s S S/	s1 S S	0	0	0	1	1	1	1	1
+/s S S/	s S1 S	0	1	1	0	0	0	0	0
+/s S S/	s S S1	1	0	0	0	0	0	0	0
+/s S s/	s1 S s	0	0	0	1	1	1	1	1
+/s S s/	s S1 s	0	1	0	0	0	0	0	0
+/s S s/	s S s1	1	0	1	0	0	0	0	0
+/s s S/	s1 s S	0	0	0	1	1	1	1	1
+/s s S/	s s1 S	0	1	1	0	0	0	0	0
+/s s S/	s s S1	1	0	0	0	0	0	0	0
+/s s s/	s1 s s	0	0	0	1	1	1	1	1
+/s s s/	s s1 s	0	1	1	0	0	0	0	0
+/s s s/	s s s1	1	0	0	0	0	0	0	0
+/S S S S/	S1 S S S	0	0	0	0	0	0	0	0
+/S S S S/	S S1 S S	0	0	0	1	1	1	1	1
+/S S S S/	S S S1 S	0	1	1	0	0	0	0	0
+/S S S S/	S S S S1	1	0	0	0	0	0	0	0
+/S S S s/	S1 S S s	0	0	0	0	0	0	0	0
+/S S S s/	S S1 S s	0	0	0	1	0	1	1	1
+/S S S s/	S S S1 s	0	1	0	0	0	0	0	0
+/S S S s/	S S S s1	1	0	1	0	1	0	0	0
+/S S s S/	S1 S s S	0	0	0	0	0	0	0	0
+/S S s S/	S S1 s S	0	0	0	1	0	0	0	0
+/S S s S/	S S s1 S	0	1	1	0	1	1	1	1
+/S S s S/	S S s S1	1	0	0	0	0	0	0	0
+/S S s s/	S1 S s s	0	0	0	0	0	0	0	0
+/S S s s/	S S1 s s	0	0	0	1	0	0	0	0
+/S S s s/	S S s1 s	0	1	1	0	1	1	1	1
+/S S s s/	S S s s1	1	0	0	0	0	0	0	0
+/S s S S/	S1 s S S	0	0	0	0	0	0	0	0
+/S s S S/	S s1 S S	0	0	0	1	1	1	1	1
+/S s S S/	S s S1 S	0	1	1	0	0	0	0	0
+/S s S S/	S s S S1	1	0	0	0	0	0	0	0
+/S s S s/	S1 s S s	0	0	0	0	0	0	0	0
+/S s S s/	S s1 S s	0	0	0	1	1	1	1	1
+/S s S s/	S s S1 s	0	1	0	0	0	0	0	0
+/S s S s/	S s S s1	1	0	1	0	0	0	0	0
+/S s s S/	S1 s s S	0	0	0	0	0	0	0	0
+/S s s S/	S s1 s S	0	0	0	1	1	1	1	1
+/S s s S/	S s s1 S	0	1	1	0	0	0	0	0
+/S s s S/	S s s S1	1	0	0	0	0	0	0	0
+/S s s s/	S1 s s s	0	0	0	0	0	0	0	0
+/S s s s/	S s1 s s	0	0	0	1	1	1	1	1
+/S s s s/	S s s1 s	0	1	1	0	0	0	0	0
+/S s s s/	S s s s1	1	0	0	0	0	0	0	0
+/s S S S/	s1 S S S	0	0	0	0	0	1	1	1
+/s S S S/	s S1 S S	0	0	0	1	1	0	0	0
+/s S S S/	s S S1 S	0	1	1	0	0	0	0	0
+/s S S S/	s S S S1	1	0	0	0	0	0	0	0
+/s S S s/	s1 S S s	0	0	0	0	0	1	1	1
+/s S S s/	s S1 S s	0	0	0	1	0	0	0	0
+/s S S s/	s S S1 s	0	1	0	0	0	0	0	0
+/s S S s/	s S S s1	1	0	1	0	1	0	0	0
+/s S s S/	s1 S s S	0	0	0	0	0	1	1	1
+/s S s S/	s S1 s S	0	0	0	1	0	0	0	0
+/s S s S/	s S s1 S	0	1	1	0	1	0	0	0
+/s S s S/	s S s S1	1	0	0	0	0	0	0	0
+/s S s s/	s1 S s s	0	0	0	0	0	1	1	1
+/s S s s/	s S1 s s	0	0	0	1	0	0	0	0
+/s S s s/	s S s1 s	0	1	1	0	1	0	0	0
+/s S s s/	s S s s1	1	0	0	0	0	0	0	0
+/s s S S/	s1 s S S	0	0	0	0	0	0	0	0
+/s s S S/	s s1 S S	0	0	0	1	1	1	1	1
+/s s S S/	s s S1 S	0	1	1	0	0	0	0	0
+/s s S S/	s s S S1	1	0	0	0	0	0	0	0
+/s s S s/	s1 s S s	0	0	0	0	0	0	0	0
+/s s S s/	s s1 S s	0	0	0	1	1	1	1	1
+/s s S s/	s s S1 s	0	1	0	0	0	0	0	0
+/s s S s/	s s S s1	1	0	1	0	0	0	0	0
+/s s s S/	s1 s s S	0	0	0	0	0	0	0	0
+/s s s S/	s s1 s S	0	0	0	1	1	1	1	1
+/s s s S/	s s s1 S	0	1	1	0	0	0	0	0
+/s s s S/	s s s S1	1	0	0	0	0	0	0	0
+/s s s s/	s1 s s s	0	0	0	0	0	0	0	0
+/s s s s/	s s1 s s	0	0	0	1	1	1	1	1
+/s s s s/	s s s1 s	0	1	1	0	0	0	0	0
+/s s s s/	s s s s1	1	0	0	0	0	0	0	0
+/S S S S S/	S1 S S S S	0	0	0	0	0	0	0	0
+/S S S S S/	S S1 S S S	0	0	0	0	0	0	0	0
+/S S S S S/	S S S1 S S	0	0	0	1	1	1	1	1
+/S S S S S/	S S S S1 S	0	1	1	0	0	0	0	0
+/S S S S S/	S S S S S1	1	0	0	0	0	0	0	0
+/S S S S s/	S1 S S S s	0	0	0	0	0	0	0	0
+/S S S S s/	S S1 S S s	0	0	0	0	0	0	0	0
+/S S S S s/	S S S1 S s	0	0	0	1	0	1	1	1
+/S S S S s/	S S S S1 s	0	1	0	0	0	0	0	0
+/S S S S s/	S S S S s1	1	0	1	0	1	0	0	0
+/S S S s S/	S1 S S s S	0	0	0	0	0	0	0	0
+/S S S s S/	S S1 S s S	0	0	0	0	0	0	0	0
+/S S S s S/	S S S1 s S	0	0	0	1	0	0	0	0
+/S S S s S/	S S S s1 S	0	1	1	0	1	1	1	1
+/S S S s S/	S S S s S1	1	0	0	0	0	0	0	0
+/S S S s s/	S1 S S s s	0	0	0	0	0	0	0	0
+/S S S s s/	S S1 S s s	0	0	0	0	0	0	0	0
+/S S S s s/	S S S1 s s	0	0	0	1	0	0	0	0
+/S S S s s/	S S S s1 s	0	1	1	0	1	1	1	1
+/S S S s s/	S S S s s1	1	0	0	0	0	0	0	0
+/S S s S S/	S1 S s S S	0	0	0	0	0	0	0	0
+/S S s S S/	S S1 s S S	0	0	0	0	0	0	0	0
+/S S s S S/	S S s1 S S	0	0	0	1	1	1	1	1
+/S S s S S/	S S s S1 S	0	1	1	0	0	0	0	0
+/S S s S S/	S S s S S1	1	0	0	0	0	0	0	0
+/S S s S s/	S1 S s S s	0	0	0	0	0	0	0	0
+/S S s S s/	S S1 s S s	0	0	0	0	0	0	0	0
+/S S s S s/	S S s1 S s	0	0	0	1	1	1	1	1
+/S S s S s/	S S s S1 s	0	1	0	0	0	0	0	0
+/S S s S s/	S S s S s1	1	0	1	0	0	0	0	0
+/S S s s S/	S1 S s s S	0	0	0	0	0	0	0	0
+/S S s s S/	S S1 s s S	0	0	0	0	0	0	0	0
+/S S s s S/	S S s1 s S	0	0	0	1	1	1	1	1
+/S S s s S/	S S s s1 S	0	1	1	0	0	0	0	0
+/S S s s S/	S S s s S1	1	0	0	0	0	0	0	0
+/S S s s s/	S1 S s s s	0	0	0	0	0	0	0	0
+/S S s s s/	S S1 s s s	0	0	0	0	0	0	0	0
+/S S s s s/	S S s1 s s	0	0	0	1	1	1	1	1
+/S S s s s/	S S s s1 s	0	1	1	0	0	0	0	0
+/S S s s s/	S S s s s1	1	0	0	0	0	0	0	0
+/S s S S S/	S1 s S S S	0	0	0	0	0	0	0	0
+/S s S S S/	S s1 S S S	0	0	0	0	0	1	1	1
+/S s S S S/	S s S1 S S	0	0	0	1	1	0	0	0
+/S s S S S/	S s S S1 S	0	1	1	0	0	0	0	0
+/S s S S S/	S s S S S1	1	0	0	0	0	0	0	0
+/S s S S s/	S1 s S S s	0	0	0	0	0	0	0	0
+/S s S S s/	S s1 S S s	0	0	0	0	0	1	1	1
+/S s S S s/	S s S1 S s	0	0	0	1	0	0	0	0
+/S s S S s/	S s S S1 s	0	1	0	0	0	0	0	0
+/S s S S s/	S s S S s1	1	0	1	0	1	0	0	0
+/S s S s S/	S1 s S s S	0	0	0	0	0	0	0	0
+/S s S s S/	S s1 S s S	0	0	0	0	0	1	1	1
+/S s S s S/	S s S1 s S	0	0	0	1	0	0	0	0
+/S s S s S/	S s S s1 S	0	1	1	0	1	0	0	0
+/S s S s S/	S s S s S1	1	0	0	0	0	0	0	0
+/S s S s s/	S1 s S s s	0	0	0	0	0	0	0	0
+/S s S s s/	S s1 S s s	0	0	0	0	0	1	1	1
+/S s S s s/	S s S1 s s	0	0	0	1	0	0	0	0
+/S s S s s/	S s S s1 s	0	1	1	0	1	0	0	0
+/S s S s s/	S s S s s1	1	0	0	0	0	0	0	0
+/S s s S S/	S1 s s S S	0	0	0	0	0	0	0	0
+/S s s S S/	S s1 s S S	0	0	0	0	0	0	0	0
+/S s s S S/	S s s1 S S	0	0	0	1	1	1	1	1
+/S s s S S/	S s s S1 S	0	1	1	0	0	0	0	0
+/S s s S S/	S s s S S1	1	0	0	0	0	0	0	0
+/S s s S s/	S1 s s S s	0	0	0	0	0	0	0	0
+/S s s S s/	S s1 s S s	0	0	0	0	0	0	0	0
+/S s s S s/	S s s1 S s	0	0	0	1	1	1	1	1
+/S s s S s/	S s s S1 s	0	1	0	0	0	0	0	0
+/S s s S s/	S s s S s1	1	0	1	0	0	0	0	0
+/S s s s S/	S1 s s s S	0	0	0	0	0	0	0	0
+/S s s s S/	S s1 s s S	0	0	0	0	0	0	0	0
+/S s s s S/	S s s1 s S	0	0	0	1	1	1	1	1
+/S s s s S/	S s s s1 S	0	1	1	0	0	0	0	0
+/S s s s S/	S s s s S1	1	0	0	0	0	0	0	0
+/S s s s s/	S1 s s s s	0	0	0	0	0	0	0	0
+/S s s s s/	S s1 s s s	0	0	0	0	0	0	0	0
+/S s s s s/	S s s1 s s	0	0	0	1	1	1	1	1
+/S s s s s/	S s s s1 s	0	1	1	0	0	0	0	0
+/S s s s s/	S s s s s1	1	0	0	0	0	0	0	0
+/s S S S S/	s1 S S S S	0	0	0	0	0	0	1	1
+/s S S S S/	s S1 S S S	0	0	0	0	0	0	0	0
+/s S S S S/	s S S1 S S	0	0	0	1	1	1	0	0
+/s S S S S/	s S S S1 S	0	1	1	0	0	0	0	0
+/s S S S S/	s S S S S1	1	0	0	0	0	0	0	0
+/s S S S s/	s1 S S S s	0	0	0	0	0	0	1	1
+/s S S S s/	s S1 S S s	0	0	0	0	0	0	0	0
+/s S S S s/	s S S1 S s	0	0	0	1	0	1	0	0
+/s S S S s/	s S S S1 s	0	1	0	0	0	0	0	0
+/s S S S s/	s S S S s1	1	0	1	0	1	0	0	0
+/s S S s S/	s1 S S s S	0	0	0	0	0	0	1	1
+/s S S s S/	s S1 S s S	0	0	0	0	0	0	0	0
+/s S S s S/	s S S1 s S	0	0	0	1	0	0	0	0
+/s S S s S/	s S S s1 S	0	1	1	0	1	1	0	0
+/s S S s S/	s S S s S1	1	0	0	0	0	0	0	0
+/s S S s s/	s1 S S s s	0	0	0	0	0	0	1	1
+/s S S s s/	s S1 S s s	0	0	0	0	0	0	0	0
+/s S S s s/	s S S1 s s	0	0	0	1	0	0	0	0
+/s S S s s/	s S S s1 s	0	1	1	0	1	1	0	0
+/s S S s s/	s S S s s1	1	0	0	0	0	0	0	0
+/s S s S S/	s1 S s S S	0	0	0	0	0	0	0	0
+/s S s S S/	s S1 s S S	0	0	0	0	0	0	0	0
+/s S s S S/	s S s1 S S	0	0	0	1	1	1	1	1
+/s S s S S/	s S s S1 S	0	1	1	0	0	0	0	0
+/s S s S S/	s S s S S1	1	0	0	0	0	0	0	0
+/s S s S s/	s1 S s S s	0	0	0	0	0	0	0	0
+/s S s S s/	s S1 s S s	0	0	0	0	0	0	0	0
+/s S s S s/	s S s1 S s	0	0	0	1	1	1	1	1
+/s S s S s/	s S s S1 s	0	1	0	0	0	0	0	0
+/s S s S s/	s S s S s1	1	0	1	0	0	0	0	0
+/s S s s S/	s1 S s s S	0	0	0	0	0	0	0	0
+/s S s s S/	s S1 s s S	0	0	0	0	0	0	0	0
+/s S s s S/	s S s1 s S	0	0	0	1	1	1	1	1
+/s S s s S/	s S s s1 S	0	1	1	0	0	0	0	0
+/s S s s S/	s S s s S1	1	0	0	0	0	0	0	0
+/s S s s s/	s1 S s s s	0	0	0	0	0	0	0	0
+/s S s s s/	s S1 s s s	0	0	0	0	0	0	0	0
+/s S s s s/	s S s1 s s	0	0	0	1	1	1	1	1
+/s S s s s/	s S s s1 s	0	1	1	0	0	0	0	0
+/s S s s s/	s S s s s1	1	0	0	0	0	0	0	0
+/s s S S S/	s1 s S S S	0	0	0	0	0	0	0	0
+/s s S S S/	s s1 S S S	0	0	0	0	0	1	1	1
+/s s S S S/	s s S1 S S	0	0	0	1	1	0	0	0
+/s s S S S/	s s S S1 S	0	1	1	0	0	0	0	0
+/s s S S S/	s s S S S1	1	0	0	0	0	0	0	0
+/s s S S s/	s1 s S S s	0	0	0	0	0	0	0	0
+/s s S S s/	s s1 S S s	0	0	0	0	0	1	1	1
+/s s S S s/	s s S1 S s	0	0	0	1	0	0	0	0
+/s s S S s/	s s S S1 s	0	1	0	0	0	0	0	0
+/s s S S s/	s s S S s1	1	0	1	0	1	0	0	0
+/s s S s S/	s1 s S s S	0	0	0	0	0	0	0	0
+/s s S s S/	s s1 S s S	0	0	0	0	0	1	1	1
+/s s S s S/	s s S1 s S	0	0	0	1	0	0	0	0
+/s s S s S/	s s S s1 S	0	1	1	0	1	0	0	0
+/s s S s S/	s s S s S1	1	0	0	0	0	0	0	0
+/s s S s s/	s1 s S s s	0	0	0	0	0	0	0	0
+/s s S s s/	s s1 S s s	0	0	0	0	0	1	1	1
+/s s S s s/	s s S1 s s	0	0	0	1	0	0	0	0
+/s s S s s/	s s S s1 s	0	1	1	0	1	0	0	0
+/s s S s s/	s s S s s1	1	0	0	0	0	0	0	0
+/s s s S S/	s1 s s S S	0	0	0	0	0	0	0	0
+/s s s S S/	s s1 s S S	0	0	0	0	0	0	0	0
+/s s s S S/	s s s1 S S	0	0	0	1	1	1	1	1
+/s s s S S/	s s s S1 S	0	1	1	0	0	0	0	0
+/s s s S S/	s s s S S1	1	0	0	0	0	0	0	0
+/s s s S s/	s1 s s S s	0	0	0	0	0	0	0	0
+/s s s S s/	s s1 s S s	0	0	0	0	0	0	0	0
+/s s s S s/	s s s1 S s	0	0	0	1	1	1	1	1
+/s s s S s/	s s s S1 s	0	1	0	0	0	0	0	0
+/s s s S s/	s s s S s1	1	0	1	0	0	0	0	0
+/s s s s S/	s1 s s s S	0	0	0	0	0	0	0	0
+/s s s s S/	s s1 s s S	0	0	0	0	0	0	0	0
+/s s s s S/	s s s1 s S	0	0	0	1	1	1	1	1
+/s s s s S/	s s s s1 S	0	1	1	0	0	0	0	0
+/s s s s S/	s s s s S1	1	0	0	0	0	0	0	0
+/s s s s s/	s1 s s s s	0	0	0	0	0	0	0	0
+/s s s s s/	s s1 s s s	0	0	0	0	0	0	0	0
+/s s s s s/	s s s1 s s	0	0	0	1	1	1	1	1
+/s s s s s/	s s s s1 s	0	1	1	0	0	0	0	0
+/s s s s s/	s s s s s1	1	0	0	0	0	0	0	0
+/S S S S S S/	S1 S S S S S	0	0	0	0	0	0	0	0
+/S S S S S S/	S S1 S S S S	0	0	0	0	0	0	0	0
+/S S S S S S/	S S S1 S S S	0	0	0	0	0	0	0	0
+/S S S S S S/	S S S S1 S S	0	0	0	1	1	1	1	1
+/S S S S S S/	S S S S S1 S	0	1	1	0	0	0	0	0
+/S S S S S S/	S S S S S S1	1	0	0	0	0	0	0	0
+/S S S S S s/	S1 S S S S s	0	0	0	0	0	0	0	0
+/S S S S S s/	S S1 S S S s	0	0	0	0	0	0	0	0
+/S S S S S s/	S S S1 S S s	0	0	0	0	0	0	0	0
+/S S S S S s/	S S S S1 S s	0	0	0	1	0	1	1	1
+/S S S S S s/	S S S S S1 s	0	1	0	0	0	0	0	0
+/S S S S S s/	S S S S S s1	1	0	1	0	1	0	0	0
+/S S S S s S/	S1 S S S s S	0	0	0	0	0	0	0	0
+/S S S S s S/	S S1 S S s S	0	0	0	0	0	0	0	0
+/S S S S s S/	S S S1 S s S	0	0	0	0	0	0	0	0
+/S S S S s S/	S S S S1 s S	0	0	0	1	0	0	0	0
+/S S S S s S/	S S S S s1 S	0	1	1	0	1	1	1	1
+/S S S S s S/	S S S S s S1	1	0	0	0	0	0	0	0
+/S S S S s s/	S1 S S S s s	0	0	0	0	0	0	0	0
+/S S S S s s/	S S1 S S s s	0	0	0	0	0	0	0	0
+/S S S S s s/	S S S1 S s s	0	0	0	0	0	0	0	0
+/S S S S s s/	S S S S1 s s	0	0	0	1	0	0	0	0
+/S S S S s s/	S S S S s1 s	0	1	1	0	1	1	1	1
+/S S S S s s/	S S S S s s1	1	0	0	0	0	0	0	0
+/S S S s S S/	S1 S S s S S	0	0	0	0	0	0	0	0
+/S S S s S S/	S S1 S s S S	0	0	0	0	0	0	0	0
+/S S S s S S/	S S S1 s S S	0	0	0	0	0	0	0	0
+/S S S s S S/	S S S s1 S S	0	0	0	1	1	1	1	1
+/S S S s S S/	S S S s S1 S	0	1	1	0	0	0	0	0
+/S S S s S S/	S S S s S S1	1	0	0	0	0	0	0	0
+/S S S s S s/	S1 S S s S s	0	0	0	0	0	0	0	0
+/S S S s S s/	S S1 S s S s	0	0	0	0	0	0	0	0
+/S S S s S s/	S S S1 s S s	0	0	0	0	0	0	0	0
+/S S S s S s/	S S S s1 S s	0	0	0	1	1	1	1	1
+/S S S s S s/	S S S s S1 s	0	1	0	0	0	0	0	0
+/S S S s S s/	S S S s S s1	1	0	1	0	0	0	0	0
+/S S S s s S/	S1 S S s s S	0	0	0	0	0	0	0	0
+/S S S s s S/	S S1 S s s S	0	0	0	0	0	0	0	0
+/S S S s s S/	S S S1 s s S	0	0	0	0	0	0	0	0
+/S S S s s S/	S S S s1 s S	0	0	0	1	1	1	1	1
+/S S S s s S/	S S S s s1 S	0	1	1	0	0	0	0	0
+/S S S s s S/	S S S s s S1	1	0	0	0	0	0	0	0
+/S S S s s s/	S1 S S s s s	0	0	0	0	0	0	0	0
+/S S S s s s/	S S1 S s s s	0	0	0	0	0	0	0	0
+/S S S s s s/	S S S1 s s s	0	0	0	0	0	0	0	0
+/S S S s s s/	S S S s1 s s	0	0	0	1	1	1	1	1
+/S S S s s s/	S S S s s1 s	0	1	1	0	0	0	0	0
+/S S S s s s/	S S S s s s1	1	0	0	0	0	0	0	0
+/S S s S S S/	S1 S s S S S	0	0	0	0	0	0	0	0
+/S S s S S S/	S S1 s S S S	0	0	0	0	0	0	0	0
+/S S s S S S/	S S s1 S S S	0	0	0	0	0	1	1	1
+/S S s S S S/	S S s S1 S S	0	0	0	1	1	0	0	0
+/S S s S S S/	S S s S S1 S	0	1	1	0	0	0	0	0
+/S S s S S S/	S S s S S S1	1	0	0	0	0	0	0	0
+/S S s S S s/	S1 S s S S s	0	0	0	0	0	0	0	0
+/S S s S S s/	S S1 s S S s	0	0	0	0	0	0	0	0
+/S S s S S s/	S S s1 S S s	0	0	0	0	0	1	1	1
+/S S s S S s/	S S s S1 S s	0	0	0	1	0	0	0	0
+/S S s S S s/	S S s S S1 s	0	1	0	0	0	0	0	0
+/S S s S S s/	S S s S S s1	1	0	1	0	1	0	0	0
+/S S s S s S/	S1 S s S s S	0	0	0	0	0	0	0	0
+/S S s S s S/	S S1 s S s S	0	0	0	0	0	0	0	0
+/S S s S s S/	S S s1 S s S	0	0	0	0	0	1	1	1
+/S S s S s S/	S S s S1 s S	0	0	0	1	0	0	0	0
+/S S s S s S/	S S s S s1 S	0	1	1	0	1	0	0	0
+/S S s S s S/	S S s S s S1	1	0	0	0	0	0	0	0
+/S S s S s s/	S1 S s S s s	0	0	0	0	0	0	0	0
+/S S s S s s/	S S1 s S s s	0	0	0	0	0	0	0	0
+/S S s S s s/	S S s1 S s s	0	0	0	0	0	1	1	1
+/S S s S s s/	S S s S1 s s	0	0	0	1	0	0	0	0
+/S S s S s s/	S S s S s1 s	0	1	1	0	1	0	0	0
+/S S s S s s/	S S s S s s1	1	0	0	0	0	0	0	0
+/S S s s S S/	S1 S s s S S	0	0	0	0	0	0	0	0
+/S S s s S S/	S S1 s s S S	0	0	0	0	0	0	0	0
+/S S s s S S/	S S s1 s S S	0	0	0	0	0	0	0	0
+/S S s s S S/	S S s s1 S S	0	0	0	1	1	1	1	1
+/S S s s S S/	S S s s S1 S	0	1	1	0	0	0	0	0
+/S S s s S S/	S S s s S S1	1	0	0	0	0	0	0	0
+/S S s s S s/	S1 S s s S s	0	0	0	0	0	0	0	0
+/S S s s S s/	S S1 s s S s	0	0	0	0	0	0	0	0
+/S S s s S s/	S S s1 s S s	0	0	0	0	0	0	0	0
+/S S s s S s/	S S s s1 S s	0	0	0	1	1	1	1	1
+/S S s s S s/	S S s s S1 s	0	1	0	0	0	0	0	0
+/S S s s S s/	S S s s S s1	1	0	1	0	0	0	0	0
+/S S s s s S/	S1 S s s s S	0	0	0	0	0	0	0	0
+/S S s s s S/	S S1 s s s S	0	0	0	0	0	0	0	0
+/S S s s s S/	S S s1 s s S	0	0	0	0	0	0	0	0
+/S S s s s S/	S S s s1 s S	0	0	0	1	1	1	1	1
+/S S s s s S/	S S s s s1 S	0	1	1	0	0	0	0	0
+/S S s s s S/	S S s s s S1	1	0	0	0	0	0	0	0
+/S S s s s s/	S1 S s s s s	0	0	0	0	0	0	0	0
+/S S s s s s/	S S1 s s s s	0	0	0	0	0	0	0	0
+/S S s s s s/	S S s1 s s s	0	0	0	0	0	0	0	0
+/S S s s s s/	S S s s1 s s	0	0	0	1	1	1	1	1
+/S S s s s s/	S S s s s1 s	0	1	1	0	0	0	0	0
+/S S s s s s/	S S s s s s1	1	0	0	0	0	0	0	0
+/S s S S S S/	S1 s S S S S	0	0	0	0	0	0	0	0
+/S s S S S S/	S s1 S S S S	0	0	0	0	0	0	1	1
+/S s S S S S/	S s S1 S S S	0	0	0	0	0	0	0	0
+/S s S S S S/	S s S S1 S S	0	0	0	1	1	1	0	0
+/S s S S S S/	S s S S S1 S	0	1	1	0	0	0	0	0
+/S s S S S S/	S s S S S S1	1	0	0	0	0	0	0	0
+/S s S S S s/	S1 s S S S s	0	0	0	0	0	0	0	0
+/S s S S S s/	S s1 S S S s	0	0	0	0	0	0	1	1
+/S s S S S s/	S s S1 S S s	0	0	0	0	0	0	0	0
+/S s S S S s/	S s S S1 S s	0	0	0	1	0	1	0	0
+/S s S S S s/	S s S S S1 s	0	1	0	0	0	0	0	0
+/S s S S S s/	S s S S S s1	1	0	1	0	1	0	0	0
+/S s S S s S/	S1 s S S s S	0	0	0	0	0	0	0	0
+/S s S S s S/	S s1 S S s S	0	0	0	0	0	0	1	1
+/S s S S s S/	S s S1 S s S	0	0	0	0	0	0	0	0
+/S s S S s S/	S s S S1 s S	0	0	0	1	0	0	0	0
+/S s S S s S/	S s S S s1 S	0	1	1	0	1	1	0	0
+/S s S S s S/	S s S S s S1	1	0	0	0	0	0	0	0
+/S s S S s s/	S1 s S S s s	0	0	0	0	0	0	0	0
+/S s S S s s/	S s1 S S s s	0	0	0	0	0	0	1	1
+/S s S S s s/	S s S1 S s s	0	0	0	0	0	0	0	0
+/S s S S s s/	S s S S1 s s	0	0	0	1	0	0	0	0
+/S s S S s s/	S s S S s1 s	0	1	1	0	1	1	0	0
+/S s S S s s/	S s S S s s1	1	0	0	0	0	0	0	0
+/S s S s S S/	S1 s S s S S	0	0	0	0	0	0	0	0
+/S s S s S S/	S s1 S s S S	0	0	0	0	0	0	0	0
+/S s S s S S/	S s S1 s S S	0	0	0	0	0	0	0	0
+/S s S s S S/	S s S s1 S S	0	0	0	1	1	1	1	1
+/S s S s S S/	S s S s S1 S	0	1	1	0	0	0	0	0
+/S s S s S S/	S s S s S S1	1	0	0	0	0	0	0	0
+/S s S s S s/	S1 s S s S s	0	0	0	0	0	0	0	0
+/S s S s S s/	S s1 S s S s	0	0	0	0	0	0	0	0
+/S s S s S s/	S s S1 s S s	0	0	0	0	0	0	0	0
+/S s S s S s/	S s S s1 S s	0	0	0	1	1	1	1	1
+/S s S s S s/	S s S s S1 s	0	1	0	0	0	0	0	0
+/S s S s S s/	S s S s S s1	1	0	1	0	0	0	0	0
+/S s S s s S/	S1 s S s s S	0	0	0	0	0	0	0	0
+/S s S s s S/	S s1 S s s S	0	0	0	0	0	0	0	0
+/S s S s s S/	S s S1 s s S	0	0	0	0	0	0	0	0
+/S s S s s S/	S s S s1 s S	0	0	0	1	1	1	1	1
+/S s S s s S/	S s S s s1 S	0	1	1	0	0	0	0	0
+/S s S s s S/	S s S s s S1	1	0	0	0	0	0	0	0
+/S s S s s s/	S1 s S s s s	0	0	0	0	0	0	0	0
+/S s S s s s/	S s1 S s s s	0	0	0	0	0	0	0	0
+/S s S s s s/	S s S1 s s s	0	0	0	0	0	0	0	0
+/S s S s s s/	S s S s1 s s	0	0	0	1	1	1	1	1
+/S s S s s s/	S s S s s1 s	0	1	1	0	0	0	0	0
+/S s S s s s/	S s S s s s1	1	0	0	0	0	0	0	0
+/S s s S S S/	S1 s s S S S	0	0	0	0	0	0	0	0
+/S s s S S S/	S s1 s S S S	0	0	0	0	0	0	0	0
+/S s s S S S/	S s s1 S S S	0	0	0	0	0	1	1	1
+/S s s S S S/	S s s S1 S S	0	0	0	1	1	0	0	0
+/S s s S S S/	S s s S S1 S	0	1	1	0	0	0	0	0
+/S s s S S S/	S s s S S S1	1	0	0	0	0	0	0	0
+/S s s S S s/	S1 s s S S s	0	0	0	0	0	0	0	0
+/S s s S S s/	S s1 s S S s	0	0	0	0	0	0	0	0
+/S s s S S s/	S s s1 S S s	0	0	0	0	0	1	1	1
+/S s s S S s/	S s s S1 S s	0	0	0	1	0	0	0	0
+/S s s S S s/	S s s S S1 s	0	1	0	0	0	0	0	0
+/S s s S S s/	S s s S S s1	1	0	1	0	1	0	0	0
+/S s s S s S/	S1 s s S s S	0	0	0	0	0	0	0	0
+/S s s S s S/	S s1 s S s S	0	0	0	0	0	0	0	0
+/S s s S s S/	S s s1 S s S	0	0	0	0	0	1	1	1
+/S s s S s S/	S s s S1 s S	0	0	0	1	0	0	0	0
+/S s s S s S/	S s s S s1 S	0	1	1	0	1	0	0	0
+/S s s S s S/	S s s S s S1	1	0	0	0	0	0	0	0
+/S s s S s s/	S1 s s S s s	0	0	0	0	0	0	0	0
+/S s s S s s/	S s1 s S s s	0	0	0	0	0	0	0	0
+/S s s S s s/	S s s1 S s s	0	0	0	0	0	1	1	1
+/S s s S s s/	S s s S1 s s	0	0	0	1	0	0	0	0
+/S s s S s s/	S s s S s1 s	0	1	1	0	1	0	0	0
+/S s s S s s/	S s s S s s1	1	0	0	0	0	0	0	0
+/S s s s S S/	S1 s s s S S	0	0	0	0	0	0	0	0
+/S s s s S S/	S s1 s s S S	0	0	0	0	0	0	0	0
+/S s s s S S/	S s s1 s S S	0	0	0	0	0	0	0	0
+/S s s s S S/	S s s s1 S S	0	0	0	1	1	1	1	1
+/S s s s S S/	S s s s S1 S	0	1	1	0	0	0	0	0
+/S s s s S S/	S s s s S S1	1	0	0	0	0	0	0	0
+/S s s s S s/	S1 s s s S s	0	0	0	0	0	0	0	0
+/S s s s S s/	S s1 s s S s	0	0	0	0	0	0	0	0
+/S s s s S s/	S s s1 s S s	0	0	0	0	0	0	0	0
+/S s s s S s/	S s s s1 S s	0	0	0	1	1	1	1	1
+/S s s s S s/	S s s s S1 s	0	1	0	0	0	0	0	0
+/S s s s S s/	S s s s S s1	1	0	1	0	0	0	0	0
+/S s s s s S/	S1 s s s s S	0	0	0	0	0	0	0	0
+/S s s s s S/	S s1 s s s S	0	0	0	0	0	0	0	0
+/S s s s s S/	S s s1 s s S	0	0	0	0	0	0	0	0
+/S s s s s S/	S s s s1 s S	0	0	0	1	1	1	1	1
+/S s s s s S/	S s s s s1 S	0	1	1	0	0	0	0	0
+/S s s s s S/	S s s s s S1	1	0	0	0	0	0	0	0
+/S s s s s s/	S1 s s s s s	0	0	0	0	0	0	0	0
+/S s s s s s/	S s1 s s s s	0	0	0	0	0	0	0	0
+/S s s s s s/	S s s1 s s s	0	0	0	0	0	0	0	0
+/S s s s s s/	S s s s1 s s	0	0	0	1	1	1	1	1
+/S s s s s s/	S s s s s1 s	0	1	1	0	0	0	0	0
+/S s s s s s/	S s s s s s1	1	0	0	0	0	0	0	0
+/s S S S S S/	s1 S S S S S	0	0	0	0	0	0	0	1
+/s S S S S S/	s S1 S S S S	0	0	0	0	0	0	0	0
+/s S S S S S/	s S S1 S S S	0	0	0	0	0	0	0	0
+/s S S S S S/	s S S S1 S S	0	0	0	1	1	1	1	0
+/s S S S S S/	s S S S S1 S	0	1	1	0	0	0	0	0
+/s S S S S S/	s S S S S S1	1	0	0	0	0	0	0	0
+/s S S S S s/	s1 S S S S s	0	0	0	0	0	0	0	1
+/s S S S S s/	s S1 S S S s	0	0	0	0	0	0	0	0
+/s S S S S s/	s S S1 S S s	0	0	0	0	0	0	0	0
+/s S S S S s/	s S S S1 S s	0	0	0	1	0	1	1	0
+/s S S S S s/	s S S S S1 s	0	1	0	0	0	0	0	0
+/s S S S S s/	s S S S S s1	1	0	1	0	1	0	0	0
+/s S S S s S/	s1 S S S s S	0	0	0	0	0	0	0	1
+/s S S S s S/	s S1 S S s S	0	0	0	0	0	0	0	0
+/s S S S s S/	s S S1 S s S	0	0	0	0	0	0	0	0
+/s S S S s S/	s S S S1 s S	0	0	0	1	0	0	0	0
+/s S S S s S/	s S S S s1 S	0	1	1	0	1	1	1	0
+/s S S S s S/	s S S S s S1	1	0	0	0	0	0	0	0
+/s S S S s s/	s1 S S S s s	0	0	0	0	0	0	0	1
+/s S S S s s/	s S1 S S s s	0	0	0	0	0	0	0	0
+/s S S S s s/	s S S1 S s s	0	0	0	0	0	0	0	0
+/s S S S s s/	s S S S1 s s	0	0	0	1	0	0	0	0
+/s S S S s s/	s S S S s1 s	0	1	1	0	1	1	1	0
+/s S S S s s/	s S S S s s1	1	0	0	0	0	0	0	0
+/s S S s S S/	s1 S S s S S	0	0	0	0	0	0	0	0
+/s S S s S S/	s S1 S s S S	0	0	0	0	0	0	0	0
+/s S S s S S/	s S S1 s S S	0	0	0	0	0	0	0	0
+/s S S s S S/	s S S s1 S S	0	0	0	1	1	1	1	1
+/s S S s S S/	s S S s S1 S	0	1	1	0	0	0	0	0
+/s S S s S S/	s S S s S S1	1	0	0	0	0	0	0	0
+/s S S s S s/	s1 S S s S s	0	0	0	0	0	0	0	0
+/s S S s S s/	s S1 S s S s	0	0	0	0	0	0	0	0
+/s S S s S s/	s S S1 s S s	0	0	0	0	0	0	0	0
+/s S S s S s/	s S S s1 S s	0	0	0	1	1	1	1	1
+/s S S s S s/	s S S s S1 s	0	1	0	0	0	0	0	0
+/s S S s S s/	s S S s S s1	1	0	1	0	0	0	0	0
+/s S S s s S/	s1 S S s s S	0	0	0	0	0	0	0	0
+/s S S s s S/	s S1 S s s S	0	0	0	0	0	0	0	0
+/s S S s s S/	s S S1 s s S	0	0	0	0	0	0	0	0
+/s S S s s S/	s S S s1 s S	0	0	0	1	1	1	1	1
+/s S S s s S/	s S S s s1 S	0	1	1	0	0	0	0	0
+/s S S s s S/	s S S s s S1	1	0	0	0	0	0	0	0
+/s S S s s s/	s1 S S s s s	0	0	0	0	0	0	0	0
+/s S S s s s/	s S1 S s s s	0	0	0	0	0	0	0	0
+/s S S s s s/	s S S1 s s s	0	0	0	0	0	0	0	0
+/s S S s s s/	s S S s1 s s	0	0	0	1	1	1	1	1
+/s S S s s s/	s S S s s1 s	0	1	1	0	0	0	0	0
+/s S S s s s/	s S S s s s1	1	0	0	0	0	0	0	0
+/s S s S S S/	s1 S s S S S	0	0	0	0	0	0	0	0
+/s S s S S S/	s S1 s S S S	0	0	0	0	0	0	0	0
+/s S s S S S/	s S s1 S S S	0	0	0	0	0	1	1	1
+/s S s S S S/	s S s S1 S S	0	0	0	1	1	0	0	0
+/s S s S S S/	s S s S S1 S	0	1	1	0	0	0	0	0
+/s S s S S S/	s S s S S S1	1	0	0	0	0	0	0	0
+/s S s S S s/	s1 S s S S s	0	0	0	0	0	0	0	0
+/s S s S S s/	s S1 s S S s	0	0	0	0	0	0	0	0
+/s S s S S s/	s S s1 S S s	0	0	0	0	0	1	1	1
+/s S s S S s/	s S s S1 S s	0	0	0	1	0	0	0	0
+/s S s S S s/	s S s S S1 s	0	1	0	0	0	0	0	0
+/s S s S S s/	s S s S S s1	1	0	1	0	1	0	0	0
+/s S s S s S/	s1 S s S s S	0	0	0	0	0	0	0	0
+/s S s S s S/	s S1 s S s S	0	0	0	0	0	0	0	0
+/s S s S s S/	s S s1 S s S	0	0	0	0	0	1	1	1
+/s S s S s S/	s S s S1 s S	0	0	0	1	0	0	0	0
+/s S s S s S/	s S s S s1 S	0	1	1	0	1	0	0	0
+/s S s S s S/	s S s S s S1	1	0	0	0	0	0	0	0
+/s S s S s s/	s1 S s S s s	0	0	0	0	0	0	0	0
+/s S s S s s/	s S1 s S s s	0	0	0	0	0	0	0	0
+/s S s S s s/	s S s1 S s s	0	0	0	0	0	1	1	1
+/s S s S s s/	s S s S1 s s	0	0	0	1	0	0	0	0
+/s S s S s s/	s S s S s1 s	0	1	1	0	1	0	0	0
+/s S s S s s/	s S s S s s1	1	0	0	0	0	0	0	0
+/s S s s S S/	s1 S s s S S	0	0	0	0	0	0	0	0
+/s S s s S S/	s S1 s s S S	0	0	0	0	0	0	0	0
+/s S s s S S/	s S s1 s S S	0	0	0	0	0	0	0	0
+/s S s s S S/	s S s s1 S S	0	0	0	1	1	1	1	1
+/s S s s S S/	s S s s S1 S	0	1	1	0	0	0	0	0
+/s S s s S S/	s S s s S S1	1	0	0	0	0	0	0	0
+/s S s s S s/	s1 S s s S s	0	0	0	0	0	0	0	0
+/s S s s S s/	s S1 s s S s	0	0	0	0	0	0	0	0
+/s S s s S s/	s S s1 s S s	0	0	0	0	0	0	0	0
+/s S s s S s/	s S s s1 S s	0	0	0	1	1	1	1	1
+/s S s s S s/	s S s s S1 s	0	1	0	0	0	0	0	0
+/s S s s S s/	s S s s S s1	1	0	1	0	0	0	0	0
+/s S s s s S/	s1 S s s s S	0	0	0	0	0	0	0	0
+/s S s s s S/	s S1 s s s S	0	0	0	0	0	0	0	0
+/s S s s s S/	s S s1 s s S	0	0	0	0	0	0	0	0
+/s S s s s S/	s S s s1 s S	0	0	0	1	1	1	1	1
+/s S s s s S/	s S s s s1 S	0	1	1	0	0	0	0	0
+/s S s s s S/	s S s s s S1	1	0	0	0	0	0	0	0
+/s S s s s s/	s1 S s s s s	0	0	0	0	0	0	0	0
+/s S s s s s/	s S1 s s s s	0	0	0	0	0	0	0	0
+/s S s s s s/	s S s1 s s s	0	0	0	0	0	0	0	0
+/s S s s s s/	s S s s1 s s	0	0	0	1	1	1	1	1
+/s S s s s s/	s S s s s1 s	0	1	1	0	0	0	0	0
+/s S s s s s/	s S s s s s1	1	0	0	0	0	0	0	0
+/s s S S S S/	s1 s S S S S	0	0	0	0	0	0	0	0
+/s s S S S S/	s s1 S S S S	0	0	0	0	0	0	1	1
+/s s S S S S/	s s S1 S S S	0	0	0	0	0	0	0	0
+/s s S S S S/	s s S S1 S S	0	0	0	1	1	1	0	0
+/s s S S S S/	s s S S S1 S	0	1	1	0	0	0	0	0
+/s s S S S S/	s s S S S S1	1	0	0	0	0	0	0	0
+/s s S S S s/	s1 s S S S s	0	0	0	0	0	0	0	0
+/s s S S S s/	s s1 S S S s	0	0	0	0	0	0	1	1
+/s s S S S s/	s s S1 S S s	0	0	0	0	0	0	0	0
+/s s S S S s/	s s S S1 S s	0	0	0	1	0	1	0	0
+/s s S S S s/	s s S S S1 s	0	1	0	0	0	0	0	0
+/s s S S S s/	s s S S S s1	1	0	1	0	1	0	0	0
+/s s S S s S/	s1 s S S s S	0	0	0	0	0	0	0	0
+/s s S S s S/	s s1 S S s S	0	0	0	0	0	0	1	1
+/s s S S s S/	s s S1 S s S	0	0	0	0	0	0	0	0
+/s s S S s S/	s s S S1 s S	0	0	0	1	0	0	0	0
+/s s S S s S/	s s S S s1 S	0	1	1	0	1	1	0	0
+/s s S S s S/	s s S S s S1	1	0	0	0	0	0	0	0
+/s s S S s s/	s1 s S S s s	0	0	0	0	0	0	0	0
+/s s S S s s/	s s1 S S s s	0	0	0	0	0	0	1	1
+/s s S S s s/	s s S1 S s s	0	0	0	0	0	0	0	0
+/s s S S s s/	s s S S1 s s	0	0	0	1	0	0	0	0
+/s s S S s s/	s s S S s1 s	0	1	1	0	1	1	0	0
+/s s S S s s/	s s S S s s1	1	0	0	0	0	0	0	0
+/s s S s S S/	s1 s S s S S	0	0	0	0	0	0	0	0
+/s s S s S S/	s s1 S s S S	0	0	0	0	0	0	0	0
+/s s S s S S/	s s S1 s S S	0	0	0	0	0	0	0	0
+/s s S s S S/	s s S s1 S S	0	0	0	1	1	1	1	1
+/s s S s S S/	s s S s S1 S	0	1	1	0	0	0	0	0
+/s s S s S S/	s s S s S S1	1	0	0	0	0	0	0	0
+/s s S s S s/	s1 s S s S s	0	0	0	0	0	0	0	0
+/s s S s S s/	s s1 S s S s	0	0	0	0	0	0	0	0
+/s s S s S s/	s s S1 s S s	0	0	0	0	0	0	0	0
+/s s S s S s/	s s S s1 S s	0	0	0	1	1	1	1	1
+/s s S s S s/	s s S s S1 s	0	1	0	0	0	0	0	0
+/s s S s S s/	s s S s S s1	1	0	1	0	0	0	0	0
+/s s S s s S/	s1 s S s s S	0	0	0	0	0	0	0	0
+/s s S s s S/	s s1 S s s S	0	0	0	0	0	0	0	0
+/s s S s s S/	s s S1 s s S	0	0	0	0	0	0	0	0
+/s s S s s S/	s s S s1 s S	0	0	0	1	1	1	1	1
+/s s S s s S/	s s S s s1 S	0	1	1	0	0	0	0	0
+/s s S s s S/	s s S s s S1	1	0	0	0	0	0	0	0
+/s s S s s s/	s1 s S s s s	0	0	0	0	0	0	0	0
+/s s S s s s/	s s1 S s s s	0	0	0	0	0	0	0	0
+/s s S s s s/	s s S1 s s s	0	0	0	0	0	0	0	0
+/s s S s s s/	s s S s1 s s	0	0	0	1	1	1	1	1
+/s s S s s s/	s s S s s1 s	0	1	1	0	0	0	0	0
+/s s S s s s/	s s S s s s1	1	0	0	0	0	0	0	0
+/s s s S S S/	s1 s s S S S	0	0	0	0	0	0	0	0
+/s s s S S S/	s s1 s S S S	0	0	0	0	0	0	0	0
+/s s s S S S/	s s s1 S S S	0	0	0	0	0	1	1	1
+/s s s S S S/	s s s S1 S S	0	0	0	1	1	0	0	0
+/s s s S S S/	s s s S S1 S	0	1	1	0	0	0	0	0
+/s s s S S S/	s s s S S S1	1	0	0	0	0	0	0	0
+/s s s S S s/	s1 s s S S s	0	0	0	0	0	0	0	0
+/s s s S S s/	s s1 s S S s	0	0	0	0	0	0	0	0
+/s s s S S s/	s s s1 S S s	0	0	0	0	0	1	1	1
+/s s s S S s/	s s s S1 S s	0	0	0	1	0	0	0	0
+/s s s S S s/	s s s S S1 s	0	1	0	0	0	0	0	0
+/s s s S S s/	s s s S S s1	1	0	1	0	1	0	0	0
+/s s s S s S/	s1 s s S s S	0	0	0	0	0	0	0	0
+/s s s S s S/	s s1 s S s S	0	0	0	0	0	0	0	0
+/s s s S s S/	s s s1 S s S	0	0	0	0	0	1	1	1
+/s s s S s S/	s s s S1 s S	0	0	0	1	0	0	0	0
+/s s s S s S/	s s s S s1 S	0	1	1	0	1	0	0	0
+/s s s S s S/	s s s S s S1	1	0	0	0	0	0	0	0
+/s s s S s s/	s1 s s S s s	0	0	0	0	0	0	0	0
+/s s s S s s/	s s1 s S s s	0	0	0	0	0	0	0	0
+/s s s S s s/	s s s1 S s s	0	0	0	0	0	1	1	1
+/s s s S s s/	s s s S1 s s	0	0	0	1	0	0	0	0
+/s s s S s s/	s s s S s1 s	0	1	1	0	1	0	0	0
+/s s s S s s/	s s s S s s1	1	0	0	0	0	0	0	0
+/s s s s S S/	s1 s s s S S	0	0	0	0	0	0	0	0
+/s s s s S S/	s s1 s s S S	0	0	0	0	0	0	0	0
+/s s s s S S/	s s s1 s S S	0	0	0	0	0	0	0	0
+/s s s s S S/	s s s s1 S S	0	0	0	1	1	1	1	1
+/s s s s S S/	s s s s S1 S	0	1	1	0	0	0	0	0
+/s s s s S S/	s s s s S S1	1	0	0	0	0	0	0	0
+/s s s s S s/	s1 s s s S s	0	0	0	0	0	0	0	0
+/s s s s S s/	s s1 s s S s	0	0	0	0	0	0	0	0
+/s s s s S s/	s s s1 s S s	0	0	0	0	0	0	0	0
+/s s s s S s/	s s s s1 S s	0	0	0	1	1	1	1	1
+/s s s s S s/	s s s s S1 s	0	1	0	0	0	0	0	0
+/s s s s S s/	s s s s S s1	1	0	1	0	0	0	0	0
+/s s s s s S/	s1 s s s s S	0	0	0	0	0	0	0	0
+/s s s s s S/	s s1 s s s S	0	0	0	0	0	0	0	0
+/s s s s s S/	s s s1 s s S	0	0	0	0	0	0	0	0
+/s s s s s S/	s s s s1 s S	0	0	0	1	1	1	1	1
+/s s s s s S/	s s s s s1 S	0	1	1	0	0	0	0	0
+/s s s s s S/	s s s s s S1	1	0	0	0	0	0	0	0
+/s s s s s s/	s1 s s s s s	0	0	0	0	0	0	0	0
+/s s s s s s/	s s1 s s s s	0	0	0	0	0	0	0	0
+/s s s s s s/	s s s1 s s s	0	0	0	0	0	0	0	0
+/s s s s s s/	s s s s1 s s	0	0	0	1	1	1	1	1
+/s s s s s s/	s s s s s1 s	0	1	1	0	0	0	0	0
+/s s s s s s/	s s s s s s1	1	0	0	0	0	0	0	0
+/S S S S S S S/	S1 S S S S S S	0	0	0	0	0	0	0	0
+/S S S S S S S/	S S1 S S S S S	0	0	0	0	0	0	0	0
+/S S S S S S S/	S S S1 S S S S	0	0	0	0	0	0	0	0
+/S S S S S S S/	S S S S1 S S S	0	0	0	0	0	0	0	0
+/S S S S S S S/	S S S S S1 S S	0	0	0	1	1	1	1	1
+/S S S S S S S/	S S S S S S1 S	0	1	1	0	0	0	0	0
+/S S S S S S S/	S S S S S S S1	1	0	0	0	0	0	0	0
+/S S S S S S s/	S1 S S S S S s	0	0	0	0	0	0	0	0
+/S S S S S S s/	S S1 S S S S s	0	0	0	0	0	0	0	0
+/S S S S S S s/	S S S1 S S S s	0	0	0	0	0	0	0	0
+/S S S S S S s/	S S S S1 S S s	0	0	0	0	0	0	0	0
+/S S S S S S s/	S S S S S1 S s	0	0	0	1	0	1	1	1
+/S S S S S S s/	S S S S S S1 s	0	1	0	0	0	0	0	0
+/S S S S S S s/	S S S S S S s1	1	0	1	0	1	0	0	0
+/S S S S S s S/	S1 S S S S s S	0	0	0	0	0	0	0	0
+/S S S S S s S/	S S1 S S S s S	0	0	0	0	0	0	0	0
+/S S S S S s S/	S S S1 S S s S	0	0	0	0	0	0	0	0
+/S S S S S s S/	S S S S1 S s S	0	0	0	0	0	0	0	0
+/S S S S S s S/	S S S S S1 s S	0	0	0	1	0	0	0	0
+/S S S S S s S/	S S S S S s1 S	0	1	1	0	1	1	1	1
+/S S S S S s S/	S S S S S s S1	1	0	0	0	0	0	0	0
+/S S S S S s s/	S1 S S S S s s	0	0	0	0	0	0	0	0
+/S S S S S s s/	S S1 S S S s s	0	0	0	0	0	0	0	0
+/S S S S S s s/	S S S1 S S s s	0	0	0	0	0	0	0	0
+/S S S S S s s/	S S S S1 S s s	0	0	0	0	0	0	0	0
+/S S S S S s s/	S S S S S1 s s	0	0	0	1	0	0	0	0
+/S S S S S s s/	S S S S S s1 s	0	1	1	0	1	1	1	1
+/S S S S S s s/	S S S S S s s1	1	0	0	0	0	0	0	0
+/S S S S s S S/	S1 S S S s S S	0	0	0	0	0	0	0	0
+/S S S S s S S/	S S1 S S s S S	0	0	0	0	0	0	0	0
+/S S S S s S S/	S S S1 S s S S	0	0	0	0	0	0	0	0
+/S S S S s S S/	S S S S1 s S S	0	0	0	0	0	0	0	0
+/S S S S s S S/	S S S S s1 S S	0	0	0	1	1	1	1	1
+/S S S S s S S/	S S S S s S1 S	0	1	1	0	0	0	0	0
+/S S S S s S S/	S S S S s S S1	1	0	0	0	0	0	0	0
+/S S S S s S s/	S1 S S S s S s	0	0	0	0	0	0	0	0
+/S S S S s S s/	S S1 S S s S s	0	0	0	0	0	0	0	0
+/S S S S s S s/	S S S1 S s S s	0	0	0	0	0	0	0	0
+/S S S S s S s/	S S S S1 s S s	0	0	0	0	0	0	0	0
+/S S S S s S s/	S S S S s1 S s	0	0	0	1	1	1	1	1
+/S S S S s S s/	S S S S s S1 s	0	1	0	0	0	0	0	0
+/S S S S s S s/	S S S S s S s1	1	0	1	0	0	0	0	0
+/S S S S s s S/	S1 S S S s s S	0	0	0	0	0	0	0	0
+/S S S S s s S/	S S1 S S s s S	0	0	0	0	0	0	0	0
+/S S S S s s S/	S S S1 S s s S	0	0	0	0	0	0	0	0
+/S S S S s s S/	S S S S1 s s S	0	0	0	0	0	0	0	0
+/S S S S s s S/	S S S S s1 s S	0	0	0	1	1	1	1	1
+/S S S S s s S/	S S S S s s1 S	0	1	1	0	0	0	0	0
+/S S S S s s S/	S S S S s s S1	1	0	0	0	0	0	0	0
+/S S S S s s s/	S1 S S S s s s	0	0	0	0	0	0	0	0
+/S S S S s s s/	S S1 S S s s s	0	0	0	0	0	0	0	0
+/S S S S s s s/	S S S1 S s s s	0	0	0	0	0	0	0	0
+/S S S S s s s/	S S S S1 s s s	0	0	0	0	0	0	0	0
+/S S S S s s s/	S S S S s1 s s	0	0	0	1	1	1	1	1
+/S S S S s s s/	S S S S s s1 s	0	1	1	0	0	0	0	0
+/S S S S s s s/	S S S S s s s1	1	0	0	0	0	0	0	0
+/S S S s S S S/	S1 S S s S S S	0	0	0	0	0	0	0	0
+/S S S s S S S/	S S1 S s S S S	0	0	0	0	0	0	0	0
+/S S S s S S S/	S S S1 s S S S	0	0	0	0	0	0	0	0
+/S S S s S S S/	S S S s1 S S S	0	0	0	0	0	1	1	1
+/S S S s S S S/	S S S s S1 S S	0	0	0	1	1	0	0	0
+/S S S s S S S/	S S S s S S1 S	0	1	1	0	0	0	0	0
+/S S S s S S S/	S S S s S S S1	1	0	0	0	0	0	0	0
+/S S S s S S s/	S1 S S s S S s	0	0	0	0	0	0	0	0
+/S S S s S S s/	S S1 S s S S s	0	0	0	0	0	0	0	0
+/S S S s S S s/	S S S1 s S S s	0	0	0	0	0	0	0	0
+/S S S s S S s/	S S S s1 S S s	0	0	0	0	0	1	1	1
+/S S S s S S s/	S S S s S1 S s	0	0	0	1	0	0	0	0
+/S S S s S S s/	S S S s S S1 s	0	1	0	0	0	0	0	0
+/S S S s S S s/	S S S s S S s1	1	0	1	0	1	0	0	0
+/S S S s S s S/	S1 S S s S s S	0	0	0	0	0	0	0	0
+/S S S s S s S/	S S1 S s S s S	0	0	0	0	0	0	0	0
+/S S S s S s S/	S S S1 s S s S	0	0	0	0	0	0	0	0
+/S S S s S s S/	S S S s1 S s S	0	0	0	0	0	1	1	1
+/S S S s S s S/	S S S s S1 s S	0	0	0	1	0	0	0	0
+/S S S s S s S/	S S S s S s1 S	0	1	1	0	1	0	0	0
+/S S S s S s S/	S S S s S s S1	1	0	0	0	0	0	0	0
+/S S S s S s s/	S1 S S s S s s	0	0	0	0	0	0	0	0
+/S S S s S s s/	S S1 S s S s s	0	0	0	0	0	0	0	0
+/S S S s S s s/	S S S1 s S s s	0	0	0	0	0	0	0	0
+/S S S s S s s/	S S S s1 S s s	0	0	0	0	0	1	1	1
+/S S S s S s s/	S S S s S1 s s	0	0	0	1	0	0	0	0
+/S S S s S s s/	S S S s S s1 s	0	1	1	0	1	0	0	0
+/S S S s S s s/	S S S s S s s1	1	0	0	0	0	0	0	0
+/S S S s s S S/	S1 S S s s S S	0	0	0	0	0	0	0	0
+/S S S s s S S/	S S1 S s s S S	0	0	0	0	0	0	0	0
+/S S S s s S S/	S S S1 s s S S	0	0	0	0	0	0	0	0
+/S S S s s S S/	S S S s1 s S S	0	0	0	0	0	0	0	0
+/S S S s s S S/	S S S s s1 S S	0	0	0	1	1	1	1	1
+/S S S s s S S/	S S S s s S1 S	0	1	1	0	0	0	0	0
+/S S S s s S S/	S S S s s S S1	1	0	0	0	0	0	0	0
+/S S S s s S s/	S1 S S s s S s	0	0	0	0	0	0	0	0
+/S S S s s S s/	S S1 S s s S s	0	0	0	0	0	0	0	0
+/S S S s s S s/	S S S1 s s S s	0	0	0	0	0	0	0	0
+/S S S s s S s/	S S S s1 s S s	0	0	0	0	0	0	0	0
+/S S S s s S s/	S S S s s1 S s	0	0	0	1	1	1	1	1
+/S S S s s S s/	S S S s s S1 s	0	1	0	0	0	0	0	0
+/S S S s s S s/	S S S s s S s1	1	0	1	0	0	0	0	0
+/S S S s s s S/	S1 S S s s s S	0	0	0	0	0	0	0	0
+/S S S s s s S/	S S1 S s s s S	0	0	0	0	0	0	0	0
+/S S S s s s S/	S S S1 s s s S	0	0	0	0	0	0	0	0
+/S S S s s s S/	S S S s1 s s S	0	0	0	0	0	0	0	0
+/S S S s s s S/	S S S s s1 s S	0	0	0	1	1	1	1	1
+/S S S s s s S/	S S S s s s1 S	0	1	1	0	0	0	0	0
+/S S S s s s S/	S S S s s s S1	1	0	0	0	0	0	0	0
+/S S S s s s s/	S1 S S s s s s	0	0	0	0	0	0	0	0
+/S S S s s s s/	S S1 S s s s s	0	0	0	0	0	0	0	0
+/S S S s s s s/	S S S1 s s s s	0	0	0	0	0	0	0	0
+/S S S s s s s/	S S S s1 s s s	0	0	0	0	0	0	0	0
+/S S S s s s s/	S S S s s1 s s	0	0	0	1	1	1	1	1
+/S S S s s s s/	S S S s s s1 s	0	1	1	0	0	0	0	0
+/S S S s s s s/	S S S s s s s1	1	0	0	0	0	0	0	0
+/S S s S S S S/	S1 S s S S S S	0	0	0	0	0	0	0	0
+/S S s S S S S/	S S1 s S S S S	0	0	0	0	0	0	0	0
+/S S s S S S S/	S S s1 S S S S	0	0	0	0	0	0	1	1
+/S S s S S S S/	S S s S1 S S S	0	0	0	0	0	0	0	0
+/S S s S S S S/	S S s S S1 S S	0	0	0	1	1	1	0	0
+/S S s S S S S/	S S s S S S1 S	0	1	1	0	0	0	0	0
+/S S s S S S S/	S S s S S S S1	1	0	0	0	0	0	0	0
+/S S s S S S s/	S1 S s S S S s	0	0	0	0	0	0	0	0
+/S S s S S S s/	S S1 s S S S s	0	0	0	0	0	0	0	0
+/S S s S S S s/	S S s1 S S S s	0	0	0	0	0	0	1	1
+/S S s S S S s/	S S s S1 S S s	0	0	0	0	0	0	0	0
+/S S s S S S s/	S S s S S1 S s	0	0	0	1	0	1	0	0
+/S S s S S S s/	S S s S S S1 s	0	1	0	0	0	0	0	0
+/S S s S S S s/	S S s S S S s1	1	0	1	0	1	0	0	0
+/S S s S S s S/	S1 S s S S s S	0	0	0	0	0	0	0	0
+/S S s S S s S/	S S1 s S S s S	0	0	0	0	0	0	0	0
+/S S s S S s S/	S S s1 S S s S	0	0	0	0	0	0	1	1
+/S S s S S s S/	S S s S1 S s S	0	0	0	0	0	0	0	0
+/S S s S S s S/	S S s S S1 s S	0	0	0	1	0	0	0	0
+/S S s S S s S/	S S s S S s1 S	0	1	1	0	1	1	0	0
+/S S s S S s S/	S S s S S s S1	1	0	0	0	0	0	0	0
+/S S s S S s s/	S1 S s S S s s	0	0	0	0	0	0	0	0
+/S S s S S s s/	S S1 s S S s s	0	0	0	0	0	0	0	0
+/S S s S S s s/	S S s1 S S s s	0	0	0	0	0	0	1	1
+/S S s S S s s/	S S s S1 S s s	0	0	0	0	0	0	0	0
+/S S s S S s s/	S S s S S1 s s	0	0	0	1	0	0	0	0
+/S S s S S s s/	S S s S S s1 s	0	1	1	0	1	1	0	0
+/S S s S S s s/	S S s S S s s1	1	0	0	0	0	0	0	0
+/S S s S s S S/	S1 S s S s S S	0	0	0	0	0	0	0	0
+/S S s S s S S/	S S1 s S s S S	0	0	0	0	0	0	0	0
+/S S s S s S S/	S S s1 S s S S	0	0	0	0	0	0	0	0
+/S S s S s S S/	S S s S1 s S S	0	0	0	0	0	0	0	0
+/S S s S s S S/	S S s S s1 S S	0	0	0	1	1	1	1	1
+/S S s S s S S/	S S s S s S1 S	0	1	1	0	0	0	0	0
+/S S s S s S S/	S S s S s S S1	1	0	0	0	0	0	0	0
+/S S s S s S s/	S1 S s S s S s	0	0	0	0	0	0	0	0
+/S S s S s S s/	S S1 s S s S s	0	0	0	0	0	0	0	0
+/S S s S s S s/	S S s1 S s S s	0	0	0	0	0	0	0	0
+/S S s S s S s/	S S s S1 s S s	0	0	0	0	0	0	0	0
+/S S s S s S s/	S S s S s1 S s	0	0	0	1	1	1	1	1
+/S S s S s S s/	S S s S s S1 s	0	1	0	0	0	0	0	0
+/S S s S s S s/	S S s S s S s1	1	0	1	0	0	0	0	0
+/S S s S s s S/	S1 S s S s s S	0	0	0	0	0	0	0	0
+/S S s S s s S/	S S1 s S s s S	0	0	0	0	0	0	0	0
+/S S s S s s S/	S S s1 S s s S	0	0	0	0	0	0	0	0
+/S S s S s s S/	S S s S1 s s S	0	0	0	0	0	0	0	0
+/S S s S s s S/	S S s S s1 s S	0	0	0	1	1	1	1	1
+/S S s S s s S/	S S s S s s1 S	0	1	1	0	0	0	0	0
+/S S s S s s S/	S S s S s s S1	1	0	0	0	0	0	0	0
+/S S s S s s s/	S1 S s S s s s	0	0	0	0	0	0	0	0
+/S S s S s s s/	S S1 s S s s s	0	0	0	0	0	0	0	0
+/S S s S s s s/	S S s1 S s s s	0	0	0	0	0	0	0	0
+/S S s S s s s/	S S s S1 s s s	0	0	0	0	0	0	0	0
+/S S s S s s s/	S S s S s1 s s	0	0	0	1	1	1	1	1
+/S S s S s s s/	S S s S s s1 s	0	1	1	0	0	0	0	0
+/S S s S s s s/	S S s S s s s1	1	0	0	0	0	0	0	0
+/S S s s S S S/	S1 S s s S S S	0	0	0	0	0	0	0	0
+/S S s s S S S/	S S1 s s S S S	0	0	0	0	0	0	0	0
+/S S s s S S S/	S S s1 s S S S	0	0	0	0	0	0	0	0
+/S S s s S S S/	S S s s1 S S S	0	0	0	0	0	1	1	1
+/S S s s S S S/	S S s s S1 S S	0	0	0	1	1	0	0	0
+/S S s s S S S/	S S s s S S1 S	0	1	1	0	0	0	0	0
+/S S s s S S S/	S S s s S S S1	1	0	0	0	0	0	0	0
+/S S s s S S s/	S1 S s s S S s	0	0	0	0	0	0	0	0
+/S S s s S S s/	S S1 s s S S s	0	0	0	0	0	0	0	0
+/S S s s S S s/	S S s1 s S S s	0	0	0	0	0	0	0	0
+/S S s s S S s/	S S s s1 S S s	0	0	0	0	0	1	1	1
+/S S s s S S s/	S S s s S1 S s	0	0	0	1	0	0	0	0
+/S S s s S S s/	S S s s S S1 s	0	1	0	0	0	0	0	0
+/S S s s S S s/	S S s s S S s1	1	0	1	0	1	0	0	0
+/S S s s S s S/	S1 S s s S s S	0	0	0	0	0	0	0	0
+/S S s s S s S/	S S1 s s S s S	0	0	0	0	0	0	0	0
+/S S s s S s S/	S S s1 s S s S	0	0	0	0	0	0	0	0
+/S S s s S s S/	S S s s1 S s S	0	0	0	0	0	1	1	1
+/S S s s S s S/	S S s s S1 s S	0	0	0	1	0	0	0	0
+/S S s s S s S/	S S s s S s1 S	0	1	1	0	1	0	0	0
+/S S s s S s S/	S S s s S s S1	1	0	0	0	0	0	0	0
+/S S s s S s s/	S1 S s s S s s	0	0	0	0	0	0	0	0
+/S S s s S s s/	S S1 s s S s s	0	0	0	0	0	0	0	0
+/S S s s S s s/	S S s1 s S s s	0	0	0	0	0	0	0	0
+/S S s s S s s/	S S s s1 S s s	0	0	0	0	0	1	1	1
+/S S s s S s s/	S S s s S1 s s	0	0	0	1	0	0	0	0
+/S S s s S s s/	S S s s S s1 s	0	1	1	0	1	0	0	0
+/S S s s S s s/	S S s s S s s1	1	0	0	0	0	0	0	0
+/S S s s s S S/	S1 S s s s S S	0	0	0	0	0	0	0	0
+/S S s s s S S/	S S1 s s s S S	0	0	0	0	0	0	0	0
+/S S s s s S S/	S S s1 s s S S	0	0	0	0	0	0	0	0
+/S S s s s S S/	S S s s1 s S S	0	0	0	0	0	0	0	0
+/S S s s s S S/	S S s s s1 S S	0	0	0	1	1	1	1	1
+/S S s s s S S/	S S s s s S1 S	0	1	1	0	0	0	0	0
+/S S s s s S S/	S S s s s S S1	1	0	0	0	0	0	0	0
+/S S s s s S s/	S1 S s s s S s	0	0	0	0	0	0	0	0
+/S S s s s S s/	S S1 s s s S s	0	0	0	0	0	0	0	0
+/S S s s s S s/	S S s1 s s S s	0	0	0	0	0	0	0	0
+/S S s s s S s/	S S s s1 s S s	0	0	0	0	0	0	0	0
+/S S s s s S s/	S S s s s1 S s	0	0	0	1	1	1	1	1
+/S S s s s S s/	S S s s s S1 s	0	1	0	0	0	0	0	0
+/S S s s s S s/	S S s s s S s1	1	0	1	0	0	0	0	0
+/S S s s s s S/	S1 S s s s s S	0	0	0	0	0	0	0	0
+/S S s s s s S/	S S1 s s s s S	0	0	0	0	0	0	0	0
+/S S s s s s S/	S S s1 s s s S	0	0	0	0	0	0	0	0
+/S S s s s s S/	S S s s1 s s S	0	0	0	0	0	0	0	0
+/S S s s s s S/	S S s s s1 s S	0	0	0	1	1	1	1	1
+/S S s s s s S/	S S s s s s1 S	0	1	1	0	0	0	0	0
+/S S s s s s S/	S S s s s s S1	1	0	0	0	0	0	0	0
+/S S s s s s s/	S1 S s s s s s	0	0	0	0	0	0	0	0
+/S S s s s s s/	S S1 s s s s s	0	0	0	0	0	0	0	0
+/S S s s s s s/	S S s1 s s s s	0	0	0	0	0	0	0	0
+/S S s s s s s/	S S s s1 s s s	0	0	0	0	0	0	0	0
+/S S s s s s s/	S S s s s1 s s	0	0	0	1	1	1	1	1
+/S S s s s s s/	S S s s s s1 s	0	1	1	0	0	0	0	0
+/S S s s s s s/	S S s s s s s1	1	0	0	0	0	0	0	0
+/S s S S S S S/	S1 s S S S S S	0	0	0	0	0	0	0	0
+/S s S S S S S/	S s1 S S S S S	0	0	0	0	0	0	0	1
+/S s S S S S S/	S s S1 S S S S	0	0	0	0	0	0	0	0
+/S s S S S S S/	S s S S1 S S S	0	0	0	0	0	0	0	0
+/S s S S S S S/	S s S S S1 S S	0	0	0	1	1	1	1	0
+/S s S S S S S/	S s S S S S1 S	0	1	1	0	0	0	0	0
+/S s S S S S S/	S s S S S S S1	1	0	0	0	0	0	0	0
+/S s S S S S s/	S1 s S S S S s	0	0	0	0	0	0	0	0
+/S s S S S S s/	S s1 S S S S s	0	0	0	0	0	0	0	1
+/S s S S S S s/	S s S1 S S S s	0	0	0	0	0	0	0	0
+/S s S S S S s/	S s S S1 S S s	0	0	0	0	0	0	0	0
+/S s S S S S s/	S s S S S1 S s	0	0	0	1	0	1	1	0
+/S s S S S S s/	S s S S S S1 s	0	1	0	0	0	0	0	0
+/S s S S S S s/	S s S S S S s1	1	0	1	0	1	0	0	0
+/S s S S S s S/	S1 s S S S s S	0	0	0	0	0	0	0	0
+/S s S S S s S/	S s1 S S S s S	0	0	0	0	0	0	0	1
+/S s S S S s S/	S s S1 S S s S	0	0	0	0	0	0	0	0
+/S s S S S s S/	S s S S1 S s S	0	0	0	0	0	0	0	0
+/S s S S S s S/	S s S S S1 s S	0	0	0	1	0	0	0	0
+/S s S S S s S/	S s S S S s1 S	0	1	1	0	1	1	1	0
+/S s S S S s S/	S s S S S s S1	1	0	0	0	0	0	0	0
+/S s S S S s s/	S1 s S S S s s	0	0	0	0	0	0	0	0
+/S s S S S s s/	S s1 S S S s s	0	0	0	0	0	0	0	1
+/S s S S S s s/	S s S1 S S s s	0	0	0	0	0	0	0	0
+/S s S S S s s/	S s S S1 S s s	0	0	0	0	0	0	0	0
+/S s S S S s s/	S s S S S1 s s	0	0	0	1	0	0	0	0
+/S s S S S s s/	S s S S S s1 s	0	1	1	0	1	1	1	0
+/S s S S S s s/	S s S S S s s1	1	0	0	0	0	0	0	0
+/S s S S s S S/	S1 s S S s S S	0	0	0	0	0	0	0	0
+/S s S S s S S/	S s1 S S s S S	0	0	0	0	0	0	0	0
+/S s S S s S S/	S s S1 S s S S	0	0	0	0	0	0	0	0
+/S s S S s S S/	S s S S1 s S S	0	0	0	0	0	0	0	0
+/S s S S s S S/	S s S S s1 S S	0	0	0	1	1	1	1	1
+/S s S S s S S/	S s S S s S1 S	0	1	1	0	0	0	0	0
+/S s S S s S S/	S s S S s S S1	1	0	0	0	0	0	0	0
+/S s S S s S s/	S1 s S S s S s	0	0	0	0	0	0	0	0
+/S s S S s S s/	S s1 S S s S s	0	0	0	0	0	0	0	0
+/S s S S s S s/	S s S1 S s S s	0	0	0	0	0	0	0	0
+/S s S S s S s/	S s S S1 s S s	0	0	0	0	0	0	0	0
+/S s S S s S s/	S s S S s1 S s	0	0	0	1	1	1	1	1
+/S s S S s S s/	S s S S s S1 s	0	1	0	0	0	0	0	0
+/S s S S s S s/	S s S S s S s1	1	0	1	0	0	0	0	0
+/S s S S s s S/	S1 s S S s s S	0	0	0	0	0	0	0	0
+/S s S S s s S/	S s1 S S s s S	0	0	0	0	0	0	0	0
+/S s S S s s S/	S s S1 S s s S	0	0	0	0	0	0	0	0
+/S s S S s s S/	S s S S1 s s S	0	0	0	0	0	0	0	0
+/S s S S s s S/	S s S S s1 s S	0	0	0	1	1	1	1	1
+/S s S S s s S/	S s S S s s1 S	0	1	1	0	0	0	0	0
+/S s S S s s S/	S s S S s s S1	1	0	0	0	0	0	0	0
+/S s S S s s s/	S1 s S S s s s	0	0	0	0	0	0	0	0
+/S s S S s s s/	S s1 S S s s s	0	0	0	0	0	0	0	0
+/S s S S s s s/	S s S1 S s s s	0	0	0	0	0	0	0	0
+/S s S S s s s/	S s S S1 s s s	0	0	0	0	0	0	0	0
+/S s S S s s s/	S s S S s1 s s	0	0	0	1	1	1	1	1
+/S s S S s s s/	S s S S s s1 s	0	1	1	0	0	0	0	0
+/S s S S s s s/	S s S S s s s1	1	0	0	0	0	0	0	0
+/S s S s S S S/	S1 s S s S S S	0	0	0	0	0	0	0	0
+/S s S s S S S/	S s1 S s S S S	0	0	0	0	0	0	0	0
+/S s S s S S S/	S s S1 s S S S	0	0	0	0	0	0	0	0
+/S s S s S S S/	S s S s1 S S S	0	0	0	0	0	1	1	1
+/S s S s S S S/	S s S s S1 S S	0	0	0	1	1	0	0	0
+/S s S s S S S/	S s S s S S1 S	0	1	1	0	0	0	0	0
+/S s S s S S S/	S s S s S S S1	1	0	0	0	0	0	0	0
+/S s S s S S s/	S1 s S s S S s	0	0	0	0	0	0	0	0
+/S s S s S S s/	S s1 S s S S s	0	0	0	0	0	0	0	0
+/S s S s S S s/	S s S1 s S S s	0	0	0	0	0	0	0	0
+/S s S s S S s/	S s S s1 S S s	0	0	0	0	0	1	1	1
+/S s S s S S s/	S s S s S1 S s	0	0	0	1	0	0	0	0
+/S s S s S S s/	S s S s S S1 s	0	1	0	0	0	0	0	0
+/S s S s S S s/	S s S s S S s1	1	0	1	0	1	0	0	0
+/S s S s S s S/	S1 s S s S s S	0	0	0	0	0	0	0	0
+/S s S s S s S/	S s1 S s S s S	0	0	0	0	0	0	0	0
+/S s S s S s S/	S s S1 s S s S	0	0	0	0	0	0	0	0
+/S s S s S s S/	S s S s1 S s S	0	0	0	0	0	1	1	1
+/S s S s S s S/	S s S s S1 s S	0	0	0	1	0	0	0	0
+/S s S s S s S/	S s S s S s1 S	0	1	1	0	1	0	0	0
+/S s S s S s S/	S s S s S s S1	1	0	0	0	0	0	0	0
+/S s S s S s s/	S1 s S s S s s	0	0	0	0	0	0	0	0
+/S s S s S s s/	S s1 S s S s s	0	0	0	0	0	0	0	0
+/S s S s S s s/	S s S1 s S s s	0	0	0	0	0	0	0	0
+/S s S s S s s/	S s S s1 S s s	0	0	0	0	0	1	1	1
+/S s S s S s s/	S s S s S1 s s	0	0	0	1	0	0	0	0
+/S s S s S s s/	S s S s S s1 s	0	1	1	0	1	0	0	0
+/S s S s S s s/	S s S s S s s1	1	0	0	0	0	0	0	0
+/S s S s s S S/	S1 s S s s S S	0	0	0	0	0	0	0	0
+/S s S s s S S/	S s1 S s s S S	0	0	0	0	0	0	0	0
+/S s S s s S S/	S s S1 s s S S	0	0	0	0	0	0	0	0
+/S s S s s S S/	S s S s1 s S S	0	0	0	0	0	0	0	0
+/S s S s s S S/	S s S s s1 S S	0	0	0	1	1	1	1	1
+/S s S s s S S/	S s S s s S1 S	0	1	1	0	0	0	0	0
+/S s S s s S S/	S s S s s S S1	1	0	0	0	0	0	0	0
+/S s S s s S s/	S1 s S s s S s	0	0	0	0	0	0	0	0
+/S s S s s S s/	S s1 S s s S s	0	0	0	0	0	0	0	0
+/S s S s s S s/	S s S1 s s S s	0	0	0	0	0	0	0	0
+/S s S s s S s/	S s S s1 s S s	0	0	0	0	0	0	0	0
+/S s S s s S s/	S s S s s1 S s	0	0	0	1	1	1	1	1
+/S s S s s S s/	S s S s s S1 s	0	1	0	0	0	0	0	0
+/S s S s s S s/	S s S s s S s1	1	0	1	0	0	0	0	0
+/S s S s s s S/	S1 s S s s s S	0	0	0	0	0	0	0	0
+/S s S s s s S/	S s1 S s s s S	0	0	0	0	0	0	0	0
+/S s S s s s S/	S s S1 s s s S	0	0	0	0	0	0	0	0
+/S s S s s s S/	S s S s1 s s S	0	0	0	0	0	0	0	0
+/S s S s s s S/	S s S s s1 s S	0	0	0	1	1	1	1	1
+/S s S s s s S/	S s S s s s1 S	0	1	1	0	0	0	0	0
+/S s S s s s S/	S s S s s s S1	1	0	0	0	0	0	0	0
+/S s S s s s s/	S1 s S s s s s	0	0	0	0	0	0	0	0
+/S s S s s s s/	S s1 S s s s s	0	0	0	0	0	0	0	0
+/S s S s s s s/	S s S1 s s s s	0	0	0	0	0	0	0	0
+/S s S s s s s/	S s S s1 s s s	0	0	0	0	0	0	0	0
+/S s S s s s s/	S s S s s1 s s	0	0	0	1	1	1	1	1
+/S s S s s s s/	S s S s s s1 s	0	1	1	0	0	0	0	0
+/S s S s s s s/	S s S s s s s1	1	0	0	0	0	0	0	0
+/S s s S S S S/	S1 s s S S S S	0	0	0	0	0	0	0	0
+/S s s S S S S/	S s1 s S S S S	0	0	0	0	0	0	0	0
+/S s s S S S S/	S s s1 S S S S	0	0	0	0	0	0	1	1
+/S s s S S S S/	S s s S1 S S S	0	0	0	0	0	0	0	0
+/S s s S S S S/	S s s S S1 S S	0	0	0	1	1	1	0	0
+/S s s S S S S/	S s s S S S1 S	0	1	1	0	0	0	0	0
+/S s s S S S S/	S s s S S S S1	1	0	0	0	0	0	0	0
+/S s s S S S s/	S1 s s S S S s	0	0	0	0	0	0	0	0
+/S s s S S S s/	S s1 s S S S s	0	0	0	0	0	0	0	0
+/S s s S S S s/	S s s1 S S S s	0	0	0	0	0	0	1	1
+/S s s S S S s/	S s s S1 S S s	0	0	0	0	0	0	0	0
+/S s s S S S s/	S s s S S1 S s	0	0	0	1	0	1	0	0
+/S s s S S S s/	S s s S S S1 s	0	1	0	0	0	0	0	0
+/S s s S S S s/	S s s S S S s1	1	0	1	0	1	0	0	0
+/S s s S S s S/	S1 s s S S s S	0	0	0	0	0	0	0	0
+/S s s S S s S/	S s1 s S S s S	0	0	0	0	0	0	0	0
+/S s s S S s S/	S s s1 S S s S	0	0	0	0	0	0	1	1
+/S s s S S s S/	S s s S1 S s S	0	0	0	0	0	0	0	0
+/S s s S S s S/	S s s S S1 s S	0	0	0	1	0	0	0	0
+/S s s S S s S/	S s s S S s1 S	0	1	1	0	1	1	0	0
+/S s s S S s S/	S s s S S s S1	1	0	0	0	0	0	0	0
+/S s s S S s s/	S1 s s S S s s	0	0	0	0	0	0	0	0
+/S s s S S s s/	S s1 s S S s s	0	0	0	0	0	0	0	0
+/S s s S S s s/	S s s1 S S s s	0	0	0	0	0	0	1	1
+/S s s S S s s/	S s s S1 S s s	0	0	0	0	0	0	0	0
+/S s s S S s s/	S s s S S1 s s	0	0	0	1	0	0	0	0
+/S s s S S s s/	S s s S S s1 s	0	1	1	0	1	1	0	0
+/S s s S S s s/	S s s S S s s1	1	0	0	0	0	0	0	0
+/S s s S s S S/	S1 s s S s S S	0	0	0	0	0	0	0	0
+/S s s S s S S/	S s1 s S s S S	0	0	0	0	0	0	0	0
+/S s s S s S S/	S s s1 S s S S	0	0	0	0	0	0	0	0
+/S s s S s S S/	S s s S1 s S S	0	0	0	0	0	0	0	0
+/S s s S s S S/	S s s S s1 S S	0	0	0	1	1	1	1	1
+/S s s S s S S/	S s s S s S1 S	0	1	1	0	0	0	0	0
+/S s s S s S S/	S s s S s S S1	1	0	0	0	0	0	0	0
+/S s s S s S s/	S1 s s S s S s	0	0	0	0	0	0	0	0
+/S s s S s S s/	S s1 s S s S s	0	0	0	0	0	0	0	0
+/S s s S s S s/	S s s1 S s S s	0	0	0	0	0	0	0	0
+/S s s S s S s/	S s s S1 s S s	0	0	0	0	0	0	0	0
+/S s s S s S s/	S s s S s1 S s	0	0	0	1	1	1	1	1
+/S s s S s S s/	S s s S s S1 s	0	1	0	0	0	0	0	0
+/S s s S s S s/	S s s S s S s1	1	0	1	0	0	0	0	0
+/S s s S s s S/	S1 s s S s s S	0	0	0	0	0	0	0	0
+/S s s S s s S/	S s1 s S s s S	0	0	0	0	0	0	0	0
+/S s s S s s S/	S s s1 S s s S	0	0	0	0	0	0	0	0
+/S s s S s s S/	S s s S1 s s S	0	0	0	0	0	0	0	0
+/S s s S s s S/	S s s S s1 s S	0	0	0	1	1	1	1	1
+/S s s S s s S/	S s s S s s1 S	0	1	1	0	0	0	0	0
+/S s s S s s S/	S s s S s s S1	1	0	0	0	0	0	0	0
+/S s s S s s s/	S1 s s S s s s	0	0	0	0	0	0	0	0
+/S s s S s s s/	S s1 s S s s s	0	0	0	0	0	0	0	0
+/S s s S s s s/	S s s1 S s s s	0	0	0	0	0	0	0	0
+/S s s S s s s/	S s s S1 s s s	0	0	0	0	0	0	0	0
+/S s s S s s s/	S s s S s1 s s	0	0	0	1	1	1	1	1
+/S s s S s s s/	S s s S s s1 s	0	1	1	0	0	0	0	0
+/S s s S s s s/	S s s S s s s1	1	0	0	0	0	0	0	0
+/S s s s S S S/	S1 s s s S S S	0	0	0	0	0	0	0	0
+/S s s s S S S/	S s1 s s S S S	0	0	0	0	0	0	0	0
+/S s s s S S S/	S s s1 s S S S	0	0	0	0	0	0	0	0
+/S s s s S S S/	S s s s1 S S S	0	0	0	0	0	1	1	1
+/S s s s S S S/	S s s s S1 S S	0	0	0	1	1	0	0	0
+/S s s s S S S/	S s s s S S1 S	0	1	1	0	0	0	0	0
+/S s s s S S S/	S s s s S S S1	1	0	0	0	0	0	0	0
+/S s s s S S s/	S1 s s s S S s	0	0	0	0	0	0	0	0
+/S s s s S S s/	S s1 s s S S s	0	0	0	0	0	0	0	0
+/S s s s S S s/	S s s1 s S S s	0	0	0	0	0	0	0	0
+/S s s s S S s/	S s s s1 S S s	0	0	0	0	0	1	1	1
+/S s s s S S s/	S s s s S1 S s	0	0	0	1	0	0	0	0
+/S s s s S S s/	S s s s S S1 s	0	1	0	0	0	0	0	0
+/S s s s S S s/	S s s s S S s1	1	0	1	0	1	0	0	0
+/S s s s S s S/	S1 s s s S s S	0	0	0	0	0	0	0	0
+/S s s s S s S/	S s1 s s S s S	0	0	0	0	0	0	0	0
+/S s s s S s S/	S s s1 s S s S	0	0	0	0	0	0	0	0
+/S s s s S s S/	S s s s1 S s S	0	0	0	0	0	1	1	1
+/S s s s S s S/	S s s s S1 s S	0	0	0	1	0	0	0	0
+/S s s s S s S/	S s s s S s1 S	0	1	1	0	1	0	0	0
+/S s s s S s S/	S s s s S s S1	1	0	0	0	0	0	0	0
+/S s s s S s s/	S1 s s s S s s	0	0	0	0	0	0	0	0
+/S s s s S s s/	S s1 s s S s s	0	0	0	0	0	0	0	0
+/S s s s S s s/	S s s1 s S s s	0	0	0	0	0	0	0	0
+/S s s s S s s/	S s s s1 S s s	0	0	0	0	0	1	1	1
+/S s s s S s s/	S s s s S1 s s	0	0	0	1	0	0	0	0
+/S s s s S s s/	S s s s S s1 s	0	1	1	0	1	0	0	0
+/S s s s S s s/	S s s s S s s1	1	0	0	0	0	0	0	0
+/S s s s s S S/	S1 s s s s S S	0	0	0	0	0	0	0	0
+/S s s s s S S/	S s1 s s s S S	0	0	0	0	0	0	0	0
+/S s s s s S S/	S s s1 s s S S	0	0	0	0	0	0	0	0
+/S s s s s S S/	S s s s1 s S S	0	0	0	0	0	0	0	0
+/S s s s s S S/	S s s s s1 S S	0	0	0	1	1	1	1	1
+/S s s s s S S/	S s s s s S1 S	0	1	1	0	0	0	0	0
+/S s s s s S S/	S s s s s S S1	1	0	0	0	0	0	0	0
+/S s s s s S s/	S1 s s s s S s	0	0	0	0	0	0	0	0
+/S s s s s S s/	S s1 s s s S s	0	0	0	0	0	0	0	0
+/S s s s s S s/	S s s1 s s S s	0	0	0	0	0	0	0	0
+/S s s s s S s/	S s s s1 s S s	0	0	0	0	0	0	0	0
+/S s s s s S s/	S s s s s1 S s	0	0	0	1	1	1	1	1
+/S s s s s S s/	S s s s s S1 s	0	1	0	0	0	0	0	0
+/S s s s s S s/	S s s s s S s1	1	0	1	0	0	0	0	0
+/S s s s s s S/	S1 s s s s s S	0	0	0	0	0	0	0	0
+/S s s s s s S/	S s1 s s s s S	0	0	0	0	0	0	0	0
+/S s s s s s S/	S s s1 s s s S	0	0	0	0	0	0	0	0
+/S s s s s s S/	S s s s1 s s S	0	0	0	0	0	0	0	0
+/S s s s s s S/	S s s s s1 s S	0	0	0	1	1	1	1	1
+/S s s s s s S/	S s s s s s1 S	0	1	1	0	0	0	0	0
+/S s s s s s S/	S s s s s s S1	1	0	0	0	0	0	0	0
+/S s s s s s s/	S1 s s s s s s	0	0	0	0	0	0	0	0
+/S s s s s s s/	S s1 s s s s s	0	0	0	0	0	0	0	0
+/S s s s s s s/	S s s1 s s s s	0	0	0	0	0	0	0	0
+/S s s s s s s/	S s s s1 s s s	0	0	0	0	0	0	0	0
+/S s s s s s s/	S s s s s1 s s	0	0	0	1	1	1	1	1
+/S s s s s s s/	S s s s s s1 s	0	1	1	0	0	0	0	0
+/S s s s s s s/	S s s s s s s1	1	0	0	0	0	0	0	0
+/s S S S S S S/	s1 S S S S S S	0	0	0	0	0	0	0	0
+/s S S S S S S/	s S1 S S S S S	0	0	0	0	0	0	0	0
+/s S S S S S S/	s S S1 S S S S	0	0	0	0	0	0	0	0
+/s S S S S S S/	s S S S1 S S S	0	0	0	0	0	0	0	0
+/s S S S S S S/	s S S S S1 S S	0	0	0	1	1	1	1	1
+/s S S S S S S/	s S S S S S1 S	0	1	1	0	0	0	0	0
+/s S S S S S S/	s S S S S S S1	1	0	0	0	0	0	0	0
+/s S S S S S s/	s1 S S S S S s	0	0	0	0	0	0	0	0
+/s S S S S S s/	s S1 S S S S s	0	0	0	0	0	0	0	0
+/s S S S S S s/	s S S1 S S S s	0	0	0	0	0	0	0	0
+/s S S S S S s/	s S S S1 S S s	0	0	0	0	0	0	0	0
+/s S S S S S s/	s S S S S1 S s	0	0	0	1	0	1	1	1
+/s S S S S S s/	s S S S S S1 s	0	1	0	0	0	0	0	0
+/s S S S S S s/	s S S S S S s1	1	0	1	0	1	0	0	0
+/s S S S S s S/	s1 S S S S s S	0	0	0	0	0	0	0	0
+/s S S S S s S/	s S1 S S S s S	0	0	0	0	0	0	0	0
+/s S S S S s S/	s S S1 S S s S	0	0	0	0	0	0	0	0
+/s S S S S s S/	s S S S1 S s S	0	0	0	0	0	0	0	0
+/s S S S S s S/	s S S S S1 s S	0	0	0	1	0	0	0	0
+/s S S S S s S/	s S S S S s1 S	0	1	1	0	1	1	1	1
+/s S S S S s S/	s S S S S s S1	1	0	0	0	0	0	0	0
+/s S S S S s s/	s1 S S S S s s	0	0	0	0	0	0	0	0
+/s S S S S s s/	s S1 S S S s s	0	0	0	0	0	0	0	0
+/s S S S S s s/	s S S1 S S s s	0	0	0	0	0	0	0	0
+/s S S S S s s/	s S S S1 S s s	0	0	0	0	0	0	0	0
+/s S S S S s s/	s S S S S1 s s	0	0	0	1	0	0	0	0
+/s S S S S s s/	s S S S S s1 s	0	1	1	0	1	1	1	1
+/s S S S S s s/	s S S S S s s1	1	0	0	0	0	0	0	0
+/s S S S s S S/	s1 S S S s S S	0	0	0	0	0	0	0	0
+/s S S S s S S/	s S1 S S s S S	0	0	0	0	0	0	0	0
+/s S S S s S S/	s S S1 S s S S	0	0	0	0	0	0	0	0
+/s S S S s S S/	s S S S1 s S S	0	0	0	0	0	0	0	0
+/s S S S s S S/	s S S S s1 S S	0	0	0	1	1	1	1	1
+/s S S S s S S/	s S S S s S1 S	0	1	1	0	0	0	0	0
+/s S S S s S S/	s S S S s S S1	1	0	0	0	0	0	0	0
+/s S S S s S s/	s1 S S S s S s	0	0	0	0	0	0	0	0
+/s S S S s S s/	s S1 S S s S s	0	0	0	0	0	0	0	0
+/s S S S s S s/	s S S1 S s S s	0	0	0	0	0	0	0	0
+/s S S S s S s/	s S S S1 s S s	0	0	0	0	0	0	0	0
+/s S S S s S s/	s S S S s1 S s	0	0	0	1	1	1	1	1
+/s S S S s S s/	s S S S s S1 s	0	1	0	0	0	0	0	0
+/s S S S s S s/	s S S S s S s1	1	0	1	0	0	0	0	0
+/s S S S s s S/	s1 S S S s s S	0	0	0	0	0	0	0	0
+/s S S S s s S/	s S1 S S s s S	0	0	0	0	0	0	0	0
+/s S S S s s S/	s S S1 S s s S	0	0	0	0	0	0	0	0
+/s S S S s s S/	s S S S1 s s S	0	0	0	0	0	0	0	0
+/s S S S s s S/	s S S S s1 s S	0	0	0	1	1	1	1	1
+/s S S S s s S/	s S S S s s1 S	0	1	1	0	0	0	0	0
+/s S S S s s S/	s S S S s s S1	1	0	0	0	0	0	0	0
+/s S S S s s s/	s1 S S S s s s	0	0	0	0	0	0	0	0
+/s S S S s s s/	s S1 S S s s s	0	0	0	0	0	0	0	0
+/s S S S s s s/	s S S1 S s s s	0	0	0	0	0	0	0	0
+/s S S S s s s/	s S S S1 s s s	0	0	0	0	0	0	0	0
+/s S S S s s s/	s S S S s1 s s	0	0	0	1	1	1	1	1
+/s S S S s s s/	s S S S s s1 s	0	1	1	0	0	0	0	0
+/s S S S s s s/	s S S S s s s1	1	0	0	0	0	0	0	0
+/s S S s S S S/	s1 S S s S S S	0	0	0	0	0	0	0	0
+/s S S s S S S/	s S1 S s S S S	0	0	0	0	0	0	0	0
+/s S S s S S S/	s S S1 s S S S	0	0	0	0	0	0	0	0
+/s S S s S S S/	s S S s1 S S S	0	0	0	0	0	1	1	1
+/s S S s S S S/	s S S s S1 S S	0	0	0	1	1	0	0	0
+/s S S s S S S/	s S S s S S1 S	0	1	1	0	0	0	0	0
+/s S S s S S S/	s S S s S S S1	1	0	0	0	0	0	0	0
+/s S S s S S s/	s1 S S s S S s	0	0	0	0	0	0	0	0
+/s S S s S S s/	s S1 S s S S s	0	0	0	0	0	0	0	0
+/s S S s S S s/	s S S1 s S S s	0	0	0	0	0	0	0	0
+/s S S s S S s/	s S S s1 S S s	0	0	0	0	0	1	1	1
+/s S S s S S s/	s S S s S1 S s	0	0	0	1	0	0	0	0
+/s S S s S S s/	s S S s S S1 s	0	1	0	0	0	0	0	0
+/s S S s S S s/	s S S s S S s1	1	0	1	0	1	0	0	0
+/s S S s S s S/	s1 S S s S s S	0	0	0	0	0	0	0	0
+/s S S s S s S/	s S1 S s S s S	0	0	0	0	0	0	0	0
+/s S S s S s S/	s S S1 s S s S	0	0	0	0	0	0	0	0
+/s S S s S s S/	s S S s1 S s S	0	0	0	0	0	1	1	1
+/s S S s S s S/	s S S s S1 s S	0	0	0	1	0	0	0	0
+/s S S s S s S/	s S S s S s1 S	0	1	1	0	1	0	0	0
+/s S S s S s S/	s S S s S s S1	1	0	0	0	0	0	0	0
+/s S S s S s s/	s1 S S s S s s	0	0	0	0	0	0	0	0
+/s S S s S s s/	s S1 S s S s s	0	0	0	0	0	0	0	0
+/s S S s S s s/	s S S1 s S s s	0	0	0	0	0	0	0	0
+/s S S s S s s/	s S S s1 S s s	0	0	0	0	0	1	1	1
+/s S S s S s s/	s S S s S1 s s	0	0	0	1	0	0	0	0
+/s S S s S s s/	s S S s S s1 s	0	1	1	0	1	0	0	0
+/s S S s S s s/	s S S s S s s1	1	0	0	0	0	0	0	0
+/s S S s s S S/	s1 S S s s S S	0	0	0	0	0	0	0	0
+/s S S s s S S/	s S1 S s s S S	0	0	0	0	0	0	0	0
+/s S S s s S S/	s S S1 s s S S	0	0	0	0	0	0	0	0
+/s S S s s S S/	s S S s1 s S S	0	0	0	0	0	0	0	0
+/s S S s s S S/	s S S s s1 S S	0	0	0	1	1	1	1	1
+/s S S s s S S/	s S S s s S1 S	0	1	1	0	0	0	0	0
+/s S S s s S S/	s S S s s S S1	1	0	0	0	0	0	0	0
+/s S S s s S s/	s1 S S s s S s	0	0	0	0	0	0	0	0
+/s S S s s S s/	s S1 S s s S s	0	0	0	0	0	0	0	0
+/s S S s s S s/	s S S1 s s S s	0	0	0	0	0	0	0	0
+/s S S s s S s/	s S S s1 s S s	0	0	0	0	0	0	0	0
+/s S S s s S s/	s S S s s1 S s	0	0	0	1	1	1	1	1
+/s S S s s S s/	s S S s s S1 s	0	1	0	0	0	0	0	0
+/s S S s s S s/	s S S s s S s1	1	0	1	0	0	0	0	0
+/s S S s s s S/	s1 S S s s s S	0	0	0	0	0	0	0	0
+/s S S s s s S/	s S1 S s s s S	0	0	0	0	0	0	0	0
+/s S S s s s S/	s S S1 s s s S	0	0	0	0	0	0	0	0
+/s S S s s s S/	s S S s1 s s S	0	0	0	0	0	0	0	0
+/s S S s s s S/	s S S s s1 s S	0	0	0	1	1	1	1	1
+/s S S s s s S/	s S S s s s1 S	0	1	1	0	0	0	0	0
+/s S S s s s S/	s S S s s s S1	1	0	0	0	0	0	0	0
+/s S S s s s s/	s1 S S s s s s	0	0	0	0	0	0	0	0
+/s S S s s s s/	s S1 S s s s s	0	0	0	0	0	0	0	0
+/s S S s s s s/	s S S1 s s s s	0	0	0	0	0	0	0	0
+/s S S s s s s/	s S S s1 s s s	0	0	0	0	0	0	0	0
+/s S S s s s s/	s S S s s1 s s	0	0	0	1	1	1	1	1
+/s S S s s s s/	s S S s s s1 s	0	1	1	0	0	0	0	0
+/s S S s s s s/	s S S s s s s1	1	0	0	0	0	0	0	0
+/s S s S S S S/	s1 S s S S S S	0	0	0	0	0	0	0	0
+/s S s S S S S/	s S1 s S S S S	0	0	0	0	0	0	0	0
+/s S s S S S S/	s S s1 S S S S	0	0	0	0	0	0	1	1
+/s S s S S S S/	s S s S1 S S S	0	0	0	0	0	0	0	0
+/s S s S S S S/	s S s S S1 S S	0	0	0	1	1	1	0	0
+/s S s S S S S/	s S s S S S1 S	0	1	1	0	0	0	0	0
+/s S s S S S S/	s S s S S S S1	1	0	0	0	0	0	0	0
+/s S s S S S s/	s1 S s S S S s	0	0	0	0	0	0	0	0
+/s S s S S S s/	s S1 s S S S s	0	0	0	0	0	0	0	0
+/s S s S S S s/	s S s1 S S S s	0	0	0	0	0	0	1	1
+/s S s S S S s/	s S s S1 S S s	0	0	0	0	0	0	0	0
+/s S s S S S s/	s S s S S1 S s	0	0	0	1	0	1	0	0
+/s S s S S S s/	s S s S S S1 s	0	1	0	0	0	0	0	0
+/s S s S S S s/	s S s S S S s1	1	0	1	0	1	0	0	0
+/s S s S S s S/	s1 S s S S s S	0	0	0	0	0	0	0	0
+/s S s S S s S/	s S1 s S S s S	0	0	0	0	0	0	0	0
+/s S s S S s S/	s S s1 S S s S	0	0	0	0	0	0	1	1
+/s S s S S s S/	s S s S1 S s S	0	0	0	0	0	0	0	0
+/s S s S S s S/	s S s S S1 s S	0	0	0	1	0	0	0	0
+/s S s S S s S/	s S s S S s1 S	0	1	1	0	1	1	0	0
+/s S s S S s S/	s S s S S s S1	1	0	0	0	0	0	0	0
+/s S s S S s s/	s1 S s S S s s	0	0	0	0	0	0	0	0
+/s S s S S s s/	s S1 s S S s s	0	0	0	0	0	0	0	0
+/s S s S S s s/	s S s1 S S s s	0	0	0	0	0	0	1	1
+/s S s S S s s/	s S s S1 S s s	0	0	0	0	0	0	0	0
+/s S s S S s s/	s S s S S1 s s	0	0	0	1	0	0	0	0
+/s S s S S s s/	s S s S S s1 s	0	1	1	0	1	1	0	0
+/s S s S S s s/	s S s S S s s1	1	0	0	0	0	0	0	0
+/s S s S s S S/	s1 S s S s S S	0	0	0	0	0	0	0	0
+/s S s S s S S/	s S1 s S s S S	0	0	0	0	0	0	0	0
+/s S s S s S S/	s S s1 S s S S	0	0	0	0	0	0	0	0
+/s S s S s S S/	s S s S1 s S S	0	0	0	0	0	0	0	0
+/s S s S s S S/	s S s S s1 S S	0	0	0	1	1	1	1	1
+/s S s S s S S/	s S s S s S1 S	0	1	1	0	0	0	0	0
+/s S s S s S S/	s S s S s S S1	1	0	0	0	0	0	0	0
+/s S s S s S s/	s1 S s S s S s	0	0	0	0	0	0	0	0
+/s S s S s S s/	s S1 s S s S s	0	0	0	0	0	0	0	0
+/s S s S s S s/	s S s1 S s S s	0	0	0	0	0	0	0	0
+/s S s S s S s/	s S s S1 s S s	0	0	0	0	0	0	0	0
+/s S s S s S s/	s S s S s1 S s	0	0	0	1	1	1	1	1
+/s S s S s S s/	s S s S s S1 s	0	1	0	0	0	0	0	0
+/s S s S s S s/	s S s S s S s1	1	0	1	0	0	0	0	0
+/s S s S s s S/	s1 S s S s s S	0	0	0	0	0	0	0	0
+/s S s S s s S/	s S1 s S s s S	0	0	0	0	0	0	0	0
+/s S s S s s S/	s S s1 S s s S	0	0	0	0	0	0	0	0
+/s S s S s s S/	s S s S1 s s S	0	0	0	0	0	0	0	0
+/s S s S s s S/	s S s S s1 s S	0	0	0	1	1	1	1	1
+/s S s S s s S/	s S s S s s1 S	0	1	1	0	0	0	0	0
+/s S s S s s S/	s S s S s s S1	1	0	0	0	0	0	0	0
+/s S s S s s s/	s1 S s S s s s	0	0	0	0	0	0	0	0
+/s S s S s s s/	s S1 s S s s s	0	0	0	0	0	0	0	0
+/s S s S s s s/	s S s1 S s s s	0	0	0	0	0	0	0	0
+/s S s S s s s/	s S s S1 s s s	0	0	0	0	0	0	0	0
+/s S s S s s s/	s S s S s1 s s	0	0	0	1	1	1	1	1
+/s S s S s s s/	s S s S s s1 s	0	1	1	0	0	0	0	0
+/s S s S s s s/	s S s S s s s1	1	0	0	0	0	0	0	0
+/s S s s S S S/	s1 S s s S S S	0	0	0	0	0	0	0	0
+/s S s s S S S/	s S1 s s S S S	0	0	0	0	0	0	0	0
+/s S s s S S S/	s S s1 s S S S	0	0	0	0	0	0	0	0
+/s S s s S S S/	s S s s1 S S S	0	0	0	0	0	1	1	1
+/s S s s S S S/	s S s s S1 S S	0	0	0	1	1	0	0	0
+/s S s s S S S/	s S s s S S1 S	0	1	1	0	0	0	0	0
+/s S s s S S S/	s S s s S S S1	1	0	0	0	0	0	0	0
+/s S s s S S s/	s1 S s s S S s	0	0	0	0	0	0	0	0
+/s S s s S S s/	s S1 s s S S s	0	0	0	0	0	0	0	0
+/s S s s S S s/	s S s1 s S S s	0	0	0	0	0	0	0	0
+/s S s s S S s/	s S s s1 S S s	0	0	0	0	0	1	1	1
+/s S s s S S s/	s S s s S1 S s	0	0	0	1	0	0	0	0
+/s S s s S S s/	s S s s S S1 s	0	1	0	0	0	0	0	0
+/s S s s S S s/	s S s s S S s1	1	0	1	0	1	0	0	0
+/s S s s S s S/	s1 S s s S s S	0	0	0	0	0	0	0	0
+/s S s s S s S/	s S1 s s S s S	0	0	0	0	0	0	0	0
+/s S s s S s S/	s S s1 s S s S	0	0	0	0	0	0	0	0
+/s S s s S s S/	s S s s1 S s S	0	0	0	0	0	1	1	1
+/s S s s S s S/	s S s s S1 s S	0	0	0	1	0	0	0	0
+/s S s s S s S/	s S s s S s1 S	0	1	1	0	1	0	0	0
+/s S s s S s S/	s S s s S s S1	1	0	0	0	0	0	0	0
+/s S s s S s s/	s1 S s s S s s	0	0	0	0	0	0	0	0
+/s S s s S s s/	s S1 s s S s s	0	0	0	0	0	0	0	0
+/s S s s S s s/	s S s1 s S s s	0	0	0	0	0	0	0	0
+/s S s s S s s/	s S s s1 S s s	0	0	0	0	0	1	1	1
+/s S s s S s s/	s S s s S1 s s	0	0	0	1	0	0	0	0
+/s S s s S s s/	s S s s S s1 s	0	1	1	0	1	0	0	0
+/s S s s S s s/	s S s s S s s1	1	0	0	0	0	0	0	0
+/s S s s s S S/	s1 S s s s S S	0	0	0	0	0	0	0	0
+/s S s s s S S/	s S1 s s s S S	0	0	0	0	0	0	0	0
+/s S s s s S S/	s S s1 s s S S	0	0	0	0	0	0	0	0
+/s S s s s S S/	s S s s1 s S S	0	0	0	0	0	0	0	0
+/s S s s s S S/	s S s s s1 S S	0	0	0	1	1	1	1	1
+/s S s s s S S/	s S s s s S1 S	0	1	1	0	0	0	0	0
+/s S s s s S S/	s S s s s S S1	1	0	0	0	0	0	0	0
+/s S s s s S s/	s1 S s s s S s	0	0	0	0	0	0	0	0
+/s S s s s S s/	s S1 s s s S s	0	0	0	0	0	0	0	0
+/s S s s s S s/	s S s1 s s S s	0	0	0	0	0	0	0	0
+/s S s s s S s/	s S s s1 s S s	0	0	0	0	0	0	0	0
+/s S s s s S s/	s S s s s1 S s	0	0	0	1	1	1	1	1
+/s S s s s S s/	s S s s s S1 s	0	1	0	0	0	0	0	0
+/s S s s s S s/	s S s s s S s1	1	0	1	0	0	0	0	0
+/s S s s s s S/	s1 S s s s s S	0	0	0	0	0	0	0	0
+/s S s s s s S/	s S1 s s s s S	0	0	0	0	0	0	0	0
+/s S s s s s S/	s S s1 s s s S	0	0	0	0	0	0	0	0
+/s S s s s s S/	s S s s1 s s S	0	0	0	0	0	0	0	0
+/s S s s s s S/	s S s s s1 s S	0	0	0	1	1	1	1	1
+/s S s s s s S/	s S s s s s1 S	0	1	1	0	0	0	0	0
+/s S s s s s S/	s S s s s s S1	1	0	0	0	0	0	0	0
+/s S s s s s s/	s1 S s s s s s	0	0	0	0	0	0	0	0
+/s S s s s s s/	s S1 s s s s s	0	0	0	0	0	0	0	0
+/s S s s s s s/	s S s1 s s s s	0	0	0	0	0	0	0	0
+/s S s s s s s/	s S s s1 s s s	0	0	0	0	0	0	0	0
+/s S s s s s s/	s S s s s1 s s	0	0	0	1	1	1	1	1
+/s S s s s s s/	s S s s s s1 s	0	1	1	0	0	0	0	0
+/s S s s s s s/	s S s s s s s1	1	0	0	0	0	0	0	0
+/s s S S S S S/	s1 s S S S S S	0	0	0	0	0	0	0	0
+/s s S S S S S/	s s1 S S S S S	0	0	0	0	0	0	0	1
+/s s S S S S S/	s s S1 S S S S	0	0	0	0	0	0	0	0
+/s s S S S S S/	s s S S1 S S S	0	0	0	0	0	0	0	0
+/s s S S S S S/	s s S S S1 S S	0	0	0	1	1	1	1	0
+/s s S S S S S/	s s S S S S1 S	0	1	1	0	0	0	0	0
+/s s S S S S S/	s s S S S S S1	1	0	0	0	0	0	0	0
+/s s S S S S s/	s1 s S S S S s	0	0	0	0	0	0	0	0
+/s s S S S S s/	s s1 S S S S s	0	0	0	0	0	0	0	1
+/s s S S S S s/	s s S1 S S S s	0	0	0	0	0	0	0	0
+/s s S S S S s/	s s S S1 S S s	0	0	0	0	0	0	0	0
+/s s S S S S s/	s s S S S1 S s	0	0	0	1	0	1	1	0
+/s s S S S S s/	s s S S S S1 s	0	1	0	0	0	0	0	0
+/s s S S S S s/	s s S S S S s1	1	0	1	0	1	0	0	0
+/s s S S S s S/	s1 s S S S s S	0	0	0	0	0	0	0	0
+/s s S S S s S/	s s1 S S S s S	0	0	0	0	0	0	0	1
+/s s S S S s S/	s s S1 S S s S	0	0	0	0	0	0	0	0
+/s s S S S s S/	s s S S1 S s S	0	0	0	0	0	0	0	0
+/s s S S S s S/	s s S S S1 s S	0	0	0	1	0	0	0	0
+/s s S S S s S/	s s S S S s1 S	0	1	1	0	1	1	1	0
+/s s S S S s S/	s s S S S s S1	1	0	0	0	0	0	0	0
+/s s S S S s s/	s1 s S S S s s	0	0	0	0	0	0	0	0
+/s s S S S s s/	s s1 S S S s s	0	0	0	0	0	0	0	1
+/s s S S S s s/	s s S1 S S s s	0	0	0	0	0	0	0	0
+/s s S S S s s/	s s S S1 S s s	0	0	0	0	0	0	0	0
+/s s S S S s s/	s s S S S1 s s	0	0	0	1	0	0	0	0
+/s s S S S s s/	s s S S S s1 s	0	1	1	0	1	1	1	0
+/s s S S S s s/	s s S S S s s1	1	0	0	0	0	0	0	0
+/s s S S s S S/	s1 s S S s S S	0	0	0	0	0	0	0	0
+/s s S S s S S/	s s1 S S s S S	0	0	0	0	0	0	0	0
+/s s S S s S S/	s s S1 S s S S	0	0	0	0	0	0	0	0
+/s s S S s S S/	s s S S1 s S S	0	0	0	0	0	0	0	0
+/s s S S s S S/	s s S S s1 S S	0	0	0	1	1	1	1	1
+/s s S S s S S/	s s S S s S1 S	0	1	1	0	0	0	0	0
+/s s S S s S S/	s s S S s S S1	1	0	0	0	0	0	0	0
+/s s S S s S s/	s1 s S S s S s	0	0	0	0	0	0	0	0
+/s s S S s S s/	s s1 S S s S s	0	0	0	0	0	0	0	0
+/s s S S s S s/	s s S1 S s S s	0	0	0	0	0	0	0	0
+/s s S S s S s/	s s S S1 s S s	0	0	0	0	0	0	0	0
+/s s S S s S s/	s s S S s1 S s	0	0	0	1	1	1	1	1
+/s s S S s S s/	s s S S s S1 s	0	1	0	0	0	0	0	0
+/s s S S s S s/	s s S S s S s1	1	0	1	0	0	0	0	0
+/s s S S s s S/	s1 s S S s s S	0	0	0	0	0	0	0	0
+/s s S S s s S/	s s1 S S s s S	0	0	0	0	0	0	0	0
+/s s S S s s S/	s s S1 S s s S	0	0	0	0	0	0	0	0
+/s s S S s s S/	s s S S1 s s S	0	0	0	0	0	0	0	0
+/s s S S s s S/	s s S S s1 s S	0	0	0	1	1	1	1	1
+/s s S S s s S/	s s S S s s1 S	0	1	1	0	0	0	0	0
+/s s S S s s S/	s s S S s s S1	1	0	0	0	0	0	0	0
+/s s S S s s s/	s1 s S S s s s	0	0	0	0	0	0	0	0
+/s s S S s s s/	s s1 S S s s s	0	0	0	0	0	0	0	0
+/s s S S s s s/	s s S1 S s s s	0	0	0	0	0	0	0	0
+/s s S S s s s/	s s S S1 s s s	0	0	0	0	0	0	0	0
+/s s S S s s s/	s s S S s1 s s	0	0	0	1	1	1	1	1
+/s s S S s s s/	s s S S s s1 s	0	1	1	0	0	0	0	0
+/s s S S s s s/	s s S S s s s1	1	0	0	0	0	0	0	0
+/s s S s S S S/	s1 s S s S S S	0	0	0	0	0	0	0	0
+/s s S s S S S/	s s1 S s S S S	0	0	0	0	0	0	0	0
+/s s S s S S S/	s s S1 s S S S	0	0	0	0	0	0	0	0
+/s s S s S S S/	s s S s1 S S S	0	0	0	0	0	1	1	1
+/s s S s S S S/	s s S s S1 S S	0	0	0	1	1	0	0	0
+/s s S s S S S/	s s S s S S1 S	0	1	1	0	0	0	0	0
+/s s S s S S S/	s s S s S S S1	1	0	0	0	0	0	0	0
+/s s S s S S s/	s1 s S s S S s	0	0	0	0	0	0	0	0
+/s s S s S S s/	s s1 S s S S s	0	0	0	0	0	0	0	0
+/s s S s S S s/	s s S1 s S S s	0	0	0	0	0	0	0	0
+/s s S s S S s/	s s S s1 S S s	0	0	0	0	0	1	1	1
+/s s S s S S s/	s s S s S1 S s	0	0	0	1	0	0	0	0
+/s s S s S S s/	s s S s S S1 s	0	1	0	0	0	0	0	0
+/s s S s S S s/	s s S s S S s1	1	0	1	0	1	0	0	0
+/s s S s S s S/	s1 s S s S s S	0	0	0	0	0	0	0	0
+/s s S s S s S/	s s1 S s S s S	0	0	0	0	0	0	0	0
+/s s S s S s S/	s s S1 s S s S	0	0	0	0	0	0	0	0
+/s s S s S s S/	s s S s1 S s S	0	0	0	0	0	1	1	1
+/s s S s S s S/	s s S s S1 s S	0	0	0	1	0	0	0	0
+/s s S s S s S/	s s S s S s1 S	0	1	1	0	1	0	0	0
+/s s S s S s S/	s s S s S s S1	1	0	0	0	0	0	0	0
+/s s S s S s s/	s1 s S s S s s	0	0	0	0	0	0	0	0
+/s s S s S s s/	s s1 S s S s s	0	0	0	0	0	0	0	0
+/s s S s S s s/	s s S1 s S s s	0	0	0	0	0	0	0	0
+/s s S s S s s/	s s S s1 S s s	0	0	0	0	0	1	1	1
+/s s S s S s s/	s s S s S1 s s	0	0	0	1	0	0	0	0
+/s s S s S s s/	s s S s S s1 s	0	1	1	0	1	0	0	0
+/s s S s S s s/	s s S s S s s1	1	0	0	0	0	0	0	0
+/s s S s s S S/	s1 s S s s S S	0	0	0	0	0	0	0	0
+/s s S s s S S/	s s1 S s s S S	0	0	0	0	0	0	0	0
+/s s S s s S S/	s s S1 s s S S	0	0	0	0	0	0	0	0
+/s s S s s S S/	s s S s1 s S S	0	0	0	0	0	0	0	0
+/s s S s s S S/	s s S s s1 S S	0	0	0	1	1	1	1	1
+/s s S s s S S/	s s S s s S1 S	0	1	1	0	0	0	0	0
+/s s S s s S S/	s s S s s S S1	1	0	0	0	0	0	0	0
+/s s S s s S s/	s1 s S s s S s	0	0	0	0	0	0	0	0
+/s s S s s S s/	s s1 S s s S s	0	0	0	0	0	0	0	0
+/s s S s s S s/	s s S1 s s S s	0	0	0	0	0	0	0	0
+/s s S s s S s/	s s S s1 s S s	0	0	0	0	0	0	0	0
+/s s S s s S s/	s s S s s1 S s	0	0	0	1	1	1	1	1
+/s s S s s S s/	s s S s s S1 s	0	1	0	0	0	0	0	0
+/s s S s s S s/	s s S s s S s1	1	0	1	0	0	0	0	0
+/s s S s s s S/	s1 s S s s s S	0	0	0	0	0	0	0	0
+/s s S s s s S/	s s1 S s s s S	0	0	0	0	0	0	0	0
+/s s S s s s S/	s s S1 s s s S	0	0	0	0	0	0	0	0
+/s s S s s s S/	s s S s1 s s S	0	0	0	0	0	0	0	0
+/s s S s s s S/	s s S s s1 s S	0	0	0	1	1	1	1	1
+/s s S s s s S/	s s S s s s1 S	0	1	1	0	0	0	0	0
+/s s S s s s S/	s s S s s s S1	1	0	0	0	0	0	0	0
+/s s S s s s s/	s1 s S s s s s	0	0	0	0	0	0	0	0
+/s s S s s s s/	s s1 S s s s s	0	0	0	0	0	0	0	0
+/s s S s s s s/	s s S1 s s s s	0	0	0	0	0	0	0	0
+/s s S s s s s/	s s S s1 s s s	0	0	0	0	0	0	0	0
+/s s S s s s s/	s s S s s1 s s	0	0	0	1	1	1	1	1
+/s s S s s s s/	s s S s s s1 s	0	1	1	0	0	0	0	0
+/s s S s s s s/	s s S s s s s1	1	0	0	0	0	0	0	0
+/s s s S S S S/	s1 s s S S S S	0	0	0	0	0	0	0	0
+/s s s S S S S/	s s1 s S S S S	0	0	0	0	0	0	0	0
+/s s s S S S S/	s s s1 S S S S	0	0	0	0	0	0	1	1
+/s s s S S S S/	s s s S1 S S S	0	0	0	0	0	0	0	0
+/s s s S S S S/	s s s S S1 S S	0	0	0	1	1	1	0	0
+/s s s S S S S/	s s s S S S1 S	0	1	1	0	0	0	0	0
+/s s s S S S S/	s s s S S S S1	1	0	0	0	0	0	0	0
+/s s s S S S s/	s1 s s S S S s	0	0	0	0	0	0	0	0
+/s s s S S S s/	s s1 s S S S s	0	0	0	0	0	0	0	0
+/s s s S S S s/	s s s1 S S S s	0	0	0	0	0	0	1	1
+/s s s S S S s/	s s s S1 S S s	0	0	0	0	0	0	0	0
+/s s s S S S s/	s s s S S1 S s	0	0	0	1	0	1	0	0
+/s s s S S S s/	s s s S S S1 s	0	1	0	0	0	0	0	0
+/s s s S S S s/	s s s S S S s1	1	0	1	0	1	0	0	0
+/s s s S S s S/	s1 s s S S s S	0	0	0	0	0	0	0	0
+/s s s S S s S/	s s1 s S S s S	0	0	0	0	0	0	0	0
+/s s s S S s S/	s s s1 S S s S	0	0	0	0	0	0	1	1
+/s s s S S s S/	s s s S1 S s S	0	0	0	0	0	0	0	0
+/s s s S S s S/	s s s S S1 s S	0	0	0	1	0	0	0	0
+/s s s S S s S/	s s s S S s1 S	0	1	1	0	1	1	0	0
+/s s s S S s S/	s s s S S s S1	1	0	0	0	0	0	0	0
+/s s s S S s s/	s1 s s S S s s	0	0	0	0	0	0	0	0
+/s s s S S s s/	s s1 s S S s s	0	0	0	0	0	0	0	0
+/s s s S S s s/	s s s1 S S s s	0	0	0	0	0	0	1	1
+/s s s S S s s/	s s s S1 S s s	0	0	0	0	0	0	0	0
+/s s s S S s s/	s s s S S1 s s	0	0	0	1	0	0	0	0
+/s s s S S s s/	s s s S S s1 s	0	1	1	0	1	1	0	0
+/s s s S S s s/	s s s S S s s1	1	0	0	0	0	0	0	0
+/s s s S s S S/	s1 s s S s S S	0	0	0	0	0	0	0	0
+/s s s S s S S/	s s1 s S s S S	0	0	0	0	0	0	0	0
+/s s s S s S S/	s s s1 S s S S	0	0	0	0	0	0	0	0
+/s s s S s S S/	s s s S1 s S S	0	0	0	0	0	0	0	0
+/s s s S s S S/	s s s S s1 S S	0	0	0	1	1	1	1	1
+/s s s S s S S/	s s s S s S1 S	0	1	1	0	0	0	0	0
+/s s s S s S S/	s s s S s S S1	1	0	0	0	0	0	0	0
+/s s s S s S s/	s1 s s S s S s	0	0	0	0	0	0	0	0
+/s s s S s S s/	s s1 s S s S s	0	0	0	0	0	0	0	0
+/s s s S s S s/	s s s1 S s S s	0	0	0	0	0	0	0	0
+/s s s S s S s/	s s s S1 s S s	0	0	0	0	0	0	0	0
+/s s s S s S s/	s s s S s1 S s	0	0	0	1	1	1	1	1
+/s s s S s S s/	s s s S s S1 s	0	1	0	0	0	0	0	0
+/s s s S s S s/	s s s S s S s1	1	0	1	0	0	0	0	0
+/s s s S s s S/	s1 s s S s s S	0	0	0	0	0	0	0	0
+/s s s S s s S/	s s1 s S s s S	0	0	0	0	0	0	0	0
+/s s s S s s S/	s s s1 S s s S	0	0	0	0	0	0	0	0
+/s s s S s s S/	s s s S1 s s S	0	0	0	0	0	0	0	0
+/s s s S s s S/	s s s S s1 s S	0	0	0	1	1	1	1	1
+/s s s S s s S/	s s s S s s1 S	0	1	1	0	0	0	0	0
+/s s s S s s S/	s s s S s s S1	1	0	0	0	0	0	0	0
+/s s s S s s s/	s1 s s S s s s	0	0	0	0	0	0	0	0
+/s s s S s s s/	s s1 s S s s s	0	0	0	0	0	0	0	0
+/s s s S s s s/	s s s1 S s s s	0	0	0	0	0	0	0	0
+/s s s S s s s/	s s s S1 s s s	0	0	0	0	0	0	0	0
+/s s s S s s s/	s s s S s1 s s	0	0	0	1	1	1	1	1
+/s s s S s s s/	s s s S s s1 s	0	1	1	0	0	0	0	0
+/s s s S s s s/	s s s S s s s1	1	0	0	0	0	0	0	0
+/s s s s S S S/	s1 s s s S S S	0	0	0	0	0	0	0	0
+/s s s s S S S/	s s1 s s S S S	0	0	0	0	0	0	0	0
+/s s s s S S S/	s s s1 s S S S	0	0	0	0	0	0	0	0
+/s s s s S S S/	s s s s1 S S S	0	0	0	0	0	1	1	1
+/s s s s S S S/	s s s s S1 S S	0	0	0	1	1	0	0	0
+/s s s s S S S/	s s s s S S1 S	0	1	1	0	0	0	0	0
+/s s s s S S S/	s s s s S S S1	1	0	0	0	0	0	0	0
+/s s s s S S s/	s1 s s s S S s	0	0	0	0	0	0	0	0
+/s s s s S S s/	s s1 s s S S s	0	0	0	0	0	0	0	0
+/s s s s S S s/	s s s1 s S S s	0	0	0	0	0	0	0	0
+/s s s s S S s/	s s s s1 S S s	0	0	0	0	0	1	1	1
+/s s s s S S s/	s s s s S1 S s	0	0	0	1	0	0	0	0
+/s s s s S S s/	s s s s S S1 s	0	1	0	0	0	0	0	0
+/s s s s S S s/	s s s s S S s1	1	0	1	0	1	0	0	0
+/s s s s S s S/	s1 s s s S s S	0	0	0	0	0	0	0	0
+/s s s s S s S/	s s1 s s S s S	0	0	0	0	0	0	0	0
+/s s s s S s S/	s s s1 s S s S	0	0	0	0	0	0	0	0
+/s s s s S s S/	s s s s1 S s S	0	0	0	0	0	1	1	1
+/s s s s S s S/	s s s s S1 s S	0	0	0	1	0	0	0	0
+/s s s s S s S/	s s s s S s1 S	0	1	1	0	1	0	0	0
+/s s s s S s S/	s s s s S s S1	1	0	0	0	0	0	0	0
+/s s s s S s s/	s1 s s s S s s	0	0	0	0	0	0	0	0
+/s s s s S s s/	s s1 s s S s s	0	0	0	0	0	0	0	0
+/s s s s S s s/	s s s1 s S s s	0	0	0	0	0	0	0	0
+/s s s s S s s/	s s s s1 S s s	0	0	0	0	0	1	1	1
+/s s s s S s s/	s s s s S1 s s	0	0	0	1	0	0	0	0
+/s s s s S s s/	s s s s S s1 s	0	1	1	0	1	0	0	0
+/s s s s S s s/	s s s s S s s1	1	0	0	0	0	0	0	0
+/s s s s s S S/	s1 s s s s S S	0	0	0	0	0	0	0	0
+/s s s s s S S/	s s1 s s s S S	0	0	0	0	0	0	0	0
+/s s s s s S S/	s s s1 s s S S	0	0	0	0	0	0	0	0
+/s s s s s S S/	s s s s1 s S S	0	0	0	0	0	0	0	0
+/s s s s s S S/	s s s s s1 S S	0	0	0	1	1	1	1	1
+/s s s s s S S/	s s s s s S1 S	0	1	1	0	0	0	0	0
+/s s s s s S S/	s s s s s S S1	1	0	0	0	0	0	0	0
+/s s s s s S s/	s1 s s s s S s	0	0	0	0	0	0	0	0
+/s s s s s S s/	s s1 s s s S s	0	0	0	0	0	0	0	0
+/s s s s s S s/	s s s1 s s S s	0	0	0	0	0	0	0	0
+/s s s s s S s/	s s s s1 s S s	0	0	0	0	0	0	0	0
+/s s s s s S s/	s s s s s1 S s	0	0	0	1	1	1	1	1
+/s s s s s S s/	s s s s s S1 s	0	1	0	0	0	0	0	0
+/s s s s s S s/	s s s s s S s1	1	0	1	0	0	0	0	0
+/s s s s s s S/	s1 s s s s s S	0	0	0	0	0	0	0	0
+/s s s s s s S/	s s1 s s s s S	0	0	0	0	0	0	0	0
+/s s s s s s S/	s s s1 s s s S	0	0	0	0	0	0	0	0
+/s s s s s s S/	s s s s1 s s S	0	0	0	0	0	0	0	0
+/s s s s s s S/	s s s s s1 s S	0	0	0	1	1	1	1	1
+/s s s s s s S/	s s s s s s1 S	0	1	1	0	0	0	0	0
+/s s s s s s S/	s s s s s s S1	1	0	0	0	0	0	0	0
+/s s s s s s s/	s1 s s s s s s	0	0	0	0	0	0	0	0
+/s s s s s s s/	s s1 s s s s s	0	0	0	0	0	0	0	0
+/s s s s s s s/	s s s1 s s s s	0	0	0	0	0	0	0	0
+/s s s s s s s/	s s s s1 s s s	0	0	0	0	0	0	0	0
+/s s s s s s s/	s s s s s1 s s	0	0	0	1	1	1	1	1
+/s s s s s s s/	s s s s s s1 s	0	1	1	0	0	0	0	0
+/s s s s s s s/	s s s s s s s1	1	0	0	0	0	0	0	0
+/S S S S S S S S/	S1 S S S S S S S	0	0	0	0	0	0	0	0
+/S S S S S S S S/	S S1 S S S S S S	0	0	0	0	0	0	0	0
+/S S S S S S S S/	S S S1 S S S S S	0	0	0	0	0	0	0	0
+/S S S S S S S S/	S S S S1 S S S S	0	0	0	0	0	0	0	0
+/S S S S S S S S/	S S S S S1 S S S	0	0	0	0	0	0	0	0
+/S S S S S S S S/	S S S S S S1 S S	0	0	0	1	1	1	1	1
+/S S S S S S S S/	S S S S S S S1 S	0	1	1	0	0	0	0	0
+/S S S S S S S S/	S S S S S S S S1	1	0	0	0	0	0	0	0
+/S S S S S S S s/	S1 S S S S S S s	0	0	0	0	0	0	0	0
+/S S S S S S S s/	S S1 S S S S S s	0	0	0	0	0	0	0	0
+/S S S S S S S s/	S S S1 S S S S s	0	0	0	0	0	0	0	0
+/S S S S S S S s/	S S S S1 S S S s	0	0	0	0	0	0	0	0
+/S S S S S S S s/	S S S S S1 S S s	0	0	0	0	0	0	0	0
+/S S S S S S S s/	S S S S S S1 S s	0	0	0	1	0	1	1	1
+/S S S S S S S s/	S S S S S S S1 s	0	1	0	0	0	0	0	0
+/S S S S S S S s/	S S S S S S S s1	1	0	1	0	1	0	0	0
+/S S S S S S s S/	S1 S S S S S s S	0	0	0	0	0	0	0	0
+/S S S S S S s S/	S S1 S S S S s S	0	0	0	0	0	0	0	0
+/S S S S S S s S/	S S S1 S S S s S	0	0	0	0	0	0	0	0
+/S S S S S S s S/	S S S S1 S S s S	0	0	0	0	0	0	0	0
+/S S S S S S s S/	S S S S S1 S s S	0	0	0	0	0	0	0	0
+/S S S S S S s S/	S S S S S S1 s S	0	0	0	1	0	0	0	0
+/S S S S S S s S/	S S S S S S s1 S	0	1	1	0	1	1	1	1
+/S S S S S S s S/	S S S S S S s S1	1	0	0	0	0	0	0	0
+/S S S S S S s s/	S1 S S S S S s s	0	0	0	0	0	0	0	0
+/S S S S S S s s/	S S1 S S S S s s	0	0	0	0	0	0	0	0
+/S S S S S S s s/	S S S1 S S S s s	0	0	0	0	0	0	0	0
+/S S S S S S s s/	S S S S1 S S s s	0	0	0	0	0	0	0	0
+/S S S S S S s s/	S S S S S1 S s s	0	0	0	0	0	0	0	0
+/S S S S S S s s/	S S S S S S1 s s	0	0	0	1	0	0	0	0
+/S S S S S S s s/	S S S S S S s1 s	0	1	1	0	1	1	1	1
+/S S S S S S s s/	S S S S S S s s1	1	0	0	0	0	0	0	0
+/S S S S S s S S/	S1 S S S S s S S	0	0	0	0	0	0	0	0
+/S S S S S s S S/	S S1 S S S s S S	0	0	0	0	0	0	0	0
+/S S S S S s S S/	S S S1 S S s S S	0	0	0	0	0	0	0	0
+/S S S S S s S S/	S S S S1 S s S S	0	0	0	0	0	0	0	0
+/S S S S S s S S/	S S S S S1 s S S	0	0	0	0	0	0	0	0
+/S S S S S s S S/	S S S S S s1 S S	0	0	0	1	1	1	1	1
+/S S S S S s S S/	S S S S S s S1 S	0	1	1	0	0	0	0	0
+/S S S S S s S S/	S S S S S s S S1	1	0	0	0	0	0	0	0
+/S S S S S s S s/	S1 S S S S s S s	0	0	0	0	0	0	0	0
+/S S S S S s S s/	S S1 S S S s S s	0	0	0	0	0	0	0	0
+/S S S S S s S s/	S S S1 S S s S s	0	0	0	0	0	0	0	0
+/S S S S S s S s/	S S S S1 S s S s	0	0	0	0	0	0	0	0
+/S S S S S s S s/	S S S S S1 s S s	0	0	0	0	0	0	0	0
+/S S S S S s S s/	S S S S S s1 S s	0	0	0	1	1	1	1	1
+/S S S S S s S s/	S S S S S s S1 s	0	1	0	0	0	0	0	0
+/S S S S S s S s/	S S S S S s S s1	1	0	1	0	0	0	0	0
+/S S S S S s s S/	S1 S S S S s s S	0	0	0	0	0	0	0	0
+/S S S S S s s S/	S S1 S S S s s S	0	0	0	0	0	0	0	0
+/S S S S S s s S/	S S S1 S S s s S	0	0	0	0	0	0	0	0
+/S S S S S s s S/	S S S S1 S s s S	0	0	0	0	0	0	0	0
+/S S S S S s s S/	S S S S S1 s s S	0	0	0	0	0	0	0	0
+/S S S S S s s S/	S S S S S s1 s S	0	0	0	1	1	1	1	1
+/S S S S S s s S/	S S S S S s s1 S	0	1	1	0	0	0	0	0
+/S S S S S s s S/	S S S S S s s S1	1	0	0	0	0	0	0	0
+/S S S S S s s s/	S1 S S S S s s s	0	0	0	0	0	0	0	0
+/S S S S S s s s/	S S1 S S S s s s	0	0	0	0	0	0	0	0
+/S S S S S s s s/	S S S1 S S s s s	0	0	0	0	0	0	0	0
+/S S S S S s s s/	S S S S1 S s s s	0	0	0	0	0	0	0	0
+/S S S S S s s s/	S S S S S1 s s s	0	0	0	0	0	0	0	0
+/S S S S S s s s/	S S S S S s1 s s	0	0	0	1	1	1	1	1
+/S S S S S s s s/	S S S S S s s1 s	0	1	1	0	0	0	0	0
+/S S S S S s s s/	S S S S S s s s1	1	0	0	0	0	0	0	0
+/S S S S s S S S/	S1 S S S s S S S	0	0	0	0	0	0	0	0
+/S S S S s S S S/	S S1 S S s S S S	0	0	0	0	0	0	0	0
+/S S S S s S S S/	S S S1 S s S S S	0	0	0	0	0	0	0	0
+/S S S S s S S S/	S S S S1 s S S S	0	0	0	0	0	0	0	0
+/S S S S s S S S/	S S S S s1 S S S	0	0	0	0	0	1	1	1
+/S S S S s S S S/	S S S S s S1 S S	0	0	0	1	1	0	0	0
+/S S S S s S S S/	S S S S s S S1 S	0	1	1	0	0	0	0	0
+/S S S S s S S S/	S S S S s S S S1	1	0	0	0	0	0	0	0
+/S S S S s S S s/	S1 S S S s S S s	0	0	0	0	0	0	0	0
+/S S S S s S S s/	S S1 S S s S S s	0	0	0	0	0	0	0	0
+/S S S S s S S s/	S S S1 S s S S s	0	0	0	0	0	0	0	0
+/S S S S s S S s/	S S S S1 s S S s	0	0	0	0	0	0	0	0
+/S S S S s S S s/	S S S S s1 S S s	0	0	0	0	0	1	1	1
+/S S S S s S S s/	S S S S s S1 S s	0	0	0	1	0	0	0	0
+/S S S S s S S s/	S S S S s S S1 s	0	1	0	0	0	0	0	0
+/S S S S s S S s/	S S S S s S S s1	1	0	1	0	1	0	0	0
+/S S S S s S s S/	S1 S S S s S s S	0	0	0	0	0	0	0	0
+/S S S S s S s S/	S S1 S S s S s S	0	0	0	0	0	0	0	0
+/S S S S s S s S/	S S S1 S s S s S	0	0	0	0	0	0	0	0
+/S S S S s S s S/	S S S S1 s S s S	0	0	0	0	0	0	0	0
+/S S S S s S s S/	S S S S s1 S s S	0	0	0	0	0	1	1	1
+/S S S S s S s S/	S S S S s S1 s S	0	0	0	1	0	0	0	0
+/S S S S s S s S/	S S S S s S s1 S	0	1	1	0	1	0	0	0
+/S S S S s S s S/	S S S S s S s S1	1	0	0	0	0	0	0	0
+/S S S S s S s s/	S1 S S S s S s s	0	0	0	0	0	0	0	0
+/S S S S s S s s/	S S1 S S s S s s	0	0	0	0	0	0	0	0
+/S S S S s S s s/	S S S1 S s S s s	0	0	0	0	0	0	0	0
+/S S S S s S s s/	S S S S1 s S s s	0	0	0	0	0	0	0	0
+/S S S S s S s s/	S S S S s1 S s s	0	0	0	0	0	1	1	1
+/S S S S s S s s/	S S S S s S1 s s	0	0	0	1	0	0	0	0
+/S S S S s S s s/	S S S S s S s1 s	0	1	1	0	1	0	0	0
+/S S S S s S s s/	S S S S s S s s1	1	0	0	0	0	0	0	0
+/S S S S s s S S/	S1 S S S s s S S	0	0	0	0	0	0	0	0
+/S S S S s s S S/	S S1 S S s s S S	0	0	0	0	0	0	0	0
+/S S S S s s S S/	S S S1 S s s S S	0	0	0	0	0	0	0	0
+/S S S S s s S S/	S S S S1 s s S S	0	0	0	0	0	0	0	0
+/S S S S s s S S/	S S S S s1 s S S	0	0	0	0	0	0	0	0
+/S S S S s s S S/	S S S S s s1 S S	0	0	0	1	1	1	1	1
+/S S S S s s S S/	S S S S s s S1 S	0	1	1	0	0	0	0	0
+/S S S S s s S S/	S S S S s s S S1	1	0	0	0	0	0	0	0
+/S S S S s s S s/	S1 S S S s s S s	0	0	0	0	0	0	0	0
+/S S S S s s S s/	S S1 S S s s S s	0	0	0	0	0	0	0	0
+/S S S S s s S s/	S S S1 S s s S s	0	0	0	0	0	0	0	0
+/S S S S s s S s/	S S S S1 s s S s	0	0	0	0	0	0	0	0
+/S S S S s s S s/	S S S S s1 s S s	0	0	0	0	0	0	0	0
+/S S S S s s S s/	S S S S s s1 S s	0	0	0	1	1	1	1	1
+/S S S S s s S s/	S S S S s s S1 s	0	1	0	0	0	0	0	0
+/S S S S s s S s/	S S S S s s S s1	1	0	1	0	0	0	0	0
+/S S S S s s s S/	S1 S S S s s s S	0	0	0	0	0	0	0	0
+/S S S S s s s S/	S S1 S S s s s S	0	0	0	0	0	0	0	0
+/S S S S s s s S/	S S S1 S s s s S	0	0	0	0	0	0	0	0
+/S S S S s s s S/	S S S S1 s s s S	0	0	0	0	0	0	0	0
+/S S S S s s s S/	S S S S s1 s s S	0	0	0	0	0	0	0	0
+/S S S S s s s S/	S S S S s s1 s S	0	0	0	1	1	1	1	1
+/S S S S s s s S/	S S S S s s s1 S	0	1	1	0	0	0	0	0
+/S S S S s s s S/	S S S S s s s S1	1	0	0	0	0	0	0	0
+/S S S S s s s s/	S1 S S S s s s s	0	0	0	0	0	0	0	0
+/S S S S s s s s/	S S1 S S s s s s	0	0	0	0	0	0	0	0
+/S S S S s s s s/	S S S1 S s s s s	0	0	0	0	0	0	0	0
+/S S S S s s s s/	S S S S1 s s s s	0	0	0	0	0	0	0	0
+/S S S S s s s s/	S S S S s1 s s s	0	0	0	0	0	0	0	0
+/S S S S s s s s/	S S S S s s1 s s	0	0	0	1	1	1	1	1
+/S S S S s s s s/	S S S S s s s1 s	0	1	1	0	0	0	0	0
+/S S S S s s s s/	S S S S s s s s1	1	0	0	0	0	0	0	0
+/S S S s S S S S/	S1 S S s S S S S	0	0	0	0	0	0	0	0
+/S S S s S S S S/	S S1 S s S S S S	0	0	0	0	0	0	0	0
+/S S S s S S S S/	S S S1 s S S S S	0	0	0	0	0	0	0	0
+/S S S s S S S S/	S S S s1 S S S S	0	0	0	0	0	0	1	1
+/S S S s S S S S/	S S S s S1 S S S	0	0	0	0	0	0	0	0
+/S S S s S S S S/	S S S s S S1 S S	0	0	0	1	1	1	0	0
+/S S S s S S S S/	S S S s S S S1 S	0	1	1	0	0	0	0	0
+/S S S s S S S S/	S S S s S S S S1	1	0	0	0	0	0	0	0
+/S S S s S S S s/	S1 S S s S S S s	0	0	0	0	0	0	0	0
+/S S S s S S S s/	S S1 S s S S S s	0	0	0	0	0	0	0	0
+/S S S s S S S s/	S S S1 s S S S s	0	0	0	0	0	0	0	0
+/S S S s S S S s/	S S S s1 S S S s	0	0	0	0	0	0	1	1
+/S S S s S S S s/	S S S s S1 S S s	0	0	0	0	0	0	0	0
+/S S S s S S S s/	S S S s S S1 S s	0	0	0	1	0	1	0	0
+/S S S s S S S s/	S S S s S S S1 s	0	1	0	0	0	0	0	0
+/S S S s S S S s/	S S S s S S S s1	1	0	1	0	1	0	0	0
+/S S S s S S s S/	S1 S S s S S s S	0	0	0	0	0	0	0	0
+/S S S s S S s S/	S S1 S s S S s S	0	0	0	0	0	0	0	0
+/S S S s S S s S/	S S S1 s S S s S	0	0	0	0	0	0	0	0
+/S S S s S S s S/	S S S s1 S S s S	0	0	0	0	0	0	1	1
+/S S S s S S s S/	S S S s S1 S s S	0	0	0	0	0	0	0	0
+/S S S s S S s S/	S S S s S S1 s S	0	0	0	1	0	0	0	0
+/S S S s S S s S/	S S S s S S s1 S	0	1	1	0	1	1	0	0
+/S S S s S S s S/	S S S s S S s S1	1	0	0	0	0	0	0	0
+/S S S s S S s s/	S1 S S s S S s s	0	0	0	0	0	0	0	0
+/S S S s S S s s/	S S1 S s S S s s	0	0	0	0	0	0	0	0
+/S S S s S S s s/	S S S1 s S S s s	0	0	0	0	0	0	0	0
+/S S S s S S s s/	S S S s1 S S s s	0	0	0	0	0	0	1	1
+/S S S s S S s s/	S S S s S1 S s s	0	0	0	0	0	0	0	0
+/S S S s S S s s/	S S S s S S1 s s	0	0	0	1	0	0	0	0
+/S S S s S S s s/	S S S s S S s1 s	0	1	1	0	1	1	0	0
+/S S S s S S s s/	S S S s S S s s1	1	0	0	0	0	0	0	0
+/S S S s S s S S/	S1 S S s S s S S	0	0	0	0	0	0	0	0
+/S S S s S s S S/	S S1 S s S s S S	0	0	0	0	0	0	0	0
+/S S S s S s S S/	S S S1 s S s S S	0	0	0	0	0	0	0	0
+/S S S s S s S S/	S S S s1 S s S S	0	0	0	0	0	0	0	0
+/S S S s S s S S/	S S S s S1 s S S	0	0	0	0	0	0	0	0
+/S S S s S s S S/	S S S s S s1 S S	0	0	0	1	1	1	1	1
+/S S S s S s S S/	S S S s S s S1 S	0	1	1	0	0	0	0	0
+/S S S s S s S S/	S S S s S s S S1	1	0	0	0	0	0	0	0
+/S S S s S s S s/	S1 S S s S s S s	0	0	0	0	0	0	0	0
+/S S S s S s S s/	S S1 S s S s S s	0	0	0	0	0	0	0	0
+/S S S s S s S s/	S S S1 s S s S s	0	0	0	0	0	0	0	0
+/S S S s S s S s/	S S S s1 S s S s	0	0	0	0	0	0	0	0
+/S S S s S s S s/	S S S s S1 s S s	0	0	0	0	0	0	0	0
+/S S S s S s S s/	S S S s S s1 S s	0	0	0	1	1	1	1	1
+/S S S s S s S s/	S S S s S s S1 s	0	1	0	0	0	0	0	0
+/S S S s S s S s/	S S S s S s S s1	1	0	1	0	0	0	0	0
+/S S S s S s s S/	S1 S S s S s s S	0	0	0	0	0	0	0	0
+/S S S s S s s S/	S S1 S s S s s S	0	0	0	0	0	0	0	0
+/S S S s S s s S/	S S S1 s S s s S	0	0	0	0	0	0	0	0
+/S S S s S s s S/	S S S s1 S s s S	0	0	0	0	0	0	0	0
+/S S S s S s s S/	S S S s S1 s s S	0	0	0	0	0	0	0	0
+/S S S s S s s S/	S S S s S s1 s S	0	0	0	1	1	1	1	1
+/S S S s S s s S/	S S S s S s s1 S	0	1	1	0	0	0	0	0
+/S S S s S s s S/	S S S s S s s S1	1	0	0	0	0	0	0	0
+/S S S s S s s s/	S1 S S s S s s s	0	0	0	0	0	0	0	0
+/S S S s S s s s/	S S1 S s S s s s	0	0	0	0	0	0	0	0
+/S S S s S s s s/	S S S1 s S s s s	0	0	0	0	0	0	0	0
+/S S S s S s s s/	S S S s1 S s s s	0	0	0	0	0	0	0	0
+/S S S s S s s s/	S S S s S1 s s s	0	0	0	0	0	0	0	0
+/S S S s S s s s/	S S S s S s1 s s	0	0	0	1	1	1	1	1
+/S S S s S s s s/	S S S s S s s1 s	0	1	1	0	0	0	0	0
+/S S S s S s s s/	S S S s S s s s1	1	0	0	0	0	0	0	0
+/S S S s s S S S/	S1 S S s s S S S	0	0	0	0	0	0	0	0
+/S S S s s S S S/	S S1 S s s S S S	0	0	0	0	0	0	0	0
+/S S S s s S S S/	S S S1 s s S S S	0	0	0	0	0	0	0	0
+/S S S s s S S S/	S S S s1 s S S S	0	0	0	0	0	0	0	0
+/S S S s s S S S/	S S S s s1 S S S	0	0	0	0	0	1	1	1
+/S S S s s S S S/	S S S s s S1 S S	0	0	0	1	1	0	0	0
+/S S S s s S S S/	S S S s s S S1 S	0	1	1	0	0	0	0	0
+/S S S s s S S S/	S S S s s S S S1	1	0	0	0	0	0	0	0
+/S S S s s S S s/	S1 S S s s S S s	0	0	0	0	0	0	0	0
+/S S S s s S S s/	S S1 S s s S S s	0	0	0	0	0	0	0	0
+/S S S s s S S s/	S S S1 s s S S s	0	0	0	0	0	0	0	0
+/S S S s s S S s/	S S S s1 s S S s	0	0	0	0	0	0	0	0
+/S S S s s S S s/	S S S s s1 S S s	0	0	0	0	0	1	1	1
+/S S S s s S S s/	S S S s s S1 S s	0	0	0	1	0	0	0	0
+/S S S s s S S s/	S S S s s S S1 s	0	1	0	0	0	0	0	0
+/S S S s s S S s/	S S S s s S S s1	1	0	1	0	1	0	0	0
+/S S S s s S s S/	S1 S S s s S s S	0	0	0	0	0	0	0	0
+/S S S s s S s S/	S S1 S s s S s S	0	0	0	0	0	0	0	0
+/S S S s s S s S/	S S S1 s s S s S	0	0	0	0	0	0	0	0
+/S S S s s S s S/	S S S s1 s S s S	0	0	0	0	0	0	0	0
+/S S S s s S s S/	S S S s s1 S s S	0	0	0	0	0	1	1	1
+/S S S s s S s S/	S S S s s S1 s S	0	0	0	1	0	0	0	0
+/S S S s s S s S/	S S S s s S s1 S	0	1	1	0	1	0	0	0
+/S S S s s S s S/	S S S s s S s S1	1	0	0	0	0	0	0	0
+/S S S s s S s s/	S1 S S s s S s s	0	0	0	0	0	0	0	0
+/S S S s s S s s/	S S1 S s s S s s	0	0	0	0	0	0	0	0
+/S S S s s S s s/	S S S1 s s S s s	0	0	0	0	0	0	0	0
+/S S S s s S s s/	S S S s1 s S s s	0	0	0	0	0	0	0	0
+/S S S s s S s s/	S S S s s1 S s s	0	0	0	0	0	1	1	1
+/S S S s s S s s/	S S S s s S1 s s	0	0	0	1	0	0	0	0
+/S S S s s S s s/	S S S s s S s1 s	0	1	1	0	1	0	0	0
+/S S S s s S s s/	S S S s s S s s1	1	0	0	0	0	0	0	0
+/S S S s s s S S/	S1 S S s s s S S	0	0	0	0	0	0	0	0
+/S S S s s s S S/	S S1 S s s s S S	0	0	0	0	0	0	0	0
+/S S S s s s S S/	S S S1 s s s S S	0	0	0	0	0	0	0	0
+/S S S s s s S S/	S S S s1 s s S S	0	0	0	0	0	0	0	0
+/S S S s s s S S/	S S S s s1 s S S	0	0	0	0	0	0	0	0
+/S S S s s s S S/	S S S s s s1 S S	0	0	0	1	1	1	1	1
+/S S S s s s S S/	S S S s s s S1 S	0	1	1	0	0	0	0	0
+/S S S s s s S S/	S S S s s s S S1	1	0	0	0	0	0	0	0
+/S S S s s s S s/	S1 S S s s s S s	0	0	0	0	0	0	0	0
+/S S S s s s S s/	S S1 S s s s S s	0	0	0	0	0	0	0	0
+/S S S s s s S s/	S S S1 s s s S s	0	0	0	0	0	0	0	0
+/S S S s s s S s/	S S S s1 s s S s	0	0	0	0	0	0	0	0
+/S S S s s s S s/	S S S s s1 s S s	0	0	0	0	0	0	0	0
+/S S S s s s S s/	S S S s s s1 S s	0	0	0	1	1	1	1	1
+/S S S s s s S s/	S S S s s s S1 s	0	1	0	0	0	0	0	0
+/S S S s s s S s/	S S S s s s S s1	1	0	1	0	0	0	0	0
+/S S S s s s s S/	S1 S S s s s s S	0	0	0	0	0	0	0	0
+/S S S s s s s S/	S S1 S s s s s S	0	0	0	0	0	0	0	0
+/S S S s s s s S/	S S S1 s s s s S	0	0	0	0	0	0	0	0
+/S S S s s s s S/	S S S s1 s s s S	0	0	0	0	0	0	0	0
+/S S S s s s s S/	S S S s s1 s s S	0	0	0	0	0	0	0	0
+/S S S s s s s S/	S S S s s s1 s S	0	0	0	1	1	1	1	1
+/S S S s s s s S/	S S S s s s s1 S	0	1	1	0	0	0	0	0
+/S S S s s s s S/	S S S s s s s S1	1	0	0	0	0	0	0	0
+/S S S s s s s s/	S1 S S s s s s s	0	0	0	0	0	0	0	0
+/S S S s s s s s/	S S1 S s s s s s	0	0	0	0	0	0	0	0
+/S S S s s s s s/	S S S1 s s s s s	0	0	0	0	0	0	0	0
+/S S S s s s s s/	S S S s1 s s s s	0	0	0	0	0	0	0	0
+/S S S s s s s s/	S S S s s1 s s s	0	0	0	0	0	0	0	0
+/S S S s s s s s/	S S S s s s1 s s	0	0	0	1	1	1	1	1
+/S S S s s s s s/	S S S s s s s1 s	0	1	1	0	0	0	0	0
+/S S S s s s s s/	S S S s s s s s1	1	0	0	0	0	0	0	0
+/S S s S S S S S/	S1 S s S S S S S	0	0	0	0	0	0	0	0
+/S S s S S S S S/	S S1 s S S S S S	0	0	0	0	0	0	0	0
+/S S s S S S S S/	S S s1 S S S S S	0	0	0	0	0	0	0	1
+/S S s S S S S S/	S S s S1 S S S S	0	0	0	0	0	0	0	0
+/S S s S S S S S/	S S s S S1 S S S	0	0	0	0	0	0	0	0
+/S S s S S S S S/	S S s S S S1 S S	0	0	0	1	1	1	1	0
+/S S s S S S S S/	S S s S S S S1 S	0	1	1	0	0	0	0	0
+/S S s S S S S S/	S S s S S S S S1	1	0	0	0	0	0	0	0
+/S S s S S S S s/	S1 S s S S S S s	0	0	0	0	0	0	0	0
+/S S s S S S S s/	S S1 s S S S S s	0	0	0	0	0	0	0	0
+/S S s S S S S s/	S S s1 S S S S s	0	0	0	0	0	0	0	1
+/S S s S S S S s/	S S s S1 S S S s	0	0	0	0	0	0	0	0
+/S S s S S S S s/	S S s S S1 S S s	0	0	0	0	0	0	0	0
+/S S s S S S S s/	S S s S S S1 S s	0	0	0	1	0	1	1	0
+/S S s S S S S s/	S S s S S S S1 s	0	1	0	0	0	0	0	0
+/S S s S S S S s/	S S s S S S S s1	1	0	1	0	1	0	0	0
+/S S s S S S s S/	S1 S s S S S s S	0	0	0	0	0	0	0	0
+/S S s S S S s S/	S S1 s S S S s S	0	0	0	0	0	0	0	0
+/S S s S S S s S/	S S s1 S S S s S	0	0	0	0	0	0	0	1
+/S S s S S S s S/	S S s S1 S S s S	0	0	0	0	0	0	0	0
+/S S s S S S s S/	S S s S S1 S s S	0	0	0	0	0	0	0	0
+/S S s S S S s S/	S S s S S S1 s S	0	0	0	1	0	0	0	0
+/S S s S S S s S/	S S s S S S s1 S	0	1	1	0	1	1	1	0
+/S S s S S S s S/	S S s S S S s S1	1	0	0	0	0	0	0	0
+/S S s S S S s s/	S1 S s S S S s s	0	0	0	0	0	0	0	0
+/S S s S S S s s/	S S1 s S S S s s	0	0	0	0	0	0	0	0
+/S S s S S S s s/	S S s1 S S S s s	0	0	0	0	0	0	0	1
+/S S s S S S s s/	S S s S1 S S s s	0	0	0	0	0	0	0	0
+/S S s S S S s s/	S S s S S1 S s s	0	0	0	0	0	0	0	0
+/S S s S S S s s/	S S s S S S1 s s	0	0	0	1	0	0	0	0
+/S S s S S S s s/	S S s S S S s1 s	0	1	1	0	1	1	1	0
+/S S s S S S s s/	S S s S S S s s1	1	0	0	0	0	0	0	0
+/S S s S S s S S/	S1 S s S S s S S	0	0	0	0	0	0	0	0
+/S S s S S s S S/	S S1 s S S s S S	0	0	0	0	0	0	0	0
+/S S s S S s S S/	S S s1 S S s S S	0	0	0	0	0	0	0	0
+/S S s S S s S S/	S S s S1 S s S S	0	0	0	0	0	0	0	0
+/S S s S S s S S/	S S s S S1 s S S	0	0	0	0	0	0	0	0
+/S S s S S s S S/	S S s S S s1 S S	0	0	0	1	1	1	1	1
+/S S s S S s S S/	S S s S S s S1 S	0	1	1	0	0	0	0	0
+/S S s S S s S S/	S S s S S s S S1	1	0	0	0	0	0	0	0
+/S S s S S s S s/	S1 S s S S s S s	0	0	0	0	0	0	0	0
+/S S s S S s S s/	S S1 s S S s S s	0	0	0	0	0	0	0	0
+/S S s S S s S s/	S S s1 S S s S s	0	0	0	0	0	0	0	0
+/S S s S S s S s/	S S s S1 S s S s	0	0	0	0	0	0	0	0
+/S S s S S s S s/	S S s S S1 s S s	0	0	0	0	0	0	0	0
+/S S s S S s S s/	S S s S S s1 S s	0	0	0	1	1	1	1	1
+/S S s S S s S s/	S S s S S s S1 s	0	1	0	0	0	0	0	0
+/S S s S S s S s/	S S s S S s S s1	1	0	1	0	0	0	0	0
+/S S s S S s s S/	S1 S s S S s s S	0	0	0	0	0	0	0	0
+/S S s S S s s S/	S S1 s S S s s S	0	0	0	0	0	0	0	0
+/S S s S S s s S/	S S s1 S S s s S	0	0	0	0	0	0	0	0
+/S S s S S s s S/	S S s S1 S s s S	0	0	0	0	0	0	0	0
+/S S s S S s s S/	S S s S S1 s s S	0	0	0	0	0	0	0	0
+/S S s S S s s S/	S S s S S s1 s S	0	0	0	1	1	1	1	1
+/S S s S S s s S/	S S s S S s s1 S	0	1	1	0	0	0	0	0
+/S S s S S s s S/	S S s S S s s S1	1	0	0	0	0	0	0	0
+/S S s S S s s s/	S1 S s S S s s s	0	0	0	0	0	0	0	0
+/S S s S S s s s/	S S1 s S S s s s	0	0	0	0	0	0	0	0
+/S S s S S s s s/	S S s1 S S s s s	0	0	0	0	0	0	0	0
+/S S s S S s s s/	S S s S1 S s s s	0	0	0	0	0	0	0	0
+/S S s S S s s s/	S S s S S1 s s s	0	0	0	0	0	0	0	0
+/S S s S S s s s/	S S s S S s1 s s	0	0	0	1	1	1	1	1
+/S S s S S s s s/	S S s S S s s1 s	0	1	1	0	0	0	0	0
+/S S s S S s s s/	S S s S S s s s1	1	0	0	0	0	0	0	0
+/S S s S s S S S/	S1 S s S s S S S	0	0	0	0	0	0	0	0
+/S S s S s S S S/	S S1 s S s S S S	0	0	0	0	0	0	0	0
+/S S s S s S S S/	S S s1 S s S S S	0	0	0	0	0	0	0	0
+/S S s S s S S S/	S S s S1 s S S S	0	0	0	0	0	0	0	0
+/S S s S s S S S/	S S s S s1 S S S	0	0	0	0	0	1	1	1
+/S S s S s S S S/	S S s S s S1 S S	0	0	0	1	1	0	0	0
+/S S s S s S S S/	S S s S s S S1 S	0	1	1	0	0	0	0	0
+/S S s S s S S S/	S S s S s S S S1	1	0	0	0	0	0	0	0
+/S S s S s S S s/	S1 S s S s S S s	0	0	0	0	0	0	0	0
+/S S s S s S S s/	S S1 s S s S S s	0	0	0	0	0	0	0	0
+/S S s S s S S s/	S S s1 S s S S s	0	0	0	0	0	0	0	0
+/S S s S s S S s/	S S s S1 s S S s	0	0	0	0	0	0	0	0
+/S S s S s S S s/	S S s S s1 S S s	0	0	0	0	0	1	1	1
+/S S s S s S S s/	S S s S s S1 S s	0	0	0	1	0	0	0	0
+/S S s S s S S s/	S S s S s S S1 s	0	1	0	0	0	0	0	0
+/S S s S s S S s/	S S s S s S S s1	1	0	1	0	1	0	0	0
+/S S s S s S s S/	S1 S s S s S s S	0	0	0	0	0	0	0	0
+/S S s S s S s S/	S S1 s S s S s S	0	0	0	0	0	0	0	0
+/S S s S s S s S/	S S s1 S s S s S	0	0	0	0	0	0	0	0
+/S S s S s S s S/	S S s S1 s S s S	0	0	0	0	0	0	0	0
+/S S s S s S s S/	S S s S s1 S s S	0	0	0	0	0	1	1	1
+/S S s S s S s S/	S S s S s S1 s S	0	0	0	1	0	0	0	0
+/S S s S s S s S/	S S s S s S s1 S	0	1	1	0	1	0	0	0
+/S S s S s S s S/	S S s S s S s S1	1	0	0	0	0	0	0	0
+/S S s S s S s s/	S1 S s S s S s s	0	0	0	0	0	0	0	0
+/S S s S s S s s/	S S1 s S s S s s	0	0	0	0	0	0	0	0
+/S S s S s S s s/	S S s1 S s S s s	0	0	0	0	0	0	0	0
+/S S s S s S s s/	S S s S1 s S s s	0	0	0	0	0	0	0	0
+/S S s S s S s s/	S S s S s1 S s s	0	0	0	0	0	1	1	1
+/S S s S s S s s/	S S s S s S1 s s	0	0	0	1	0	0	0	0
+/S S s S s S s s/	S S s S s S s1 s	0	1	1	0	1	0	0	0
+/S S s S s S s s/	S S s S s S s s1	1	0	0	0	0	0	0	0
+/S S s S s s S S/	S1 S s S s s S S	0	0	0	0	0	0	0	0
+/S S s S s s S S/	S S1 s S s s S S	0	0	0	0	0	0	0	0
+/S S s S s s S S/	S S s1 S s s S S	0	0	0	0	0	0	0	0
+/S S s S s s S S/	S S s S1 s s S S	0	0	0	0	0	0	0	0
+/S S s S s s S S/	S S s S s1 s S S	0	0	0	0	0	0	0	0
+/S S s S s s S S/	S S s S s s1 S S	0	0	0	1	1	1	1	1
+/S S s S s s S S/	S S s S s s S1 S	0	1	1	0	0	0	0	0
+/S S s S s s S S/	S S s S s s S S1	1	0	0	0	0	0	0	0
+/S S s S s s S s/	S1 S s S s s S s	0	0	0	0	0	0	0	0
+/S S s S s s S s/	S S1 s S s s S s	0	0	0	0	0	0	0	0
+/S S s S s s S s/	S S s1 S s s S s	0	0	0	0	0	0	0	0
+/S S s S s s S s/	S S s S1 s s S s	0	0	0	0	0	0	0	0
+/S S s S s s S s/	S S s S s1 s S s	0	0	0	0	0	0	0	0
+/S S s S s s S s/	S S s S s s1 S s	0	0	0	1	1	1	1	1
+/S S s S s s S s/	S S s S s s S1 s	0	1	0	0	0	0	0	0
+/S S s S s s S s/	S S s S s s S s1	1	0	1	0	0	0	0	0
+/S S s S s s s S/	S1 S s S s s s S	0	0	0	0	0	0	0	0
+/S S s S s s s S/	S S1 s S s s s S	0	0	0	0	0	0	0	0
+/S S s S s s s S/	S S s1 S s s s S	0	0	0	0	0	0	0	0
+/S S s S s s s S/	S S s S1 s s s S	0	0	0	0	0	0	0	0
+/S S s S s s s S/	S S s S s1 s s S	0	0	0	0	0	0	0	0
+/S S s S s s s S/	S S s S s s1 s S	0	0	0	1	1	1	1	1
+/S S s S s s s S/	S S s S s s s1 S	0	1	1	0	0	0	0	0
+/S S s S s s s S/	S S s S s s s S1	1	0	0	0	0	0	0	0
+/S S s S s s s s/	S1 S s S s s s s	0	0	0	0	0	0	0	0
+/S S s S s s s s/	S S1 s S s s s s	0	0	0	0	0	0	0	0
+/S S s S s s s s/	S S s1 S s s s s	0	0	0	0	0	0	0	0
+/S S s S s s s s/	S S s S1 s s s s	0	0	0	0	0	0	0	0
+/S S s S s s s s/	S S s S s1 s s s	0	0	0	0	0	0	0	0
+/S S s S s s s s/	S S s S s s1 s s	0	0	0	1	1	1	1	1
+/S S s S s s s s/	S S s S s s s1 s	0	1	1	0	0	0	0	0
+/S S s S s s s s/	S S s S s s s s1	1	0	0	0	0	0	0	0
+/S S s s S S S S/	S1 S s s S S S S	0	0	0	0	0	0	0	0
+/S S s s S S S S/	S S1 s s S S S S	0	0	0	0	0	0	0	0
+/S S s s S S S S/	S S s1 s S S S S	0	0	0	0	0	0	0	0
+/S S s s S S S S/	S S s s1 S S S S	0	0	0	0	0	0	1	1
+/S S s s S S S S/	S S s s S1 S S S	0	0	0	0	0	0	0	0
+/S S s s S S S S/	S S s s S S1 S S	0	0	0	1	1	1	0	0
+/S S s s S S S S/	S S s s S S S1 S	0	1	1	0	0	0	0	0
+/S S s s S S S S/	S S s s S S S S1	1	0	0	0	0	0	0	0
+/S S s s S S S s/	S1 S s s S S S s	0	0	0	0	0	0	0	0
+/S S s s S S S s/	S S1 s s S S S s	0	0	0	0	0	0	0	0
+/S S s s S S S s/	S S s1 s S S S s	0	0	0	0	0	0	0	0
+/S S s s S S S s/	S S s s1 S S S s	0	0	0	0	0	0	1	1
+/S S s s S S S s/	S S s s S1 S S s	0	0	0	0	0	0	0	0
+/S S s s S S S s/	S S s s S S1 S s	0	0	0	1	0	1	0	0
+/S S s s S S S s/	S S s s S S S1 s	0	1	0	0	0	0	0	0
+/S S s s S S S s/	S S s s S S S s1	1	0	1	0	1	0	0	0
+/S S s s S S s S/	S1 S s s S S s S	0	0	0	0	0	0	0	0
+/S S s s S S s S/	S S1 s s S S s S	0	0	0	0	0	0	0	0
+/S S s s S S s S/	S S s1 s S S s S	0	0	0	0	0	0	0	0
+/S S s s S S s S/	S S s s1 S S s S	0	0	0	0	0	0	1	1
+/S S s s S S s S/	S S s s S1 S s S	0	0	0	0	0	0	0	0
+/S S s s S S s S/	S S s s S S1 s S	0	0	0	1	0	0	0	0
+/S S s s S S s S/	S S s s S S s1 S	0	1	1	0	1	1	0	0
+/S S s s S S s S/	S S s s S S s S1	1	0	0	0	0	0	0	0
+/S S s s S S s s/	S1 S s s S S s s	0	0	0	0	0	0	0	0
+/S S s s S S s s/	S S1 s s S S s s	0	0	0	0	0	0	0	0
+/S S s s S S s s/	S S s1 s S S s s	0	0	0	0	0	0	0	0
+/S S s s S S s s/	S S s s1 S S s s	0	0	0	0	0	0	1	1
+/S S s s S S s s/	S S s s S1 S s s	0	0	0	0	0	0	0	0
+/S S s s S S s s/	S S s s S S1 s s	0	0	0	1	0	0	0	0
+/S S s s S S s s/	S S s s S S s1 s	0	1	1	0	1	1	0	0
+/S S s s S S s s/	S S s s S S s s1	1	0	0	0	0	0	0	0
+/S S s s S s S S/	S1 S s s S s S S	0	0	0	0	0	0	0	0
+/S S s s S s S S/	S S1 s s S s S S	0	0	0	0	0	0	0	0
+/S S s s S s S S/	S S s1 s S s S S	0	0	0	0	0	0	0	0
+/S S s s S s S S/	S S s s1 S s S S	0	0	0	0	0	0	0	0
+/S S s s S s S S/	S S s s S1 s S S	0	0	0	0	0	0	0	0
+/S S s s S s S S/	S S s s S s1 S S	0	0	0	1	1	1	1	1
+/S S s s S s S S/	S S s s S s S1 S	0	1	1	0	0	0	0	0
+/S S s s S s S S/	S S s s S s S S1	1	0	0	0	0	0	0	0
+/S S s s S s S s/	S1 S s s S s S s	0	0	0	0	0	0	0	0
+/S S s s S s S s/	S S1 s s S s S s	0	0	0	0	0	0	0	0
+/S S s s S s S s/	S S s1 s S s S s	0	0	0	0	0	0	0	0
+/S S s s S s S s/	S S s s1 S s S s	0	0	0	0	0	0	0	0
+/S S s s S s S s/	S S s s S1 s S s	0	0	0	0	0	0	0	0
+/S S s s S s S s/	S S s s S s1 S s	0	0	0	1	1	1	1	1
+/S S s s S s S s/	S S s s S s S1 s	0	1	0	0	0	0	0	0
+/S S s s S s S s/	S S s s S s S s1	1	0	1	0	0	0	0	0
+/S S s s S s s S/	S1 S s s S s s S	0	0	0	0	0	0	0	0
+/S S s s S s s S/	S S1 s s S s s S	0	0	0	0	0	0	0	0
+/S S s s S s s S/	S S s1 s S s s S	0	0	0	0	0	0	0	0
+/S S s s S s s S/	S S s s1 S s s S	0	0	0	0	0	0	0	0
+/S S s s S s s S/	S S s s S1 s s S	0	0	0	0	0	0	0	0
+/S S s s S s s S/	S S s s S s1 s S	0	0	0	1	1	1	1	1
+/S S s s S s s S/	S S s s S s s1 S	0	1	1	0	0	0	0	0
+/S S s s S s s S/	S S s s S s s S1	1	0	0	0	0	0	0	0
+/S S s s S s s s/	S1 S s s S s s s	0	0	0	0	0	0	0	0
+/S S s s S s s s/	S S1 s s S s s s	0	0	0	0	0	0	0	0
+/S S s s S s s s/	S S s1 s S s s s	0	0	0	0	0	0	0	0
+/S S s s S s s s/	S S s s1 S s s s	0	0	0	0	0	0	0	0
+/S S s s S s s s/	S S s s S1 s s s	0	0	0	0	0	0	0	0
+/S S s s S s s s/	S S s s S s1 s s	0	0	0	1	1	1	1	1
+/S S s s S s s s/	S S s s S s s1 s	0	1	1	0	0	0	0	0
+/S S s s S s s s/	S S s s S s s s1	1	0	0	0	0	0	0	0
+/S S s s s S S S/	S1 S s s s S S S	0	0	0	0	0	0	0	0
+/S S s s s S S S/	S S1 s s s S S S	0	0	0	0	0	0	0	0
+/S S s s s S S S/	S S s1 s s S S S	0	0	0	0	0	0	0	0
+/S S s s s S S S/	S S s s1 s S S S	0	0	0	0	0	0	0	0
+/S S s s s S S S/	S S s s s1 S S S	0	0	0	0	0	1	1	1
+/S S s s s S S S/	S S s s s S1 S S	0	0	0	1	1	0	0	0
+/S S s s s S S S/	S S s s s S S1 S	0	1	1	0	0	0	0	0
+/S S s s s S S S/	S S s s s S S S1	1	0	0	0	0	0	0	0
+/S S s s s S S s/	S1 S s s s S S s	0	0	0	0	0	0	0	0
+/S S s s s S S s/	S S1 s s s S S s	0	0	0	0	0	0	0	0
+/S S s s s S S s/	S S s1 s s S S s	0	0	0	0	0	0	0	0
+/S S s s s S S s/	S S s s1 s S S s	0	0	0	0	0	0	0	0
+/S S s s s S S s/	S S s s s1 S S s	0	0	0	0	0	1	1	1
+/S S s s s S S s/	S S s s s S1 S s	0	0	0	1	0	0	0	0
+/S S s s s S S s/	S S s s s S S1 s	0	1	0	0	0	0	0	0
+/S S s s s S S s/	S S s s s S S s1	1	0	1	0	1	0	0	0
+/S S s s s S s S/	S1 S s s s S s S	0	0	0	0	0	0	0	0
+/S S s s s S s S/	S S1 s s s S s S	0	0	0	0	0	0	0	0
+/S S s s s S s S/	S S s1 s s S s S	0	0	0	0	0	0	0	0
+/S S s s s S s S/	S S s s1 s S s S	0	0	0	0	0	0	0	0
+/S S s s s S s S/	S S s s s1 S s S	0	0	0	0	0	1	1	1
+/S S s s s S s S/	S S s s s S1 s S	0	0	0	1	0	0	0	0
+/S S s s s S s S/	S S s s s S s1 S	0	1	1	0	1	0	0	0
+/S S s s s S s S/	S S s s s S s S1	1	0	0	0	0	0	0	0
+/S S s s s S s s/	S1 S s s s S s s	0	0	0	0	0	0	0	0
+/S S s s s S s s/	S S1 s s s S s s	0	0	0	0	0	0	0	0
+/S S s s s S s s/	S S s1 s s S s s	0	0	0	0	0	0	0	0
+/S S s s s S s s/	S S s s1 s S s s	0	0	0	0	0	0	0	0
+/S S s s s S s s/	S S s s s1 S s s	0	0	0	0	0	1	1	1
+/S S s s s S s s/	S S s s s S1 s s	0	0	0	1	0	0	0	0
+/S S s s s S s s/	S S s s s S s1 s	0	1	1	0	1	0	0	0
+/S S s s s S s s/	S S s s s S s s1	1	0	0	0	0	0	0	0
+/S S s s s s S S/	S1 S s s s s S S	0	0	0	0	0	0	0	0
+/S S s s s s S S/	S S1 s s s s S S	0	0	0	0	0	0	0	0
+/S S s s s s S S/	S S s1 s s s S S	0	0	0	0	0	0	0	0
+/S S s s s s S S/	S S s s1 s s S S	0	0	0	0	0	0	0	0
+/S S s s s s S S/	S S s s s1 s S S	0	0	0	0	0	0	0	0
+/S S s s s s S S/	S S s s s s1 S S	0	0	0	1	1	1	1	1
+/S S s s s s S S/	S S s s s s S1 S	0	1	1	0	0	0	0	0
+/S S s s s s S S/	S S s s s s S S1	1	0	0	0	0	0	0	0
+/S S s s s s S s/	S1 S s s s s S s	0	0	0	0	0	0	0	0
+/S S s s s s S s/	S S1 s s s s S s	0	0	0	0	0	0	0	0
+/S S s s s s S s/	S S s1 s s s S s	0	0	0	0	0	0	0	0
+/S S s s s s S s/	S S s s1 s s S s	0	0	0	0	0	0	0	0
+/S S s s s s S s/	S S s s s1 s S s	0	0	0	0	0	0	0	0
+/S S s s s s S s/	S S s s s s1 S s	0	0	0	1	1	1	1	1
+/S S s s s s S s/	S S s s s s S1 s	0	1	0	0	0	0	0	0
+/S S s s s s S s/	S S s s s s S s1	1	0	1	0	0	0	0	0
+/S S s s s s s S/	S1 S s s s s s S	0	0	0	0	0	0	0	0
+/S S s s s s s S/	S S1 s s s s s S	0	0	0	0	0	0	0	0
+/S S s s s s s S/	S S s1 s s s s S	0	0	0	0	0	0	0	0
+/S S s s s s s S/	S S s s1 s s s S	0	0	0	0	0	0	0	0
+/S S s s s s s S/	S S s s s1 s s S	0	0	0	0	0	0	0	0
+/S S s s s s s S/	S S s s s s1 s S	0	0	0	1	1	1	1	1
+/S S s s s s s S/	S S s s s s s1 S	0	1	1	0	0	0	0	0
+/S S s s s s s S/	S S s s s s s S1	1	0	0	0	0	0	0	0
+/S S s s s s s s/	S1 S s s s s s s	0	0	0	0	0	0	0	0
+/S S s s s s s s/	S S1 s s s s s s	0	0	0	0	0	0	0	0
+/S S s s s s s s/	S S s1 s s s s s	0	0	0	0	0	0	0	0
+/S S s s s s s s/	S S s s1 s s s s	0	0	0	0	0	0	0	0
+/S S s s s s s s/	S S s s s1 s s s	0	0	0	0	0	0	0	0
+/S S s s s s s s/	S S s s s s1 s s	0	0	0	1	1	1	1	1
+/S S s s s s s s/	S S s s s s s1 s	0	1	1	0	0	0	0	0
+/S S s s s s s s/	S S s s s s s s1	1	0	0	0	0	0	0	0
+/S s S S S S S S/	S1 s S S S S S S	0	0	0	0	0	0	0	0
+/S s S S S S S S/	S s1 S S S S S S	0	0	0	0	0	0	0	0
+/S s S S S S S S/	S s S1 S S S S S	0	0	0	0	0	0	0	0
+/S s S S S S S S/	S s S S1 S S S S	0	0	0	0	0	0	0	0
+/S s S S S S S S/	S s S S S1 S S S	0	0	0	0	0	0	0	0
+/S s S S S S S S/	S s S S S S1 S S	0	0	0	1	1	1	1	1
+/S s S S S S S S/	S s S S S S S1 S	0	1	1	0	0	0	0	0
+/S s S S S S S S/	S s S S S S S S1	1	0	0	0	0	0	0	0
+/S s S S S S S s/	S1 s S S S S S s	0	0	0	0	0	0	0	0
+/S s S S S S S s/	S s1 S S S S S s	0	0	0	0	0	0	0	0
+/S s S S S S S s/	S s S1 S S S S s	0	0	0	0	0	0	0	0
+/S s S S S S S s/	S s S S1 S S S s	0	0	0	0	0	0	0	0
+/S s S S S S S s/	S s S S S1 S S s	0	0	0	0	0	0	0	0
+/S s S S S S S s/	S s S S S S1 S s	0	0	0	1	0	1	1	1
+/S s S S S S S s/	S s S S S S S1 s	0	1	0	0	0	0	0	0
+/S s S S S S S s/	S s S S S S S s1	1	0	1	0	1	0	0	0
+/S s S S S S s S/	S1 s S S S S s S	0	0	0	0	0	0	0	0
+/S s S S S S s S/	S s1 S S S S s S	0	0	0	0	0	0	0	0
+/S s S S S S s S/	S s S1 S S S s S	0	0	0	0	0	0	0	0
+/S s S S S S s S/	S s S S1 S S s S	0	0	0	0	0	0	0	0
+/S s S S S S s S/	S s S S S1 S s S	0	0	0	0	0	0	0	0
+/S s S S S S s S/	S s S S S S1 s S	0	0	0	1	0	0	0	0
+/S s S S S S s S/	S s S S S S s1 S	0	1	1	0	1	1	1	1
+/S s S S S S s S/	S s S S S S s S1	1	0	0	0	0	0	0	0
+/S s S S S S s s/	S1 s S S S S s s	0	0	0	0	0	0	0	0
+/S s S S S S s s/	S s1 S S S S s s	0	0	0	0	0	0	0	0
+/S s S S S S s s/	S s S1 S S S s s	0	0	0	0	0	0	0	0
+/S s S S S S s s/	S s S S1 S S s s	0	0	0	0	0	0	0	0
+/S s S S S S s s/	S s S S S1 S s s	0	0	0	0	0	0	0	0
+/S s S S S S s s/	S s S S S S1 s s	0	0	0	1	0	0	0	0
+/S s S S S S s s/	S s S S S S s1 s	0	1	1	0	1	1	1	1
+/S s S S S S s s/	S s S S S S s s1	1	0	0	0	0	0	0	0
+/S s S S S s S S/	S1 s S S S s S S	0	0	0	0	0	0	0	0
+/S s S S S s S S/	S s1 S S S s S S	0	0	0	0	0	0	0	0
+/S s S S S s S S/	S s S1 S S s S S	0	0	0	0	0	0	0	0
+/S s S S S s S S/	S s S S1 S s S S	0	0	0	0	0	0	0	0
+/S s S S S s S S/	S s S S S1 s S S	0	0	0	0	0	0	0	0
+/S s S S S s S S/	S s S S S s1 S S	0	0	0	1	1	1	1	1
+/S s S S S s S S/	S s S S S s S1 S	0	1	1	0	0	0	0	0
+/S s S S S s S S/	S s S S S s S S1	1	0	0	0	0	0	0	0
+/S s S S S s S s/	S1 s S S S s S s	0	0	0	0	0	0	0	0
+/S s S S S s S s/	S s1 S S S s S s	0	0	0	0	0	0	0	0
+/S s S S S s S s/	S s S1 S S s S s	0	0	0	0	0	0	0	0
+/S s S S S s S s/	S s S S1 S s S s	0	0	0	0	0	0	0	0
+/S s S S S s S s/	S s S S S1 s S s	0	0	0	0	0	0	0	0
+/S s S S S s S s/	S s S S S s1 S s	0	0	0	1	1	1	1	1
+/S s S S S s S s/	S s S S S s S1 s	0	1	0	0	0	0	0	0
+/S s S S S s S s/	S s S S S s S s1	1	0	1	0	0	0	0	0
+/S s S S S s s S/	S1 s S S S s s S	0	0	0	0	0	0	0	0
+/S s S S S s s S/	S s1 S S S s s S	0	0	0	0	0	0	0	0
+/S s S S S s s S/	S s S1 S S s s S	0	0	0	0	0	0	0	0
+/S s S S S s s S/	S s S S1 S s s S	0	0	0	0	0	0	0	0
+/S s S S S s s S/	S s S S S1 s s S	0	0	0	0	0	0	0	0
+/S s S S S s s S/	S s S S S s1 s S	0	0	0	1	1	1	1	1
+/S s S S S s s S/	S s S S S s s1 S	0	1	1	0	0	0	0	0
+/S s S S S s s S/	S s S S S s s S1	1	0	0	0	0	0	0	0
+/S s S S S s s s/	S1 s S S S s s s	0	0	0	0	0	0	0	0
+/S s S S S s s s/	S s1 S S S s s s	0	0	0	0	0	0	0	0
+/S s S S S s s s/	S s S1 S S s s s	0	0	0	0	0	0	0	0
+/S s S S S s s s/	S s S S1 S s s s	0	0	0	0	0	0	0	0
+/S s S S S s s s/	S s S S S1 s s s	0	0	0	0	0	0	0	0
+/S s S S S s s s/	S s S S S s1 s s	0	0	0	1	1	1	1	1
+/S s S S S s s s/	S s S S S s s1 s	0	1	1	0	0	0	0	0
+/S s S S S s s s/	S s S S S s s s1	1	0	0	0	0	0	0	0
+/S s S S s S S S/	S1 s S S s S S S	0	0	0	0	0	0	0	0
+/S s S S s S S S/	S s1 S S s S S S	0	0	0	0	0	0	0	0
+/S s S S s S S S/	S s S1 S s S S S	0	0	0	0	0	0	0	0
+/S s S S s S S S/	S s S S1 s S S S	0	0	0	0	0	0	0	0
+/S s S S s S S S/	S s S S s1 S S S	0	0	0	0	0	1	1	1
+/S s S S s S S S/	S s S S s S1 S S	0	0	0	1	1	0	0	0
+/S s S S s S S S/	S s S S s S S1 S	0	1	1	0	0	0	0	0
+/S s S S s S S S/	S s S S s S S S1	1	0	0	0	0	0	0	0
+/S s S S s S S s/	S1 s S S s S S s	0	0	0	0	0	0	0	0
+/S s S S s S S s/	S s1 S S s S S s	0	0	0	0	0	0	0	0
+/S s S S s S S s/	S s S1 S s S S s	0	0	0	0	0	0	0	0
+/S s S S s S S s/	S s S S1 s S S s	0	0	0	0	0	0	0	0
+/S s S S s S S s/	S s S S s1 S S s	0	0	0	0	0	1	1	1
+/S s S S s S S s/	S s S S s S1 S s	0	0	0	1	0	0	0	0
+/S s S S s S S s/	S s S S s S S1 s	0	1	0	0	0	0	0	0
+/S s S S s S S s/	S s S S s S S s1	1	0	1	0	1	0	0	0
+/S s S S s S s S/	S1 s S S s S s S	0	0	0	0	0	0	0	0
+/S s S S s S s S/	S s1 S S s S s S	0	0	0	0	0	0	0	0
+/S s S S s S s S/	S s S1 S s S s S	0	0	0	0	0	0	0	0
+/S s S S s S s S/	S s S S1 s S s S	0	0	0	0	0	0	0	0
+/S s S S s S s S/	S s S S s1 S s S	0	0	0	0	0	1	1	1
+/S s S S s S s S/	S s S S s S1 s S	0	0	0	1	0	0	0	0
+/S s S S s S s S/	S s S S s S s1 S	0	1	1	0	1	0	0	0
+/S s S S s S s S/	S s S S s S s S1	1	0	0	0	0	0	0	0
+/S s S S s S s s/	S1 s S S s S s s	0	0	0	0	0	0	0	0
+/S s S S s S s s/	S s1 S S s S s s	0	0	0	0	0	0	0	0
+/S s S S s S s s/	S s S1 S s S s s	0	0	0	0	0	0	0	0
+/S s S S s S s s/	S s S S1 s S s s	0	0	0	0	0	0	0	0
+/S s S S s S s s/	S s S S s1 S s s	0	0	0	0	0	1	1	1
+/S s S S s S s s/	S s S S s S1 s s	0	0	0	1	0	0	0	0
+/S s S S s S s s/	S s S S s S s1 s	0	1	1	0	1	0	0	0
+/S s S S s S s s/	S s S S s S s s1	1	0	0	0	0	0	0	0
+/S s S S s s S S/	S1 s S S s s S S	0	0	0	0	0	0	0	0
+/S s S S s s S S/	S s1 S S s s S S	0	0	0	0	0	0	0	0
+/S s S S s s S S/	S s S1 S s s S S	0	0	0	0	0	0	0	0
+/S s S S s s S S/	S s S S1 s s S S	0	0	0	0	0	0	0	0
+/S s S S s s S S/	S s S S s1 s S S	0	0	0	0	0	0	0	0
+/S s S S s s S S/	S s S S s s1 S S	0	0	0	1	1	1	1	1
+/S s S S s s S S/	S s S S s s S1 S	0	1	1	0	0	0	0	0
+/S s S S s s S S/	S s S S s s S S1	1	0	0	0	0	0	0	0
+/S s S S s s S s/	S1 s S S s s S s	0	0	0	0	0	0	0	0
+/S s S S s s S s/	S s1 S S s s S s	0	0	0	0	0	0	0	0
+/S s S S s s S s/	S s S1 S s s S s	0	0	0	0	0	0	0	0
+/S s S S s s S s/	S s S S1 s s S s	0	0	0	0	0	0	0	0
+/S s S S s s S s/	S s S S s1 s S s	0	0	0	0	0	0	0	0
+/S s S S s s S s/	S s S S s s1 S s	0	0	0	1	1	1	1	1
+/S s S S s s S s/	S s S S s s S1 s	0	1	0	0	0	0	0	0
+/S s S S s s S s/	S s S S s s S s1	1	0	1	0	0	0	0	0
+/S s S S s s s S/	S1 s S S s s s S	0	0	0	0	0	0	0	0
+/S s S S s s s S/	S s1 S S s s s S	0	0	0	0	0	0	0	0
+/S s S S s s s S/	S s S1 S s s s S	0	0	0	0	0	0	0	0
+/S s S S s s s S/	S s S S1 s s s S	0	0	0	0	0	0	0	0
+/S s S S s s s S/	S s S S s1 s s S	0	0	0	0	0	0	0	0
+/S s S S s s s S/	S s S S s s1 s S	0	0	0	1	1	1	1	1
+/S s S S s s s S/	S s S S s s s1 S	0	1	1	0	0	0	0	0
+/S s S S s s s S/	S s S S s s s S1	1	0	0	0	0	0	0	0
+/S s S S s s s s/	S1 s S S s s s s	0	0	0	0	0	0	0	0
+/S s S S s s s s/	S s1 S S s s s s	0	0	0	0	0	0	0	0
+/S s S S s s s s/	S s S1 S s s s s	0	0	0	0	0	0	0	0
+/S s S S s s s s/	S s S S1 s s s s	0	0	0	0	0	0	0	0
+/S s S S s s s s/	S s S S s1 s s s	0	0	0	0	0	0	0	0
+/S s S S s s s s/	S s S S s s1 s s	0	0	0	1	1	1	1	1
+/S s S S s s s s/	S s S S s s s1 s	0	1	1	0	0	0	0	0
+/S s S S s s s s/	S s S S s s s s1	1	0	0	0	0	0	0	0
+/S s S s S S S S/	S1 s S s S S S S	0	0	0	0	0	0	0	0
+/S s S s S S S S/	S s1 S s S S S S	0	0	0	0	0	0	0	0
+/S s S s S S S S/	S s S1 s S S S S	0	0	0	0	0	0	0	0
+/S s S s S S S S/	S s S s1 S S S S	0	0	0	0	0	0	1	1
+/S s S s S S S S/	S s S s S1 S S S	0	0	0	0	0	0	0	0
+/S s S s S S S S/	S s S s S S1 S S	0	0	0	1	1	1	0	0
+/S s S s S S S S/	S s S s S S S1 S	0	1	1	0	0	0	0	0
+/S s S s S S S S/	S s S s S S S S1	1	0	0	0	0	0	0	0
+/S s S s S S S s/	S1 s S s S S S s	0	0	0	0	0	0	0	0
+/S s S s S S S s/	S s1 S s S S S s	0	0	0	0	0	0	0	0
+/S s S s S S S s/	S s S1 s S S S s	0	0	0	0	0	0	0	0
+/S s S s S S S s/	S s S s1 S S S s	0	0	0	0	0	0	1	1
+/S s S s S S S s/	S s S s S1 S S s	0	0	0	0	0	0	0	0
+/S s S s S S S s/	S s S s S S1 S s	0	0	0	1	0	1	0	0
+/S s S s S S S s/	S s S s S S S1 s	0	1	0	0	0	0	0	0
+/S s S s S S S s/	S s S s S S S s1	1	0	1	0	1	0	0	0
+/S s S s S S s S/	S1 s S s S S s S	0	0	0	0	0	0	0	0
+/S s S s S S s S/	S s1 S s S S s S	0	0	0	0	0	0	0	0
+/S s S s S S s S/	S s S1 s S S s S	0	0	0	0	0	0	0	0
+/S s S s S S s S/	S s S s1 S S s S	0	0	0	0	0	0	1	1
+/S s S s S S s S/	S s S s S1 S s S	0	0	0	0	0	0	0	0
+/S s S s S S s S/	S s S s S S1 s S	0	0	0	1	0	0	0	0
+/S s S s S S s S/	S s S s S S s1 S	0	1	1	0	1	1	0	0
+/S s S s S S s S/	S s S s S S s S1	1	0	0	0	0	0	0	0
+/S s S s S S s s/	S1 s S s S S s s	0	0	0	0	0	0	0	0
+/S s S s S S s s/	S s1 S s S S s s	0	0	0	0	0	0	0	0
+/S s S s S S s s/	S s S1 s S S s s	0	0	0	0	0	0	0	0
+/S s S s S S s s/	S s S s1 S S s s	0	0	0	0	0	0	1	1
+/S s S s S S s s/	S s S s S1 S s s	0	0	0	0	0	0	0	0
+/S s S s S S s s/	S s S s S S1 s s	0	0	0	1	0	0	0	0
+/S s S s S S s s/	S s S s S S s1 s	0	1	1	0	1	1	0	0
+/S s S s S S s s/	S s S s S S s s1	1	0	0	0	0	0	0	0
+/S s S s S s S S/	S1 s S s S s S S	0	0	0	0	0	0	0	0
+/S s S s S s S S/	S s1 S s S s S S	0	0	0	0	0	0	0	0
+/S s S s S s S S/	S s S1 s S s S S	0	0	0	0	0	0	0	0
+/S s S s S s S S/	S s S s1 S s S S	0	0	0	0	0	0	0	0
+/S s S s S s S S/	S s S s S1 s S S	0	0	0	0	0	0	0	0
+/S s S s S s S S/	S s S s S s1 S S	0	0	0	1	1	1	1	1
+/S s S s S s S S/	S s S s S s S1 S	0	1	1	0	0	0	0	0
+/S s S s S s S S/	S s S s S s S S1	1	0	0	0	0	0	0	0
+/S s S s S s S s/	S1 s S s S s S s	0	0	0	0	0	0	0	0
+/S s S s S s S s/	S s1 S s S s S s	0	0	0	0	0	0	0	0
+/S s S s S s S s/	S s S1 s S s S s	0	0	0	0	0	0	0	0
+/S s S s S s S s/	S s S s1 S s S s	0	0	0	0	0	0	0	0
+/S s S s S s S s/	S s S s S1 s S s	0	0	0	0	0	0	0	0
+/S s S s S s S s/	S s S s S s1 S s	0	0	0	1	1	1	1	1
+/S s S s S s S s/	S s S s S s S1 s	0	1	0	0	0	0	0	0
+/S s S s S s S s/	S s S s S s S s1	1	0	1	0	0	0	0	0
+/S s S s S s s S/	S1 s S s S s s S	0	0	0	0	0	0	0	0
+/S s S s S s s S/	S s1 S s S s s S	0	0	0	0	0	0	0	0
+/S s S s S s s S/	S s S1 s S s s S	0	0	0	0	0	0	0	0
+/S s S s S s s S/	S s S s1 S s s S	0	0	0	0	0	0	0	0
+/S s S s S s s S/	S s S s S1 s s S	0	0	0	0	0	0	0	0
+/S s S s S s s S/	S s S s S s1 s S	0	0	0	1	1	1	1	1
+/S s S s S s s S/	S s S s S s s1 S	0	1	1	0	0	0	0	0
+/S s S s S s s S/	S s S s S s s S1	1	0	0	0	0	0	0	0
+/S s S s S s s s/	S1 s S s S s s s	0	0	0	0	0	0	0	0
+/S s S s S s s s/	S s1 S s S s s s	0	0	0	0	0	0	0	0
+/S s S s S s s s/	S s S1 s S s s s	0	0	0	0	0	0	0	0
+/S s S s S s s s/	S s S s1 S s s s	0	0	0	0	0	0	0	0
+/S s S s S s s s/	S s S s S1 s s s	0	0	0	0	0	0	0	0
+/S s S s S s s s/	S s S s S s1 s s	0	0	0	1	1	1	1	1
+/S s S s S s s s/	S s S s S s s1 s	0	1	1	0	0	0	0	0
+/S s S s S s s s/	S s S s S s s s1	1	0	0	0	0	0	0	0
+/S s S s s S S S/	S1 s S s s S S S	0	0	0	0	0	0	0	0
+/S s S s s S S S/	S s1 S s s S S S	0	0	0	0	0	0	0	0
+/S s S s s S S S/	S s S1 s s S S S	0	0	0	0	0	0	0	0
+/S s S s s S S S/	S s S s1 s S S S	0	0	0	0	0	0	0	0
+/S s S s s S S S/	S s S s s1 S S S	0	0	0	0	0	1	1	1
+/S s S s s S S S/	S s S s s S1 S S	0	0	0	1	1	0	0	0
+/S s S s s S S S/	S s S s s S S1 S	0	1	1	0	0	0	0	0
+/S s S s s S S S/	S s S s s S S S1	1	0	0	0	0	0	0	0
+/S s S s s S S s/	S1 s S s s S S s	0	0	0	0	0	0	0	0
+/S s S s s S S s/	S s1 S s s S S s	0	0	0	0	0	0	0	0
+/S s S s s S S s/	S s S1 s s S S s	0	0	0	0	0	0	0	0
+/S s S s s S S s/	S s S s1 s S S s	0	0	0	0	0	0	0	0
+/S s S s s S S s/	S s S s s1 S S s	0	0	0	0	0	1	1	1
+/S s S s s S S s/	S s S s s S1 S s	0	0	0	1	0	0	0	0
+/S s S s s S S s/	S s S s s S S1 s	0	1	0	0	0	0	0	0
+/S s S s s S S s/	S s S s s S S s1	1	0	1	0	1	0	0	0
+/S s S s s S s S/	S1 s S s s S s S	0	0	0	0	0	0	0	0
+/S s S s s S s S/	S s1 S s s S s S	0	0	0	0	0	0	0	0
+/S s S s s S s S/	S s S1 s s S s S	0	0	0	0	0	0	0	0
+/S s S s s S s S/	S s S s1 s S s S	0	0	0	0	0	0	0	0
+/S s S s s S s S/	S s S s s1 S s S	0	0	0	0	0	1	1	1
+/S s S s s S s S/	S s S s s S1 s S	0	0	0	1	0	0	0	0
+/S s S s s S s S/	S s S s s S s1 S	0	1	1	0	1	0	0	0
+/S s S s s S s S/	S s S s s S s S1	1	0	0	0	0	0	0	0
+/S s S s s S s s/	S1 s S s s S s s	0	0	0	0	0	0	0	0
+/S s S s s S s s/	S s1 S s s S s s	0	0	0	0	0	0	0	0
+/S s S s s S s s/	S s S1 s s S s s	0	0	0	0	0	0	0	0
+/S s S s s S s s/	S s S s1 s S s s	0	0	0	0	0	0	0	0
+/S s S s s S s s/	S s S s s1 S s s	0	0	0	0	0	1	1	1
+/S s S s s S s s/	S s S s s S1 s s	0	0	0	1	0	0	0	0
+/S s S s s S s s/	S s S s s S s1 s	0	1	1	0	1	0	0	0
+/S s S s s S s s/	S s S s s S s s1	1	0	0	0	0	0	0	0
+/S s S s s s S S/	S1 s S s s s S S	0	0	0	0	0	0	0	0
+/S s S s s s S S/	S s1 S s s s S S	0	0	0	0	0	0	0	0
+/S s S s s s S S/	S s S1 s s s S S	0	0	0	0	0	0	0	0
+/S s S s s s S S/	S s S s1 s s S S	0	0	0	0	0	0	0	0
+/S s S s s s S S/	S s S s s1 s S S	0	0	0	0	0	0	0	0
+/S s S s s s S S/	S s S s s s1 S S	0	0	0	1	1	1	1	1
+/S s S s s s S S/	S s S s s s S1 S	0	1	1	0	0	0	0	0
+/S s S s s s S S/	S s S s s s S S1	1	0	0	0	0	0	0	0
+/S s S s s s S s/	S1 s S s s s S s	0	0	0	0	0	0	0	0
+/S s S s s s S s/	S s1 S s s s S s	0	0	0	0	0	0	0	0
+/S s S s s s S s/	S s S1 s s s S s	0	0	0	0	0	0	0	0
+/S s S s s s S s/	S s S s1 s s S s	0	0	0	0	0	0	0	0
+/S s S s s s S s/	S s S s s1 s S s	0	0	0	0	0	0	0	0
+/S s S s s s S s/	S s S s s s1 S s	0	0	0	1	1	1	1	1
+/S s S s s s S s/	S s S s s s S1 s	0	1	0	0	0	0	0	0
+/S s S s s s S s/	S s S s s s S s1	1	0	1	0	0	0	0	0
+/S s S s s s s S/	S1 s S s s s s S	0	0	0	0	0	0	0	0
+/S s S s s s s S/	S s1 S s s s s S	0	0	0	0	0	0	0	0
+/S s S s s s s S/	S s S1 s s s s S	0	0	0	0	0	0	0	0
+/S s S s s s s S/	S s S s1 s s s S	0	0	0	0	0	0	0	0
+/S s S s s s s S/	S s S s s1 s s S	0	0	0	0	0	0	0	0
+/S s S s s s s S/	S s S s s s1 s S	0	0	0	1	1	1	1	1
+/S s S s s s s S/	S s S s s s s1 S	0	1	1	0	0	0	0	0
+/S s S s s s s S/	S s S s s s s S1	1	0	0	0	0	0	0	0
+/S s S s s s s s/	S1 s S s s s s s	0	0	0	0	0	0	0	0
+/S s S s s s s s/	S s1 S s s s s s	0	0	0	0	0	0	0	0
+/S s S s s s s s/	S s S1 s s s s s	0	0	0	0	0	0	0	0
+/S s S s s s s s/	S s S s1 s s s s	0	0	0	0	0	0	0	0
+/S s S s s s s s/	S s S s s1 s s s	0	0	0	0	0	0	0	0
+/S s S s s s s s/	S s S s s s1 s s	0	0	0	1	1	1	1	1
+/S s S s s s s s/	S s S s s s s1 s	0	1	1	0	0	0	0	0
+/S s S s s s s s/	S s S s s s s s1	1	0	0	0	0	0	0	0
+/S s s S S S S S/	S1 s s S S S S S	0	0	0	0	0	0	0	0
+/S s s S S S S S/	S s1 s S S S S S	0	0	0	0	0	0	0	0
+/S s s S S S S S/	S s s1 S S S S S	0	0	0	0	0	0	0	1
+/S s s S S S S S/	S s s S1 S S S S	0	0	0	0	0	0	0	0
+/S s s S S S S S/	S s s S S1 S S S	0	0	0	0	0	0	0	0
+/S s s S S S S S/	S s s S S S1 S S	0	0	0	1	1	1	1	0
+/S s s S S S S S/	S s s S S S S1 S	0	1	1	0	0	0	0	0
+/S s s S S S S S/	S s s S S S S S1	1	0	0	0	0	0	0	0
+/S s s S S S S s/	S1 s s S S S S s	0	0	0	0	0	0	0	0
+/S s s S S S S s/	S s1 s S S S S s	0	0	0	0	0	0	0	0
+/S s s S S S S s/	S s s1 S S S S s	0	0	0	0	0	0	0	1
+/S s s S S S S s/	S s s S1 S S S s	0	0	0	0	0	0	0	0
+/S s s S S S S s/	S s s S S1 S S s	0	0	0	0	0	0	0	0
+/S s s S S S S s/	S s s S S S1 S s	0	0	0	1	0	1	1	0
+/S s s S S S S s/	S s s S S S S1 s	0	1	0	0	0	0	0	0
+/S s s S S S S s/	S s s S S S S s1	1	0	1	0	1	0	0	0
+/S s s S S S s S/	S1 s s S S S s S	0	0	0	0	0	0	0	0
+/S s s S S S s S/	S s1 s S S S s S	0	0	0	0	0	0	0	0
+/S s s S S S s S/	S s s1 S S S s S	0	0	0	0	0	0	0	1
+/S s s S S S s S/	S s s S1 S S s S	0	0	0	0	0	0	0	0
+/S s s S S S s S/	S s s S S1 S s S	0	0	0	0	0	0	0	0
+/S s s S S S s S/	S s s S S S1 s S	0	0	0	1	0	0	0	0
+/S s s S S S s S/	S s s S S S s1 S	0	1	1	0	1	1	1	0
+/S s s S S S s S/	S s s S S S s S1	1	0	0	0	0	0	0	0
+/S s s S S S s s/	S1 s s S S S s s	0	0	0	0	0	0	0	0
+/S s s S S S s s/	S s1 s S S S s s	0	0	0	0	0	0	0	0
+/S s s S S S s s/	S s s1 S S S s s	0	0	0	0	0	0	0	1
+/S s s S S S s s/	S s s S1 S S s s	0	0	0	0	0	0	0	0
+/S s s S S S s s/	S s s S S1 S s s	0	0	0	0	0	0	0	0
+/S s s S S S s s/	S s s S S S1 s s	0	0	0	1	0	0	0	0
+/S s s S S S s s/	S s s S S S s1 s	0	1	1	0	1	1	1	0
+/S s s S S S s s/	S s s S S S s s1	1	0	0	0	0	0	0	0
+/S s s S S s S S/	S1 s s S S s S S	0	0	0	0	0	0	0	0
+/S s s S S s S S/	S s1 s S S s S S	0	0	0	0	0	0	0	0
+/S s s S S s S S/	S s s1 S S s S S	0	0	0	0	0	0	0	0
+/S s s S S s S S/	S s s S1 S s S S	0	0	0	0	0	0	0	0
+/S s s S S s S S/	S s s S S1 s S S	0	0	0	0	0	0	0	0
+/S s s S S s S S/	S s s S S s1 S S	0	0	0	1	1	1	1	1
+/S s s S S s S S/	S s s S S s S1 S	0	1	1	0	0	0	0	0
+/S s s S S s S S/	S s s S S s S S1	1	0	0	0	0	0	0	0
+/S s s S S s S s/	S1 s s S S s S s	0	0	0	0	0	0	0	0
+/S s s S S s S s/	S s1 s S S s S s	0	0	0	0	0	0	0	0
+/S s s S S s S s/	S s s1 S S s S s	0	0	0	0	0	0	0	0
+/S s s S S s S s/	S s s S1 S s S s	0	0	0	0	0	0	0	0
+/S s s S S s S s/	S s s S S1 s S s	0	0	0	0	0	0	0	0
+/S s s S S s S s/	S s s S S s1 S s	0	0	0	1	1	1	1	1
+/S s s S S s S s/	S s s S S s S1 s	0	1	0	0	0	0	0	0
+/S s s S S s S s/	S s s S S s S s1	1	0	1	0	0	0	0	0
+/S s s S S s s S/	S1 s s S S s s S	0	0	0	0	0	0	0	0
+/S s s S S s s S/	S s1 s S S s s S	0	0	0	0	0	0	0	0
+/S s s S S s s S/	S s s1 S S s s S	0	0	0	0	0	0	0	0
+/S s s S S s s S/	S s s S1 S s s S	0	0	0	0	0	0	0	0
+/S s s S S s s S/	S s s S S1 s s S	0	0	0	0	0	0	0	0
+/S s s S S s s S/	S s s S S s1 s S	0	0	0	1	1	1	1	1
+/S s s S S s s S/	S s s S S s s1 S	0	1	1	0	0	0	0	0
+/S s s S S s s S/	S s s S S s s S1	1	0	0	0	0	0	0	0
+/S s s S S s s s/	S1 s s S S s s s	0	0	0	0	0	0	0	0
+/S s s S S s s s/	S s1 s S S s s s	0	0	0	0	0	0	0	0
+/S s s S S s s s/	S s s1 S S s s s	0	0	0	0	0	0	0	0
+/S s s S S s s s/	S s s S1 S s s s	0	0	0	0	0	0	0	0
+/S s s S S s s s/	S s s S S1 s s s	0	0	0	0	0	0	0	0
+/S s s S S s s s/	S s s S S s1 s s	0	0	0	1	1	1	1	1
+/S s s S S s s s/	S s s S S s s1 s	0	1	1	0	0	0	0	0
+/S s s S S s s s/	S s s S S s s s1	1	0	0	0	0	0	0	0
+/S s s S s S S S/	S1 s s S s S S S	0	0	0	0	0	0	0	0
+/S s s S s S S S/	S s1 s S s S S S	0	0	0	0	0	0	0	0
+/S s s S s S S S/	S s s1 S s S S S	0	0	0	0	0	0	0	0
+/S s s S s S S S/	S s s S1 s S S S	0	0	0	0	0	0	0	0
+/S s s S s S S S/	S s s S s1 S S S	0	0	0	0	0	1	1	1
+/S s s S s S S S/	S s s S s S1 S S	0	0	0	1	1	0	0	0
+/S s s S s S S S/	S s s S s S S1 S	0	1	1	0	0	0	0	0
+/S s s S s S S S/	S s s S s S S S1	1	0	0	0	0	0	0	0
+/S s s S s S S s/	S1 s s S s S S s	0	0	0	0	0	0	0	0
+/S s s S s S S s/	S s1 s S s S S s	0	0	0	0	0	0	0	0
+/S s s S s S S s/	S s s1 S s S S s	0	0	0	0	0	0	0	0
+/S s s S s S S s/	S s s S1 s S S s	0	0	0	0	0	0	0	0
+/S s s S s S S s/	S s s S s1 S S s	0	0	0	0	0	1	1	1
+/S s s S s S S s/	S s s S s S1 S s	0	0	0	1	0	0	0	0
+/S s s S s S S s/	S s s S s S S1 s	0	1	0	0	0	0	0	0
+/S s s S s S S s/	S s s S s S S s1	1	0	1	0	1	0	0	0
+/S s s S s S s S/	S1 s s S s S s S	0	0	0	0	0	0	0	0
+/S s s S s S s S/	S s1 s S s S s S	0	0	0	0	0	0	0	0
+/S s s S s S s S/	S s s1 S s S s S	0	0	0	0	0	0	0	0
+/S s s S s S s S/	S s s S1 s S s S	0	0	0	0	0	0	0	0
+/S s s S s S s S/	S s s S s1 S s S	0	0	0	0	0	1	1	1
+/S s s S s S s S/	S s s S s S1 s S	0	0	0	1	0	0	0	0
+/S s s S s S s S/	S s s S s S s1 S	0	1	1	0	1	0	0	0
+/S s s S s S s S/	S s s S s S s S1	1	0	0	0	0	0	0	0
+/S s s S s S s s/	S1 s s S s S s s	0	0	0	0	0	0	0	0
+/S s s S s S s s/	S s1 s S s S s s	0	0	0	0	0	0	0	0
+/S s s S s S s s/	S s s1 S s S s s	0	0	0	0	0	0	0	0
+/S s s S s S s s/	S s s S1 s S s s	0	0	0	0	0	0	0	0
+/S s s S s S s s/	S s s S s1 S s s	0	0	0	0	0	1	1	1
+/S s s S s S s s/	S s s S s S1 s s	0	0	0	1	0	0	0	0
+/S s s S s S s s/	S s s S s S s1 s	0	1	1	0	1	0	0	0
+/S s s S s S s s/	S s s S s S s s1	1	0	0	0	0	0	0	0
+/S s s S s s S S/	S1 s s S s s S S	0	0	0	0	0	0	0	0
+/S s s S s s S S/	S s1 s S s s S S	0	0	0	0	0	0	0	0
+/S s s S s s S S/	S s s1 S s s S S	0	0	0	0	0	0	0	0
+/S s s S s s S S/	S s s S1 s s S S	0	0	0	0	0	0	0	0
+/S s s S s s S S/	S s s S s1 s S S	0	0	0	0	0	0	0	0
+/S s s S s s S S/	S s s S s s1 S S	0	0	0	1	1	1	1	1
+/S s s S s s S S/	S s s S s s S1 S	0	1	1	0	0	0	0	0
+/S s s S s s S S/	S s s S s s S S1	1	0	0	0	0	0	0	0
+/S s s S s s S s/	S1 s s S s s S s	0	0	0	0	0	0	0	0
+/S s s S s s S s/	S s1 s S s s S s	0	0	0	0	0	0	0	0
+/S s s S s s S s/	S s s1 S s s S s	0	0	0	0	0	0	0	0
+/S s s S s s S s/	S s s S1 s s S s	0	0	0	0	0	0	0	0
+/S s s S s s S s/	S s s S s1 s S s	0	0	0	0	0	0	0	0
+/S s s S s s S s/	S s s S s s1 S s	0	0	0	1	1	1	1	1
+/S s s S s s S s/	S s s S s s S1 s	0	1	0	0	0	0	0	0
+/S s s S s s S s/	S s s S s s S s1	1	0	1	0	0	0	0	0
+/S s s S s s s S/	S1 s s S s s s S	0	0	0	0	0	0	0	0
+/S s s S s s s S/	S s1 s S s s s S	0	0	0	0	0	0	0	0
+/S s s S s s s S/	S s s1 S s s s S	0	0	0	0	0	0	0	0
+/S s s S s s s S/	S s s S1 s s s S	0	0	0	0	0	0	0	0
+/S s s S s s s S/	S s s S s1 s s S	0	0	0	0	0	0	0	0
+/S s s S s s s S/	S s s S s s1 s S	0	0	0	1	1	1	1	1
+/S s s S s s s S/	S s s S s s s1 S	0	1	1	0	0	0	0	0
+/S s s S s s s S/	S s s S s s s S1	1	0	0	0	0	0	0	0
+/S s s S s s s s/	S1 s s S s s s s	0	0	0	0	0	0	0	0
+/S s s S s s s s/	S s1 s S s s s s	0	0	0	0	0	0	0	0
+/S s s S s s s s/	S s s1 S s s s s	0	0	0	0	0	0	0	0
+/S s s S s s s s/	S s s S1 s s s s	0	0	0	0	0	0	0	0
+/S s s S s s s s/	S s s S s1 s s s	0	0	0	0	0	0	0	0
+/S s s S s s s s/	S s s S s s1 s s	0	0	0	1	1	1	1	1
+/S s s S s s s s/	S s s S s s s1 s	0	1	1	0	0	0	0	0
+/S s s S s s s s/	S s s S s s s s1	1	0	0	0	0	0	0	0
+/S s s s S S S S/	S1 s s s S S S S	0	0	0	0	0	0	0	0
+/S s s s S S S S/	S s1 s s S S S S	0	0	0	0	0	0	0	0
+/S s s s S S S S/	S s s1 s S S S S	0	0	0	0	0	0	0	0
+/S s s s S S S S/	S s s s1 S S S S	0	0	0	0	0	0	1	1
+/S s s s S S S S/	S s s s S1 S S S	0	0	0	0	0	0	0	0
+/S s s s S S S S/	S s s s S S1 S S	0	0	0	1	1	1	0	0
+/S s s s S S S S/	S s s s S S S1 S	0	1	1	0	0	0	0	0
+/S s s s S S S S/	S s s s S S S S1	1	0	0	0	0	0	0	0
+/S s s s S S S s/	S1 s s s S S S s	0	0	0	0	0	0	0	0
+/S s s s S S S s/	S s1 s s S S S s	0	0	0	0	0	0	0	0
+/S s s s S S S s/	S s s1 s S S S s	0	0	0	0	0	0	0	0
+/S s s s S S S s/	S s s s1 S S S s	0	0	0	0	0	0	1	1
+/S s s s S S S s/	S s s s S1 S S s	0	0	0	0	0	0	0	0
+/S s s s S S S s/	S s s s S S1 S s	0	0	0	1	0	1	0	0
+/S s s s S S S s/	S s s s S S S1 s	0	1	0	0	0	0	0	0
+/S s s s S S S s/	S s s s S S S s1	1	0	1	0	1	0	0	0
+/S s s s S S s S/	S1 s s s S S s S	0	0	0	0	0	0	0	0
+/S s s s S S s S/	S s1 s s S S s S	0	0	0	0	0	0	0	0
+/S s s s S S s S/	S s s1 s S S s S	0	0	0	0	0	0	0	0
+/S s s s S S s S/	S s s s1 S S s S	0	0	0	0	0	0	1	1
+/S s s s S S s S/	S s s s S1 S s S	0	0	0	0	0	0	0	0
+/S s s s S S s S/	S s s s S S1 s S	0	0	0	1	0	0	0	0
+/S s s s S S s S/	S s s s S S s1 S	0	1	1	0	1	1	0	0
+/S s s s S S s S/	S s s s S S s S1	1	0	0	0	0	0	0	0
+/S s s s S S s s/	S1 s s s S S s s	0	0	0	0	0	0	0	0
+/S s s s S S s s/	S s1 s s S S s s	0	0	0	0	0	0	0	0
+/S s s s S S s s/	S s s1 s S S s s	0	0	0	0	0	0	0	0
+/S s s s S S s s/	S s s s1 S S s s	0	0	0	0	0	0	1	1
+/S s s s S S s s/	S s s s S1 S s s	0	0	0	0	0	0	0	0
+/S s s s S S s s/	S s s s S S1 s s	0	0	0	1	0	0	0	0
+/S s s s S S s s/	S s s s S S s1 s	0	1	1	0	1	1	0	0
+/S s s s S S s s/	S s s s S S s s1	1	0	0	0	0	0	0	0
+/S s s s S s S S/	S1 s s s S s S S	0	0	0	0	0	0	0	0
+/S s s s S s S S/	S s1 s s S s S S	0	0	0	0	0	0	0	0
+/S s s s S s S S/	S s s1 s S s S S	0	0	0	0	0	0	0	0
+/S s s s S s S S/	S s s s1 S s S S	0	0	0	0	0	0	0	0
+/S s s s S s S S/	S s s s S1 s S S	0	0	0	0	0	0	0	0
+/S s s s S s S S/	S s s s S s1 S S	0	0	0	1	1	1	1	1
+/S s s s S s S S/	S s s s S s S1 S	0	1	1	0	0	0	0	0
+/S s s s S s S S/	S s s s S s S S1	1	0	0	0	0	0	0	0
+/S s s s S s S s/	S1 s s s S s S s	0	0	0	0	0	0	0	0
+/S s s s S s S s/	S s1 s s S s S s	0	0	0	0	0	0	0	0
+/S s s s S s S s/	S s s1 s S s S s	0	0	0	0	0	0	0	0
+/S s s s S s S s/	S s s s1 S s S s	0	0	0	0	0	0	0	0
+/S s s s S s S s/	S s s s S1 s S s	0	0	0	0	0	0	0	0
+/S s s s S s S s/	S s s s S s1 S s	0	0	0	1	1	1	1	1
+/S s s s S s S s/	S s s s S s S1 s	0	1	0	0	0	0	0	0
+/S s s s S s S s/	S s s s S s S s1	1	0	1	0	0	0	0	0
+/S s s s S s s S/	S1 s s s S s s S	0	0	0	0	0	0	0	0
+/S s s s S s s S/	S s1 s s S s s S	0	0	0	0	0	0	0	0
+/S s s s S s s S/	S s s1 s S s s S	0	0	0	0	0	0	0	0
+/S s s s S s s S/	S s s s1 S s s S	0	0	0	0	0	0	0	0
+/S s s s S s s S/	S s s s S1 s s S	0	0	0	0	0	0	0	0
+/S s s s S s s S/	S s s s S s1 s S	0	0	0	1	1	1	1	1
+/S s s s S s s S/	S s s s S s s1 S	0	1	1	0	0	0	0	0
+/S s s s S s s S/	S s s s S s s S1	1	0	0	0	0	0	0	0
+/S s s s S s s s/	S1 s s s S s s s	0	0	0	0	0	0	0	0
+/S s s s S s s s/	S s1 s s S s s s	0	0	0	0	0	0	0	0
+/S s s s S s s s/	S s s1 s S s s s	0	0	0	0	0	0	0	0
+/S s s s S s s s/	S s s s1 S s s s	0	0	0	0	0	0	0	0
+/S s s s S s s s/	S s s s S1 s s s	0	0	0	0	0	0	0	0
+/S s s s S s s s/	S s s s S s1 s s	0	0	0	1	1	1	1	1
+/S s s s S s s s/	S s s s S s s1 s	0	1	1	0	0	0	0	0
+/S s s s S s s s/	S s s s S s s s1	1	0	0	0	0	0	0	0
+/S s s s s S S S/	S1 s s s s S S S	0	0	0	0	0	0	0	0
+/S s s s s S S S/	S s1 s s s S S S	0	0	0	0	0	0	0	0
+/S s s s s S S S/	S s s1 s s S S S	0	0	0	0	0	0	0	0
+/S s s s s S S S/	S s s s1 s S S S	0	0	0	0	0	0	0	0
+/S s s s s S S S/	S s s s s1 S S S	0	0	0	0	0	1	1	1
+/S s s s s S S S/	S s s s s S1 S S	0	0	0	1	1	0	0	0
+/S s s s s S S S/	S s s s s S S1 S	0	1	1	0	0	0	0	0
+/S s s s s S S S/	S s s s s S S S1	1	0	0	0	0	0	0	0
+/S s s s s S S s/	S1 s s s s S S s	0	0	0	0	0	0	0	0
+/S s s s s S S s/	S s1 s s s S S s	0	0	0	0	0	0	0	0
+/S s s s s S S s/	S s s1 s s S S s	0	0	0	0	0	0	0	0
+/S s s s s S S s/	S s s s1 s S S s	0	0	0	0	0	0	0	0
+/S s s s s S S s/	S s s s s1 S S s	0	0	0	0	0	1	1	1
+/S s s s s S S s/	S s s s s S1 S s	0	0	0	1	0	0	0	0
+/S s s s s S S s/	S s s s s S S1 s	0	1	0	0	0	0	0	0
+/S s s s s S S s/	S s s s s S S s1	1	0	1	0	1	0	0	0
+/S s s s s S s S/	S1 s s s s S s S	0	0	0	0	0	0	0	0
+/S s s s s S s S/	S s1 s s s S s S	0	0	0	0	0	0	0	0
+/S s s s s S s S/	S s s1 s s S s S	0	0	0	0	0	0	0	0
+/S s s s s S s S/	S s s s1 s S s S	0	0	0	0	0	0	0	0
+/S s s s s S s S/	S s s s s1 S s S	0	0	0	0	0	1	1	1
+/S s s s s S s S/	S s s s s S1 s S	0	0	0	1	0	0	0	0
+/S s s s s S s S/	S s s s s S s1 S	0	1	1	0	1	0	0	0
+/S s s s s S s S/	S s s s s S s S1	1	0	0	0	0	0	0	0
+/S s s s s S s s/	S1 s s s s S s s	0	0	0	0	0	0	0	0
+/S s s s s S s s/	S s1 s s s S s s	0	0	0	0	0	0	0	0
+/S s s s s S s s/	S s s1 s s S s s	0	0	0	0	0	0	0	0
+/S s s s s S s s/	S s s s1 s S s s	0	0	0	0	0	0	0	0
+/S s s s s S s s/	S s s s s1 S s s	0	0	0	0	0	1	1	1
+/S s s s s S s s/	S s s s s S1 s s	0	0	0	1	0	0	0	0
+/S s s s s S s s/	S s s s s S s1 s	0	1	1	0	1	0	0	0
+/S s s s s S s s/	S s s s s S s s1	1	0	0	0	0	0	0	0
+/S s s s s s S S/	S1 s s s s s S S	0	0	0	0	0	0	0	0
+/S s s s s s S S/	S s1 s s s s S S	0	0	0	0	0	0	0	0
+/S s s s s s S S/	S s s1 s s s S S	0	0	0	0	0	0	0	0
+/S s s s s s S S/	S s s s1 s s S S	0	0	0	0	0	0	0	0
+/S s s s s s S S/	S s s s s1 s S S	0	0	0	0	0	0	0	0
+/S s s s s s S S/	S s s s s s1 S S	0	0	0	1	1	1	1	1
+/S s s s s s S S/	S s s s s s S1 S	0	1	1	0	0	0	0	0
+/S s s s s s S S/	S s s s s s S S1	1	0	0	0	0	0	0	0
+/S s s s s s S s/	S1 s s s s s S s	0	0	0	0	0	0	0	0
+/S s s s s s S s/	S s1 s s s s S s	0	0	0	0	0	0	0	0
+/S s s s s s S s/	S s s1 s s s S s	0	0	0	0	0	0	0	0
+/S s s s s s S s/	S s s s1 s s S s	0	0	0	0	0	0	0	0
+/S s s s s s S s/	S s s s s1 s S s	0	0	0	0	0	0	0	0
+/S s s s s s S s/	S s s s s s1 S s	0	0	0	1	1	1	1	1
+/S s s s s s S s/	S s s s s s S1 s	0	1	0	0	0	0	0	0
+/S s s s s s S s/	S s s s s s S s1	1	0	1	0	0	0	0	0
+/S s s s s s s S/	S1 s s s s s s S	0	0	0	0	0	0	0	0
+/S s s s s s s S/	S s1 s s s s s S	0	0	0	0	0	0	0	0
+/S s s s s s s S/	S s s1 s s s s S	0	0	0	0	0	0	0	0
+/S s s s s s s S/	S s s s1 s s s S	0	0	0	0	0	0	0	0
+/S s s s s s s S/	S s s s s1 s s S	0	0	0	0	0	0	0	0
+/S s s s s s s S/	S s s s s s1 s S	0	0	0	1	1	1	1	1
+/S s s s s s s S/	S s s s s s s1 S	0	1	1	0	0	0	0	0
+/S s s s s s s S/	S s s s s s s S1	1	0	0	0	0	0	0	0
+/S s s s s s s s/	S1 s s s s s s s	0	0	0	0	0	0	0	0
+/S s s s s s s s/	S s1 s s s s s s	0	0	0	0	0	0	0	0
+/S s s s s s s s/	S s s1 s s s s s	0	0	0	0	0	0	0	0
+/S s s s s s s s/	S s s s1 s s s s	0	0	0	0	0	0	0	0
+/S s s s s s s s/	S s s s s1 s s s	0	0	0	0	0	0	0	0
+/S s s s s s s s/	S s s s s s1 s s	0	0	0	1	1	1	1	1
+/S s s s s s s s/	S s s s s s s1 s	0	1	1	0	0	0	0	0
+/S s s s s s s s/	S s s s s s s s1	1	0	0	0	0	0	0	0
+/s S S S S S S S/	s1 S S S S S S S	0	0	0	0	0	0	0	0
+/s S S S S S S S/	s S1 S S S S S S	0	0	0	0	0	0	0	0
+/s S S S S S S S/	s S S1 S S S S S	0	0	0	0	0	0	0	0
+/s S S S S S S S/	s S S S1 S S S S	0	0	0	0	0	0	0	0
+/s S S S S S S S/	s S S S S1 S S S	0	0	0	0	0	0	0	0
+/s S S S S S S S/	s S S S S S1 S S	0	0	0	1	1	1	1	1
+/s S S S S S S S/	s S S S S S S1 S	0	1	1	0	0	0	0	0
+/s S S S S S S S/	s S S S S S S S1	1	0	0	0	0	0	0	0
+/s S S S S S S s/	s1 S S S S S S s	0	0	0	0	0	0	0	0
+/s S S S S S S s/	s S1 S S S S S s	0	0	0	0	0	0	0	0
+/s S S S S S S s/	s S S1 S S S S s	0	0	0	0	0	0	0	0
+/s S S S S S S s/	s S S S1 S S S s	0	0	0	0	0	0	0	0
+/s S S S S S S s/	s S S S S1 S S s	0	0	0	0	0	0	0	0
+/s S S S S S S s/	s S S S S S1 S s	0	0	0	1	0	1	1	1
+/s S S S S S S s/	s S S S S S S1 s	0	1	0	0	0	0	0	0
+/s S S S S S S s/	s S S S S S S s1	1	0	1	0	1	0	0	0
+/s S S S S S s S/	s1 S S S S S s S	0	0	0	0	0	0	0	0
+/s S S S S S s S/	s S1 S S S S s S	0	0	0	0	0	0	0	0
+/s S S S S S s S/	s S S1 S S S s S	0	0	0	0	0	0	0	0
+/s S S S S S s S/	s S S S1 S S s S	0	0	0	0	0	0	0	0
+/s S S S S S s S/	s S S S S1 S s S	0	0	0	0	0	0	0	0
+/s S S S S S s S/	s S S S S S1 s S	0	0	0	1	0	0	0	0
+/s S S S S S s S/	s S S S S S s1 S	0	1	1	0	1	1	1	1
+/s S S S S S s S/	s S S S S S s S1	1	0	0	0	0	0	0	0
+/s S S S S S s s/	s1 S S S S S s s	0	0	0	0	0	0	0	0
+/s S S S S S s s/	s S1 S S S S s s	0	0	0	0	0	0	0	0
+/s S S S S S s s/	s S S1 S S S s s	0	0	0	0	0	0	0	0
+/s S S S S S s s/	s S S S1 S S s s	0	0	0	0	0	0	0	0
+/s S S S S S s s/	s S S S S1 S s s	0	0	0	0	0	0	0	0
+/s S S S S S s s/	s S S S S S1 s s	0	0	0	1	0	0	0	0
+/s S S S S S s s/	s S S S S S s1 s	0	1	1	0	1	1	1	1
+/s S S S S S s s/	s S S S S S s s1	1	0	0	0	0	0	0	0
+/s S S S S s S S/	s1 S S S S s S S	0	0	0	0	0	0	0	0
+/s S S S S s S S/	s S1 S S S s S S	0	0	0	0	0	0	0	0
+/s S S S S s S S/	s S S1 S S s S S	0	0	0	0	0	0	0	0
+/s S S S S s S S/	s S S S1 S s S S	0	0	0	0	0	0	0	0
+/s S S S S s S S/	s S S S S1 s S S	0	0	0	0	0	0	0	0
+/s S S S S s S S/	s S S S S s1 S S	0	0	0	1	1	1	1	1
+/s S S S S s S S/	s S S S S s S1 S	0	1	1	0	0	0	0	0
+/s S S S S s S S/	s S S S S s S S1	1	0	0	0	0	0	0	0
+/s S S S S s S s/	s1 S S S S s S s	0	0	0	0	0	0	0	0
+/s S S S S s S s/	s S1 S S S s S s	0	0	0	0	0	0	0	0
+/s S S S S s S s/	s S S1 S S s S s	0	0	0	0	0	0	0	0
+/s S S S S s S s/	s S S S1 S s S s	0	0	0	0	0	0	0	0
+/s S S S S s S s/	s S S S S1 s S s	0	0	0	0	0	0	0	0
+/s S S S S s S s/	s S S S S s1 S s	0	0	0	1	1	1	1	1
+/s S S S S s S s/	s S S S S s S1 s	0	1	0	0	0	0	0	0
+/s S S S S s S s/	s S S S S s S s1	1	0	1	0	0	0	0	0
+/s S S S S s s S/	s1 S S S S s s S	0	0	0	0	0	0	0	0
+/s S S S S s s S/	s S1 S S S s s S	0	0	0	0	0	0	0	0
+/s S S S S s s S/	s S S1 S S s s S	0	0	0	0	0	0	0	0
+/s S S S S s s S/	s S S S1 S s s S	0	0	0	0	0	0	0	0
+/s S S S S s s S/	s S S S S1 s s S	0	0	0	0	0	0	0	0
+/s S S S S s s S/	s S S S S s1 s S	0	0	0	1	1	1	1	1
+/s S S S S s s S/	s S S S S s s1 S	0	1	1	0	0	0	0	0
+/s S S S S s s S/	s S S S S s s S1	1	0	0	0	0	0	0	0
+/s S S S S s s s/	s1 S S S S s s s	0	0	0	0	0	0	0	0
+/s S S S S s s s/	s S1 S S S s s s	0	0	0	0	0	0	0	0
+/s S S S S s s s/	s S S1 S S s s s	0	0	0	0	0	0	0	0
+/s S S S S s s s/	s S S S1 S s s s	0	0	0	0	0	0	0	0
+/s S S S S s s s/	s S S S S1 s s s	0	0	0	0	0	0	0	0
+/s S S S S s s s/	s S S S S s1 s s	0	0	0	1	1	1	1	1
+/s S S S S s s s/	s S S S S s s1 s	0	1	1	0	0	0	0	0
+/s S S S S s s s/	s S S S S s s s1	1	0	0	0	0	0	0	0
+/s S S S s S S S/	s1 S S S s S S S	0	0	0	0	0	0	0	0
+/s S S S s S S S/	s S1 S S s S S S	0	0	0	0	0	0	0	0
+/s S S S s S S S/	s S S1 S s S S S	0	0	0	0	0	0	0	0
+/s S S S s S S S/	s S S S1 s S S S	0	0	0	0	0	0	0	0
+/s S S S s S S S/	s S S S s1 S S S	0	0	0	0	0	1	1	1
+/s S S S s S S S/	s S S S s S1 S S	0	0	0	1	1	0	0	0
+/s S S S s S S S/	s S S S s S S1 S	0	1	1	0	0	0	0	0
+/s S S S s S S S/	s S S S s S S S1	1	0	0	0	0	0	0	0
+/s S S S s S S s/	s1 S S S s S S s	0	0	0	0	0	0	0	0
+/s S S S s S S s/	s S1 S S s S S s	0	0	0	0	0	0	0	0
+/s S S S s S S s/	s S S1 S s S S s	0	0	0	0	0	0	0	0
+/s S S S s S S s/	s S S S1 s S S s	0	0	0	0	0	0	0	0
+/s S S S s S S s/	s S S S s1 S S s	0	0	0	0	0	1	1	1
+/s S S S s S S s/	s S S S s S1 S s	0	0	0	1	0	0	0	0
+/s S S S s S S s/	s S S S s S S1 s	0	1	0	0	0	0	0	0
+/s S S S s S S s/	s S S S s S S s1	1	0	1	0	1	0	0	0
+/s S S S s S s S/	s1 S S S s S s S	0	0	0	0	0	0	0	0
+/s S S S s S s S/	s S1 S S s S s S	0	0	0	0	0	0	0	0
+/s S S S s S s S/	s S S1 S s S s S	0	0	0	0	0	0	0	0
+/s S S S s S s S/	s S S S1 s S s S	0	0	0	0	0	0	0	0
+/s S S S s S s S/	s S S S s1 S s S	0	0	0	0	0	1	1	1
+/s S S S s S s S/	s S S S s S1 s S	0	0	0	1	0	0	0	0
+/s S S S s S s S/	s S S S s S s1 S	0	1	1	0	1	0	0	0
+/s S S S s S s S/	s S S S s S s S1	1	0	0	0	0	0	0	0
+/s S S S s S s s/	s1 S S S s S s s	0	0	0	0	0	0	0	0
+/s S S S s S s s/	s S1 S S s S s s	0	0	0	0	0	0	0	0
+/s S S S s S s s/	s S S1 S s S s s	0	0	0	0	0	0	0	0
+/s S S S s S s s/	s S S S1 s S s s	0	0	0	0	0	0	0	0
+/s S S S s S s s/	s S S S s1 S s s	0	0	0	0	0	1	1	1
+/s S S S s S s s/	s S S S s S1 s s	0	0	0	1	0	0	0	0
+/s S S S s S s s/	s S S S s S s1 s	0	1	1	0	1	0	0	0
+/s S S S s S s s/	s S S S s S s s1	1	0	0	0	0	0	0	0
+/s S S S s s S S/	s1 S S S s s S S	0	0	0	0	0	0	0	0
+/s S S S s s S S/	s S1 S S s s S S	0	0	0	0	0	0	0	0
+/s S S S s s S S/	s S S1 S s s S S	0	0	0	0	0	0	0	0
+/s S S S s s S S/	s S S S1 s s S S	0	0	0	0	0	0	0	0
+/s S S S s s S S/	s S S S s1 s S S	0	0	0	0	0	0	0	0
+/s S S S s s S S/	s S S S s s1 S S	0	0	0	1	1	1	1	1
+/s S S S s s S S/	s S S S s s S1 S	0	1	1	0	0	0	0	0
+/s S S S s s S S/	s S S S s s S S1	1	0	0	0	0	0	0	0
+/s S S S s s S s/	s1 S S S s s S s	0	0	0	0	0	0	0	0
+/s S S S s s S s/	s S1 S S s s S s	0	0	0	0	0	0	0	0
+/s S S S s s S s/	s S S1 S s s S s	0	0	0	0	0	0	0	0
+/s S S S s s S s/	s S S S1 s s S s	0	0	0	0	0	0	0	0
+/s S S S s s S s/	s S S S s1 s S s	0	0	0	0	0	0	0	0
+/s S S S s s S s/	s S S S s s1 S s	0	0	0	1	1	1	1	1
+/s S S S s s S s/	s S S S s s S1 s	0	1	0	0	0	0	0	0
+/s S S S s s S s/	s S S S s s S s1	1	0	1	0	0	0	0	0
+/s S S S s s s S/	s1 S S S s s s S	0	0	0	0	0	0	0	0
+/s S S S s s s S/	s S1 S S s s s S	0	0	0	0	0	0	0	0
+/s S S S s s s S/	s S S1 S s s s S	0	0	0	0	0	0	0	0
+/s S S S s s s S/	s S S S1 s s s S	0	0	0	0	0	0	0	0
+/s S S S s s s S/	s S S S s1 s s S	0	0	0	0	0	0	0	0
+/s S S S s s s S/	s S S S s s1 s S	0	0	0	1	1	1	1	1
+/s S S S s s s S/	s S S S s s s1 S	0	1	1	0	0	0	0	0
+/s S S S s s s S/	s S S S s s s S1	1	0	0	0	0	0	0	0
+/s S S S s s s s/	s1 S S S s s s s	0	0	0	0	0	0	0	0
+/s S S S s s s s/	s S1 S S s s s s	0	0	0	0	0	0	0	0
+/s S S S s s s s/	s S S1 S s s s s	0	0	0	0	0	0	0	0
+/s S S S s s s s/	s S S S1 s s s s	0	0	0	0	0	0	0	0
+/s S S S s s s s/	s S S S s1 s s s	0	0	0	0	0	0	0	0
+/s S S S s s s s/	s S S S s s1 s s	0	0	0	1	1	1	1	1
+/s S S S s s s s/	s S S S s s s1 s	0	1	1	0	0	0	0	0
+/s S S S s s s s/	s S S S s s s s1	1	0	0	0	0	0	0	0
+/s S S s S S S S/	s1 S S s S S S S	0	0	0	0	0	0	0	0
+/s S S s S S S S/	s S1 S s S S S S	0	0	0	0	0	0	0	0
+/s S S s S S S S/	s S S1 s S S S S	0	0	0	0	0	0	0	0
+/s S S s S S S S/	s S S s1 S S S S	0	0	0	0	0	0	1	1
+/s S S s S S S S/	s S S s S1 S S S	0	0	0	0	0	0	0	0
+/s S S s S S S S/	s S S s S S1 S S	0	0	0	1	1	1	0	0
+/s S S s S S S S/	s S S s S S S1 S	0	1	1	0	0	0	0	0
+/s S S s S S S S/	s S S s S S S S1	1	0	0	0	0	0	0	0
+/s S S s S S S s/	s1 S S s S S S s	0	0	0	0	0	0	0	0
+/s S S s S S S s/	s S1 S s S S S s	0	0	0	0	0	0	0	0
+/s S S s S S S s/	s S S1 s S S S s	0	0	0	0	0	0	0	0
+/s S S s S S S s/	s S S s1 S S S s	0	0	0	0	0	0	1	1
+/s S S s S S S s/	s S S s S1 S S s	0	0	0	0	0	0	0	0
+/s S S s S S S s/	s S S s S S1 S s	0	0	0	1	0	1	0	0
+/s S S s S S S s/	s S S s S S S1 s	0	1	0	0	0	0	0	0
+/s S S s S S S s/	s S S s S S S s1	1	0	1	0	1	0	0	0
+/s S S s S S s S/	s1 S S s S S s S	0	0	0	0	0	0	0	0
+/s S S s S S s S/	s S1 S s S S s S	0	0	0	0	0	0	0	0
+/s S S s S S s S/	s S S1 s S S s S	0	0	0	0	0	0	0	0
+/s S S s S S s S/	s S S s1 S S s S	0	0	0	0	0	0	1	1
+/s S S s S S s S/	s S S s S1 S s S	0	0	0	0	0	0	0	0
+/s S S s S S s S/	s S S s S S1 s S	0	0	0	1	0	0	0	0
+/s S S s S S s S/	s S S s S S s1 S	0	1	1	0	1	1	0	0
+/s S S s S S s S/	s S S s S S s S1	1	0	0	0	0	0	0	0
+/s S S s S S s s/	s1 S S s S S s s	0	0	0	0	0	0	0	0
+/s S S s S S s s/	s S1 S s S S s s	0	0	0	0	0	0	0	0
+/s S S s S S s s/	s S S1 s S S s s	0	0	0	0	0	0	0	0
+/s S S s S S s s/	s S S s1 S S s s	0	0	0	0	0	0	1	1
+/s S S s S S s s/	s S S s S1 S s s	0	0	0	0	0	0	0	0
+/s S S s S S s s/	s S S s S S1 s s	0	0	0	1	0	0	0	0
+/s S S s S S s s/	s S S s S S s1 s	0	1	1	0	1	1	0	0
+/s S S s S S s s/	s S S s S S s s1	1	0	0	0	0	0	0	0
+/s S S s S s S S/	s1 S S s S s S S	0	0	0	0	0	0	0	0
+/s S S s S s S S/	s S1 S s S s S S	0	0	0	0	0	0	0	0
+/s S S s S s S S/	s S S1 s S s S S	0	0	0	0	0	0	0	0
+/s S S s S s S S/	s S S s1 S s S S	0	0	0	0	0	0	0	0
+/s S S s S s S S/	s S S s S1 s S S	0	0	0	0	0	0	0	0
+/s S S s S s S S/	s S S s S s1 S S	0	0	0	1	1	1	1	1
+/s S S s S s S S/	s S S s S s S1 S	0	1	1	0	0	0	0	0
+/s S S s S s S S/	s S S s S s S S1	1	0	0	0	0	0	0	0
+/s S S s S s S s/	s1 S S s S s S s	0	0	0	0	0	0	0	0
+/s S S s S s S s/	s S1 S s S s S s	0	0	0	0	0	0	0	0
+/s S S s S s S s/	s S S1 s S s S s	0	0	0	0	0	0	0	0
+/s S S s S s S s/	s S S s1 S s S s	0	0	0	0	0	0	0	0
+/s S S s S s S s/	s S S s S1 s S s	0	0	0	0	0	0	0	0
+/s S S s S s S s/	s S S s S s1 S s	0	0	0	1	1	1	1	1
+/s S S s S s S s/	s S S s S s S1 s	0	1	0	0	0	0	0	0
+/s S S s S s S s/	s S S s S s S s1	1	0	1	0	0	0	0	0
+/s S S s S s s S/	s1 S S s S s s S	0	0	0	0	0	0	0	0
+/s S S s S s s S/	s S1 S s S s s S	0	0	0	0	0	0	0	0
+/s S S s S s s S/	s S S1 s S s s S	0	0	0	0	0	0	0	0
+/s S S s S s s S/	s S S s1 S s s S	0	0	0	0	0	0	0	0
+/s S S s S s s S/	s S S s S1 s s S	0	0	0	0	0	0	0	0
+/s S S s S s s S/	s S S s S s1 s S	0	0	0	1	1	1	1	1
+/s S S s S s s S/	s S S s S s s1 S	0	1	1	0	0	0	0	0
+/s S S s S s s S/	s S S s S s s S1	1	0	0	0	0	0	0	0
+/s S S s S s s s/	s1 S S s S s s s	0	0	0	0	0	0	0	0
+/s S S s S s s s/	s S1 S s S s s s	0	0	0	0	0	0	0	0
+/s S S s S s s s/	s S S1 s S s s s	0	0	0	0	0	0	0	0
+/s S S s S s s s/	s S S s1 S s s s	0	0	0	0	0	0	0	0
+/s S S s S s s s/	s S S s S1 s s s	0	0	0	0	0	0	0	0
+/s S S s S s s s/	s S S s S s1 s s	0	0	0	1	1	1	1	1
+/s S S s S s s s/	s S S s S s s1 s	0	1	1	0	0	0	0	0
+/s S S s S s s s/	s S S s S s s s1	1	0	0	0	0	0	0	0
+/s S S s s S S S/	s1 S S s s S S S	0	0	0	0	0	0	0	0
+/s S S s s S S S/	s S1 S s s S S S	0	0	0	0	0	0	0	0
+/s S S s s S S S/	s S S1 s s S S S	0	0	0	0	0	0	0	0
+/s S S s s S S S/	s S S s1 s S S S	0	0	0	0	0	0	0	0
+/s S S s s S S S/	s S S s s1 S S S	0	0	0	0	0	1	1	1
+/s S S s s S S S/	s S S s s S1 S S	0	0	0	1	1	0	0	0
+/s S S s s S S S/	s S S s s S S1 S	0	1	1	0	0	0	0	0
+/s S S s s S S S/	s S S s s S S S1	1	0	0	0	0	0	0	0
+/s S S s s S S s/	s1 S S s s S S s	0	0	0	0	0	0	0	0
+/s S S s s S S s/	s S1 S s s S S s	0	0	0	0	0	0	0	0
+/s S S s s S S s/	s S S1 s s S S s	0	0	0	0	0	0	0	0
+/s S S s s S S s/	s S S s1 s S S s	0	0	0	0	0	0	0	0
+/s S S s s S S s/	s S S s s1 S S s	0	0	0	0	0	1	1	1
+/s S S s s S S s/	s S S s s S1 S s	0	0	0	1	0	0	0	0
+/s S S s s S S s/	s S S s s S S1 s	0	1	0	0	0	0	0	0
+/s S S s s S S s/	s S S s s S S s1	1	0	1	0	1	0	0	0
+/s S S s s S s S/	s1 S S s s S s S	0	0	0	0	0	0	0	0
+/s S S s s S s S/	s S1 S s s S s S	0	0	0	0	0	0	0	0
+/s S S s s S s S/	s S S1 s s S s S	0	0	0	0	0	0	0	0
+/s S S s s S s S/	s S S s1 s S s S	0	0	0	0	0	0	0	0
+/s S S s s S s S/	s S S s s1 S s S	0	0	0	0	0	1	1	1
+/s S S s s S s S/	s S S s s S1 s S	0	0	0	1	0	0	0	0
+/s S S s s S s S/	s S S s s S s1 S	0	1	1	0	1	0	0	0
+/s S S s s S s S/	s S S s s S s S1	1	0	0	0	0	0	0	0
+/s S S s s S s s/	s1 S S s s S s s	0	0	0	0	0	0	0	0
+/s S S s s S s s/	s S1 S s s S s s	0	0	0	0	0	0	0	0
+/s S S s s S s s/	s S S1 s s S s s	0	0	0	0	0	0	0	0
+/s S S s s S s s/	s S S s1 s S s s	0	0	0	0	0	0	0	0
+/s S S s s S s s/	s S S s s1 S s s	0	0	0	0	0	1	1	1
+/s S S s s S s s/	s S S s s S1 s s	0	0	0	1	0	0	0	0
+/s S S s s S s s/	s S S s s S s1 s	0	1	1	0	1	0	0	0
+/s S S s s S s s/	s S S s s S s s1	1	0	0	0	0	0	0	0
+/s S S s s s S S/	s1 S S s s s S S	0	0	0	0	0	0	0	0
+/s S S s s s S S/	s S1 S s s s S S	0	0	0	0	0	0	0	0
+/s S S s s s S S/	s S S1 s s s S S	0	0	0	0	0	0	0	0
+/s S S s s s S S/	s S S s1 s s S S	0	0	0	0	0	0	0	0
+/s S S s s s S S/	s S S s s1 s S S	0	0	0	0	0	0	0	0
+/s S S s s s S S/	s S S s s s1 S S	0	0	0	1	1	1	1	1
+/s S S s s s S S/	s S S s s s S1 S	0	1	1	0	0	0	0	0
+/s S S s s s S S/	s S S s s s S S1	1	0	0	0	0	0	0	0
+/s S S s s s S s/	s1 S S s s s S s	0	0	0	0	0	0	0	0
+/s S S s s s S s/	s S1 S s s s S s	0	0	0	0	0	0	0	0
+/s S S s s s S s/	s S S1 s s s S s	0	0	0	0	0	0	0	0
+/s S S s s s S s/	s S S s1 s s S s	0	0	0	0	0	0	0	0
+/s S S s s s S s/	s S S s s1 s S s	0	0	0	0	0	0	0	0
+/s S S s s s S s/	s S S s s s1 S s	0	0	0	1	1	1	1	1
+/s S S s s s S s/	s S S s s s S1 s	0	1	0	0	0	0	0	0
+/s S S s s s S s/	s S S s s s S s1	1	0	1	0	0	0	0	0
+/s S S s s s s S/	s1 S S s s s s S	0	0	0	0	0	0	0	0
+/s S S s s s s S/	s S1 S s s s s S	0	0	0	0	0	0	0	0
+/s S S s s s s S/	s S S1 s s s s S	0	0	0	0	0	0	0	0
+/s S S s s s s S/	s S S s1 s s s S	0	0	0	0	0	0	0	0
+/s S S s s s s S/	s S S s s1 s s S	0	0	0	0	0	0	0	0
+/s S S s s s s S/	s S S s s s1 s S	0	0	0	1	1	1	1	1
+/s S S s s s s S/	s S S s s s s1 S	0	1	1	0	0	0	0	0
+/s S S s s s s S/	s S S s s s s S1	1	0	0	0	0	0	0	0
+/s S S s s s s s/	s1 S S s s s s s	0	0	0	0	0	0	0	0
+/s S S s s s s s/	s S1 S s s s s s	0	0	0	0	0	0	0	0
+/s S S s s s s s/	s S S1 s s s s s	0	0	0	0	0	0	0	0
+/s S S s s s s s/	s S S s1 s s s s	0	0	0	0	0	0	0	0
+/s S S s s s s s/	s S S s s1 s s s	0	0	0	0	0	0	0	0
+/s S S s s s s s/	s S S s s s1 s s	0	0	0	1	1	1	1	1
+/s S S s s s s s/	s S S s s s s1 s	0	1	1	0	0	0	0	0
+/s S S s s s s s/	s S S s s s s s1	1	0	0	0	0	0	0	0
+/s S s S S S S S/	s1 S s S S S S S	0	0	0	0	0	0	0	0
+/s S s S S S S S/	s S1 s S S S S S	0	0	0	0	0	0	0	0
+/s S s S S S S S/	s S s1 S S S S S	0	0	0	0	0	0	0	1
+/s S s S S S S S/	s S s S1 S S S S	0	0	0	0	0	0	0	0
+/s S s S S S S S/	s S s S S1 S S S	0	0	0	0	0	0	0	0
+/s S s S S S S S/	s S s S S S1 S S	0	0	0	1	1	1	1	0
+/s S s S S S S S/	s S s S S S S1 S	0	1	1	0	0	0	0	0
+/s S s S S S S S/	s S s S S S S S1	1	0	0	0	0	0	0	0
+/s S s S S S S s/	s1 S s S S S S s	0	0	0	0	0	0	0	0
+/s S s S S S S s/	s S1 s S S S S s	0	0	0	0	0	0	0	0
+/s S s S S S S s/	s S s1 S S S S s	0	0	0	0	0	0	0	1
+/s S s S S S S s/	s S s S1 S S S s	0	0	0	0	0	0	0	0
+/s S s S S S S s/	s S s S S1 S S s	0	0	0	0	0	0	0	0
+/s S s S S S S s/	s S s S S S1 S s	0	0	0	1	0	1	1	0
+/s S s S S S S s/	s S s S S S S1 s	0	1	0	0	0	0	0	0
+/s S s S S S S s/	s S s S S S S s1	1	0	1	0	1	0	0	0
+/s S s S S S s S/	s1 S s S S S s S	0	0	0	0	0	0	0	0
+/s S s S S S s S/	s S1 s S S S s S	0	0	0	0	0	0	0	0
+/s S s S S S s S/	s S s1 S S S s S	0	0	0	0	0	0	0	1
+/s S s S S S s S/	s S s S1 S S s S	0	0	0	0	0	0	0	0
+/s S s S S S s S/	s S s S S1 S s S	0	0	0	0	0	0	0	0
+/s S s S S S s S/	s S s S S S1 s S	0	0	0	1	0	0	0	0
+/s S s S S S s S/	s S s S S S s1 S	0	1	1	0	1	1	1	0
+/s S s S S S s S/	s S s S S S s S1	1	0	0	0	0	0	0	0
+/s S s S S S s s/	s1 S s S S S s s	0	0	0	0	0	0	0	0
+/s S s S S S s s/	s S1 s S S S s s	0	0	0	0	0	0	0	0
+/s S s S S S s s/	s S s1 S S S s s	0	0	0	0	0	0	0	1
+/s S s S S S s s/	s S s S1 S S s s	0	0	0	0	0	0	0	0
+/s S s S S S s s/	s S s S S1 S s s	0	0	0	0	0	0	0	0
+/s S s S S S s s/	s S s S S S1 s s	0	0	0	1	0	0	0	0
+/s S s S S S s s/	s S s S S S s1 s	0	1	1	0	1	1	1	0
+/s S s S S S s s/	s S s S S S s s1	1	0	0	0	0	0	0	0
+/s S s S S s S S/	s1 S s S S s S S	0	0	0	0	0	0	0	0
+/s S s S S s S S/	s S1 s S S s S S	0	0	0	0	0	0	0	0
+/s S s S S s S S/	s S s1 S S s S S	0	0	0	0	0	0	0	0
+/s S s S S s S S/	s S s S1 S s S S	0	0	0	0	0	0	0	0
+/s S s S S s S S/	s S s S S1 s S S	0	0	0	0	0	0	0	0
+/s S s S S s S S/	s S s S S s1 S S	0	0	0	1	1	1	1	1
+/s S s S S s S S/	s S s S S s S1 S	0	1	1	0	0	0	0	0
+/s S s S S s S S/	s S s S S s S S1	1	0	0	0	0	0	0	0
+/s S s S S s S s/	s1 S s S S s S s	0	0	0	0	0	0	0	0
+/s S s S S s S s/	s S1 s S S s S s	0	0	0	0	0	0	0	0
+/s S s S S s S s/	s S s1 S S s S s	0	0	0	0	0	0	0	0
+/s S s S S s S s/	s S s S1 S s S s	0	0	0	0	0	0	0	0
+/s S s S S s S s/	s S s S S1 s S s	0	0	0	0	0	0	0	0
+/s S s S S s S s/	s S s S S s1 S s	0	0	0	1	1	1	1	1
+/s S s S S s S s/	s S s S S s S1 s	0	1	0	0	0	0	0	0
+/s S s S S s S s/	s S s S S s S s1	1	0	1	0	0	0	0	0
+/s S s S S s s S/	s1 S s S S s s S	0	0	0	0	0	0	0	0
+/s S s S S s s S/	s S1 s S S s s S	0	0	0	0	0	0	0	0
+/s S s S S s s S/	s S s1 S S s s S	0	0	0	0	0	0	0	0
+/s S s S S s s S/	s S s S1 S s s S	0	0	0	0	0	0	0	0
+/s S s S S s s S/	s S s S S1 s s S	0	0	0	0	0	0	0	0
+/s S s S S s s S/	s S s S S s1 s S	0	0	0	1	1	1	1	1
+/s S s S S s s S/	s S s S S s s1 S	0	1	1	0	0	0	0	0
+/s S s S S s s S/	s S s S S s s S1	1	0	0	0	0	0	0	0
+/s S s S S s s s/	s1 S s S S s s s	0	0	0	0	0	0	0	0
+/s S s S S s s s/	s S1 s S S s s s	0	0	0	0	0	0	0	0
+/s S s S S s s s/	s S s1 S S s s s	0	0	0	0	0	0	0	0
+/s S s S S s s s/	s S s S1 S s s s	0	0	0	0	0	0	0	0
+/s S s S S s s s/	s S s S S1 s s s	0	0	0	0	0	0	0	0
+/s S s S S s s s/	s S s S S s1 s s	0	0	0	1	1	1	1	1
+/s S s S S s s s/	s S s S S s s1 s	0	1	1	0	0	0	0	0
+/s S s S S s s s/	s S s S S s s s1	1	0	0	0	0	0	0	0
+/s S s S s S S S/	s1 S s S s S S S	0	0	0	0	0	0	0	0
+/s S s S s S S S/	s S1 s S s S S S	0	0	0	0	0	0	0	0
+/s S s S s S S S/	s S s1 S s S S S	0	0	0	0	0	0	0	0
+/s S s S s S S S/	s S s S1 s S S S	0	0	0	0	0	0	0	0
+/s S s S s S S S/	s S s S s1 S S S	0	0	0	0	0	1	1	1
+/s S s S s S S S/	s S s S s S1 S S	0	0	0	1	1	0	0	0
+/s S s S s S S S/	s S s S s S S1 S	0	1	1	0	0	0	0	0
+/s S s S s S S S/	s S s S s S S S1	1	0	0	0	0	0	0	0
+/s S s S s S S s/	s1 S s S s S S s	0	0	0	0	0	0	0	0
+/s S s S s S S s/	s S1 s S s S S s	0	0	0	0	0	0	0	0
+/s S s S s S S s/	s S s1 S s S S s	0	0	0	0	0	0	0	0
+/s S s S s S S s/	s S s S1 s S S s	0	0	0	0	0	0	0	0
+/s S s S s S S s/	s S s S s1 S S s	0	0	0	0	0	1	1	1
+/s S s S s S S s/	s S s S s S1 S s	0	0	0	1	0	0	0	0
+/s S s S s S S s/	s S s S s S S1 s	0	1	0	0	0	0	0	0
+/s S s S s S S s/	s S s S s S S s1	1	0	1	0	1	0	0	0
+/s S s S s S s S/	s1 S s S s S s S	0	0	0	0	0	0	0	0
+/s S s S s S s S/	s S1 s S s S s S	0	0	0	0	0	0	0	0
+/s S s S s S s S/	s S s1 S s S s S	0	0	0	0	0	0	0	0
+/s S s S s S s S/	s S s S1 s S s S	0	0	0	0	0	0	0	0
+/s S s S s S s S/	s S s S s1 S s S	0	0	0	0	0	1	1	1
+/s S s S s S s S/	s S s S s S1 s S	0	0	0	1	0	0	0	0
+/s S s S s S s S/	s S s S s S s1 S	0	1	1	0	1	0	0	0
+/s S s S s S s S/	s S s S s S s S1	1	0	0	0	0	0	0	0
+/s S s S s S s s/	s1 S s S s S s s	0	0	0	0	0	0	0	0
+/s S s S s S s s/	s S1 s S s S s s	0	0	0	0	0	0	0	0
+/s S s S s S s s/	s S s1 S s S s s	0	0	0	0	0	0	0	0
+/s S s S s S s s/	s S s S1 s S s s	0	0	0	0	0	0	0	0
+/s S s S s S s s/	s S s S s1 S s s	0	0	0	0	0	1	1	1
+/s S s S s S s s/	s S s S s S1 s s	0	0	0	1	0	0	0	0
+/s S s S s S s s/	s S s S s S s1 s	0	1	1	0	1	0	0	0
+/s S s S s S s s/	s S s S s S s s1	1	0	0	0	0	0	0	0
+/s S s S s s S S/	s1 S s S s s S S	0	0	0	0	0	0	0	0
+/s S s S s s S S/	s S1 s S s s S S	0	0	0	0	0	0	0	0
+/s S s S s s S S/	s S s1 S s s S S	0	0	0	0	0	0	0	0
+/s S s S s s S S/	s S s S1 s s S S	0	0	0	0	0	0	0	0
+/s S s S s s S S/	s S s S s1 s S S	0	0	0	0	0	0	0	0
+/s S s S s s S S/	s S s S s s1 S S	0	0	0	1	1	1	1	1
+/s S s S s s S S/	s S s S s s S1 S	0	1	1	0	0	0	0	0
+/s S s S s s S S/	s S s S s s S S1	1	0	0	0	0	0	0	0
+/s S s S s s S s/	s1 S s S s s S s	0	0	0	0	0	0	0	0
+/s S s S s s S s/	s S1 s S s s S s	0	0	0	0	0	0	0	0
+/s S s S s s S s/	s S s1 S s s S s	0	0	0	0	0	0	0	0
+/s S s S s s S s/	s S s S1 s s S s	0	0	0	0	0	0	0	0
+/s S s S s s S s/	s S s S s1 s S s	0	0	0	0	0	0	0	0
+/s S s S s s S s/	s S s S s s1 S s	0	0	0	1	1	1	1	1
+/s S s S s s S s/	s S s S s s S1 s	0	1	0	0	0	0	0	0
+/s S s S s s S s/	s S s S s s S s1	1	0	1	0	0	0	0	0
+/s S s S s s s S/	s1 S s S s s s S	0	0	0	0	0	0	0	0
+/s S s S s s s S/	s S1 s S s s s S	0	0	0	0	0	0	0	0
+/s S s S s s s S/	s S s1 S s s s S	0	0	0	0	0	0	0	0
+/s S s S s s s S/	s S s S1 s s s S	0	0	0	0	0	0	0	0
+/s S s S s s s S/	s S s S s1 s s S	0	0	0	0	0	0	0	0
+/s S s S s s s S/	s S s S s s1 s S	0	0	0	1	1	1	1	1
+/s S s S s s s S/	s S s S s s s1 S	0	1	1	0	0	0	0	0
+/s S s S s s s S/	s S s S s s s S1	1	0	0	0	0	0	0	0
+/s S s S s s s s/	s1 S s S s s s s	0	0	0	0	0	0	0	0
+/s S s S s s s s/	s S1 s S s s s s	0	0	0	0	0	0	0	0
+/s S s S s s s s/	s S s1 S s s s s	0	0	0	0	0	0	0	0
+/s S s S s s s s/	s S s S1 s s s s	0	0	0	0	0	0	0	0
+/s S s S s s s s/	s S s S s1 s s s	0	0	0	0	0	0	0	0
+/s S s S s s s s/	s S s S s s1 s s	0	0	0	1	1	1	1	1
+/s S s S s s s s/	s S s S s s s1 s	0	1	1	0	0	0	0	0
+/s S s S s s s s/	s S s S s s s s1	1	0	0	0	0	0	0	0
+/s S s s S S S S/	s1 S s s S S S S	0	0	0	0	0	0	0	0
+/s S s s S S S S/	s S1 s s S S S S	0	0	0	0	0	0	0	0
+/s S s s S S S S/	s S s1 s S S S S	0	0	0	0	0	0	0	0
+/s S s s S S S S/	s S s s1 S S S S	0	0	0	0	0	0	1	1
+/s S s s S S S S/	s S s s S1 S S S	0	0	0	0	0	0	0	0
+/s S s s S S S S/	s S s s S S1 S S	0	0	0	1	1	1	0	0
+/s S s s S S S S/	s S s s S S S1 S	0	1	1	0	0	0	0	0
+/s S s s S S S S/	s S s s S S S S1	1	0	0	0	0	0	0	0
+/s S s s S S S s/	s1 S s s S S S s	0	0	0	0	0	0	0	0
+/s S s s S S S s/	s S1 s s S S S s	0	0	0	0	0	0	0	0
+/s S s s S S S s/	s S s1 s S S S s	0	0	0	0	0	0	0	0
+/s S s s S S S s/	s S s s1 S S S s	0	0	0	0	0	0	1	1
+/s S s s S S S s/	s S s s S1 S S s	0	0	0	0	0	0	0	0
+/s S s s S S S s/	s S s s S S1 S s	0	0	0	1	0	1	0	0
+/s S s s S S S s/	s S s s S S S1 s	0	1	0	0	0	0	0	0
+/s S s s S S S s/	s S s s S S S s1	1	0	1	0	1	0	0	0
+/s S s s S S s S/	s1 S s s S S s S	0	0	0	0	0	0	0	0
+/s S s s S S s S/	s S1 s s S S s S	0	0	0	0	0	0	0	0
+/s S s s S S s S/	s S s1 s S S s S	0	0	0	0	0	0	0	0
+/s S s s S S s S/	s S s s1 S S s S	0	0	0	0	0	0	1	1
+/s S s s S S s S/	s S s s S1 S s S	0	0	0	0	0	0	0	0
+/s S s s S S s S/	s S s s S S1 s S	0	0	0	1	0	0	0	0
+/s S s s S S s S/	s S s s S S s1 S	0	1	1	0	1	1	0	0
+/s S s s S S s S/	s S s s S S s S1	1	0	0	0	0	0	0	0
+/s S s s S S s s/	s1 S s s S S s s	0	0	0	0	0	0	0	0
+/s S s s S S s s/	s S1 s s S S s s	0	0	0	0	0	0	0	0
+/s S s s S S s s/	s S s1 s S S s s	0	0	0	0	0	0	0	0
+/s S s s S S s s/	s S s s1 S S s s	0	0	0	0	0	0	1	1
+/s S s s S S s s/	s S s s S1 S s s	0	0	0	0	0	0	0	0
+/s S s s S S s s/	s S s s S S1 s s	0	0	0	1	0	0	0	0
+/s S s s S S s s/	s S s s S S s1 s	0	1	1	0	1	1	0	0
+/s S s s S S s s/	s S s s S S s s1	1	0	0	0	0	0	0	0
+/s S s s S s S S/	s1 S s s S s S S	0	0	0	0	0	0	0	0
+/s S s s S s S S/	s S1 s s S s S S	0	0	0	0	0	0	0	0
+/s S s s S s S S/	s S s1 s S s S S	0	0	0	0	0	0	0	0
+/s S s s S s S S/	s S s s1 S s S S	0	0	0	0	0	0	0	0
+/s S s s S s S S/	s S s s S1 s S S	0	0	0	0	0	0	0	0
+/s S s s S s S S/	s S s s S s1 S S	0	0	0	1	1	1	1	1
+/s S s s S s S S/	s S s s S s S1 S	0	1	1	0	0	0	0	0
+/s S s s S s S S/	s S s s S s S S1	1	0	0	0	0	0	0	0
+/s S s s S s S s/	s1 S s s S s S s	0	0	0	0	0	0	0	0
+/s S s s S s S s/	s S1 s s S s S s	0	0	0	0	0	0	0	0
+/s S s s S s S s/	s S s1 s S s S s	0	0	0	0	0	0	0	0
+/s S s s S s S s/	s S s s1 S s S s	0	0	0	0	0	0	0	0
+/s S s s S s S s/	s S s s S1 s S s	0	0	0	0	0	0	0	0
+/s S s s S s S s/	s S s s S s1 S s	0	0	0	1	1	1	1	1
+/s S s s S s S s/	s S s s S s S1 s	0	1	0	0	0	0	0	0
+/s S s s S s S s/	s S s s S s S s1	1	0	1	0	0	0	0	0
+/s S s s S s s S/	s1 S s s S s s S	0	0	0	0	0	0	0	0
+/s S s s S s s S/	s S1 s s S s s S	0	0	0	0	0	0	0	0
+/s S s s S s s S/	s S s1 s S s s S	0	0	0	0	0	0	0	0
+/s S s s S s s S/	s S s s1 S s s S	0	0	0	0	0	0	0	0
+/s S s s S s s S/	s S s s S1 s s S	0	0	0	0	0	0	0	0
+/s S s s S s s S/	s S s s S s1 s S	0	0	0	1	1	1	1	1
+/s S s s S s s S/	s S s s S s s1 S	0	1	1	0	0	0	0	0
+/s S s s S s s S/	s S s s S s s S1	1	0	0	0	0	0	0	0
+/s S s s S s s s/	s1 S s s S s s s	0	0	0	0	0	0	0	0
+/s S s s S s s s/	s S1 s s S s s s	0	0	0	0	0	0	0	0
+/s S s s S s s s/	s S s1 s S s s s	0	0	0	0	0	0	0	0
+/s S s s S s s s/	s S s s1 S s s s	0	0	0	0	0	0	0	0
+/s S s s S s s s/	s S s s S1 s s s	0	0	0	0	0	0	0	0
+/s S s s S s s s/	s S s s S s1 s s	0	0	0	1	1	1	1	1
+/s S s s S s s s/	s S s s S s s1 s	0	1	1	0	0	0	0	0
+/s S s s S s s s/	s S s s S s s s1	1	0	0	0	0	0	0	0
+/s S s s s S S S/	s1 S s s s S S S	0	0	0	0	0	0	0	0
+/s S s s s S S S/	s S1 s s s S S S	0	0	0	0	0	0	0	0
+/s S s s s S S S/	s S s1 s s S S S	0	0	0	0	0	0	0	0
+/s S s s s S S S/	s S s s1 s S S S	0	0	0	0	0	0	0	0
+/s S s s s S S S/	s S s s s1 S S S	0	0	0	0	0	1	1	1
+/s S s s s S S S/	s S s s s S1 S S	0	0	0	1	1	0	0	0
+/s S s s s S S S/	s S s s s S S1 S	0	1	1	0	0	0	0	0
+/s S s s s S S S/	s S s s s S S S1	1	0	0	0	0	0	0	0
+/s S s s s S S s/	s1 S s s s S S s	0	0	0	0	0	0	0	0
+/s S s s s S S s/	s S1 s s s S S s	0	0	0	0	0	0	0	0
+/s S s s s S S s/	s S s1 s s S S s	0	0	0	0	0	0	0	0
+/s S s s s S S s/	s S s s1 s S S s	0	0	0	0	0	0	0	0
+/s S s s s S S s/	s S s s s1 S S s	0	0	0	0	0	1	1	1
+/s S s s s S S s/	s S s s s S1 S s	0	0	0	1	0	0	0	0
+/s S s s s S S s/	s S s s s S S1 s	0	1	0	0	0	0	0	0
+/s S s s s S S s/	s S s s s S S s1	1	0	1	0	1	0	0	0
+/s S s s s S s S/	s1 S s s s S s S	0	0	0	0	0	0	0	0
+/s S s s s S s S/	s S1 s s s S s S	0	0	0	0	0	0	0	0
+/s S s s s S s S/	s S s1 s s S s S	0	0	0	0	0	0	0	0
+/s S s s s S s S/	s S s s1 s S s S	0	0	0	0	0	0	0	0
+/s S s s s S s S/	s S s s s1 S s S	0	0	0	0	0	1	1	1
+/s S s s s S s S/	s S s s s S1 s S	0	0	0	1	0	0	0	0
+/s S s s s S s S/	s S s s s S s1 S	0	1	1	0	1	0	0	0
+/s S s s s S s S/	s S s s s S s S1	1	0	0	0	0	0	0	0
+/s S s s s S s s/	s1 S s s s S s s	0	0	0	0	0	0	0	0
+/s S s s s S s s/	s S1 s s s S s s	0	0	0	0	0	0	0	0
+/s S s s s S s s/	s S s1 s s S s s	0	0	0	0	0	0	0	0
+/s S s s s S s s/	s S s s1 s S s s	0	0	0	0	0	0	0	0
+/s S s s s S s s/	s S s s s1 S s s	0	0	0	0	0	1	1	1
+/s S s s s S s s/	s S s s s S1 s s	0	0	0	1	0	0	0	0
+/s S s s s S s s/	s S s s s S s1 s	0	1	1	0	1	0	0	0
+/s S s s s S s s/	s S s s s S s s1	1	0	0	0	0	0	0	0
+/s S s s s s S S/	s1 S s s s s S S	0	0	0	0	0	0	0	0
+/s S s s s s S S/	s S1 s s s s S S	0	0	0	0	0	0	0	0
+/s S s s s s S S/	s S s1 s s s S S	0	0	0	0	0	0	0	0
+/s S s s s s S S/	s S s s1 s s S S	0	0	0	0	0	0	0	0
+/s S s s s s S S/	s S s s s1 s S S	0	0	0	0	0	0	0	0
+/s S s s s s S S/	s S s s s s1 S S	0	0	0	1	1	1	1	1
+/s S s s s s S S/	s S s s s s S1 S	0	1	1	0	0	0	0	0
+/s S s s s s S S/	s S s s s s S S1	1	0	0	0	0	0	0	0
+/s S s s s s S s/	s1 S s s s s S s	0	0	0	0	0	0	0	0
+/s S s s s s S s/	s S1 s s s s S s	0	0	0	0	0	0	0	0
+/s S s s s s S s/	s S s1 s s s S s	0	0	0	0	0	0	0	0
+/s S s s s s S s/	s S s s1 s s S s	0	0	0	0	0	0	0	0
+/s S s s s s S s/	s S s s s1 s S s	0	0	0	0	0	0	0	0
+/s S s s s s S s/	s S s s s s1 S s	0	0	0	1	1	1	1	1
+/s S s s s s S s/	s S s s s s S1 s	0	1	0	0	0	0	0	0
+/s S s s s s S s/	s S s s s s S s1	1	0	1	0	0	0	0	0
+/s S s s s s s S/	s1 S s s s s s S	0	0	0	0	0	0	0	0
+/s S s s s s s S/	s S1 s s s s s S	0	0	0	0	0	0	0	0
+/s S s s s s s S/	s S s1 s s s s S	0	0	0	0	0	0	0	0
+/s S s s s s s S/	s S s s1 s s s S	0	0	0	0	0	0	0	0
+/s S s s s s s S/	s S s s s1 s s S	0	0	0	0	0	0	0	0
+/s S s s s s s S/	s S s s s s1 s S	0	0	0	1	1	1	1	1
+/s S s s s s s S/	s S s s s s s1 S	0	1	1	0	0	0	0	0
+/s S s s s s s S/	s S s s s s s S1	1	0	0	0	0	0	0	0
+/s S s s s s s s/	s1 S s s s s s s	0	0	0	0	0	0	0	0
+/s S s s s s s s/	s S1 s s s s s s	0	0	0	0	0	0	0	0
+/s S s s s s s s/	s S s1 s s s s s	0	0	0	0	0	0	0	0
+/s S s s s s s s/	s S s s1 s s s s	0	0	0	0	0	0	0	0
+/s S s s s s s s/	s S s s s1 s s s	0	0	0	0	0	0	0	0
+/s S s s s s s s/	s S s s s s1 s s	0	0	0	1	1	1	1	1
+/s S s s s s s s/	s S s s s s s1 s	0	1	1	0	0	0	0	0
+/s S s s s s s s/	s S s s s s s s1	1	0	0	0	0	0	0	0
+/s s S S S S S S/	s1 s S S S S S S	0	0	0	0	0	0	0	0
+/s s S S S S S S/	s s1 S S S S S S	0	0	0	0	0	0	0	0
+/s s S S S S S S/	s s S1 S S S S S	0	0	0	0	0	0	0	0
+/s s S S S S S S/	s s S S1 S S S S	0	0	0	0	0	0	0	0
+/s s S S S S S S/	s s S S S1 S S S	0	0	0	0	0	0	0	0
+/s s S S S S S S/	s s S S S S1 S S	0	0	0	1	1	1	1	1
+/s s S S S S S S/	s s S S S S S1 S	0	1	1	0	0	0	0	0
+/s s S S S S S S/	s s S S S S S S1	1	0	0	0	0	0	0	0
+/s s S S S S S s/	s1 s S S S S S s	0	0	0	0	0	0	0	0
+/s s S S S S S s/	s s1 S S S S S s	0	0	0	0	0	0	0	0
+/s s S S S S S s/	s s S1 S S S S s	0	0	0	0	0	0	0	0
+/s s S S S S S s/	s s S S1 S S S s	0	0	0	0	0	0	0	0
+/s s S S S S S s/	s s S S S1 S S s	0	0	0	0	0	0	0	0
+/s s S S S S S s/	s s S S S S1 S s	0	0	0	1	0	1	1	1
+/s s S S S S S s/	s s S S S S S1 s	0	1	0	0	0	0	0	0
+/s s S S S S S s/	s s S S S S S s1	1	0	1	0	1	0	0	0
+/s s S S S S s S/	s1 s S S S S s S	0	0	0	0	0	0	0	0
+/s s S S S S s S/	s s1 S S S S s S	0	0	0	0	0	0	0	0
+/s s S S S S s S/	s s S1 S S S s S	0	0	0	0	0	0	0	0
+/s s S S S S s S/	s s S S1 S S s S	0	0	0	0	0	0	0	0
+/s s S S S S s S/	s s S S S1 S s S	0	0	0	0	0	0	0	0
+/s s S S S S s S/	s s S S S S1 s S	0	0	0	1	0	0	0	0
+/s s S S S S s S/	s s S S S S s1 S	0	1	1	0	1	1	1	1
+/s s S S S S s S/	s s S S S S s S1	1	0	0	0	0	0	0	0
+/s s S S S S s s/	s1 s S S S S s s	0	0	0	0	0	0	0	0
+/s s S S S S s s/	s s1 S S S S s s	0	0	0	0	0	0	0	0
+/s s S S S S s s/	s s S1 S S S s s	0	0	0	0	0	0	0	0
+/s s S S S S s s/	s s S S1 S S s s	0	0	0	0	0	0	0	0
+/s s S S S S s s/	s s S S S1 S s s	0	0	0	0	0	0	0	0
+/s s S S S S s s/	s s S S S S1 s s	0	0	0	1	0	0	0	0
+/s s S S S S s s/	s s S S S S s1 s	0	1	1	0	1	1	1	1
+/s s S S S S s s/	s s S S S S s s1	1	0	0	0	0	0	0	0
+/s s S S S s S S/	s1 s S S S s S S	0	0	0	0	0	0	0	0
+/s s S S S s S S/	s s1 S S S s S S	0	0	0	0	0	0	0	0
+/s s S S S s S S/	s s S1 S S s S S	0	0	0	0	0	0	0	0
+/s s S S S s S S/	s s S S1 S s S S	0	0	0	0	0	0	0	0
+/s s S S S s S S/	s s S S S1 s S S	0	0	0	0	0	0	0	0
+/s s S S S s S S/	s s S S S s1 S S	0	0	0	1	1	1	1	1
+/s s S S S s S S/	s s S S S s S1 S	0	1	1	0	0	0	0	0
+/s s S S S s S S/	s s S S S s S S1	1	0	0	0	0	0	0	0
+/s s S S S s S s/	s1 s S S S s S s	0	0	0	0	0	0	0	0
+/s s S S S s S s/	s s1 S S S s S s	0	0	0	0	0	0	0	0
+/s s S S S s S s/	s s S1 S S s S s	0	0	0	0	0	0	0	0
+/s s S S S s S s/	s s S S1 S s S s	0	0	0	0	0	0	0	0
+/s s S S S s S s/	s s S S S1 s S s	0	0	0	0	0	0	0	0
+/s s S S S s S s/	s s S S S s1 S s	0	0	0	1	1	1	1	1
+/s s S S S s S s/	s s S S S s S1 s	0	1	0	0	0	0	0	0
+/s s S S S s S s/	s s S S S s S s1	1	0	1	0	0	0	0	0
+/s s S S S s s S/	s1 s S S S s s S	0	0	0	0	0	0	0	0
+/s s S S S s s S/	s s1 S S S s s S	0	0	0	0	0	0	0	0
+/s s S S S s s S/	s s S1 S S s s S	0	0	0	0	0	0	0	0
+/s s S S S s s S/	s s S S1 S s s S	0	0	0	0	0	0	0	0
+/s s S S S s s S/	s s S S S1 s s S	0	0	0	0	0	0	0	0
+/s s S S S s s S/	s s S S S s1 s S	0	0	0	1	1	1	1	1
+/s s S S S s s S/	s s S S S s s1 S	0	1	1	0	0	0	0	0
+/s s S S S s s S/	s s S S S s s S1	1	0	0	0	0	0	0	0
+/s s S S S s s s/	s1 s S S S s s s	0	0	0	0	0	0	0	0
+/s s S S S s s s/	s s1 S S S s s s	0	0	0	0	0	0	0	0
+/s s S S S s s s/	s s S1 S S s s s	0	0	0	0	0	0	0	0
+/s s S S S s s s/	s s S S1 S s s s	0	0	0	0	0	0	0	0
+/s s S S S s s s/	s s S S S1 s s s	0	0	0	0	0	0	0	0
+/s s S S S s s s/	s s S S S s1 s s	0	0	0	1	1	1	1	1
+/s s S S S s s s/	s s S S S s s1 s	0	1	1	0	0	0	0	0
+/s s S S S s s s/	s s S S S s s s1	1	0	0	0	0	0	0	0
+/s s S S s S S S/	s1 s S S s S S S	0	0	0	0	0	0	0	0
+/s s S S s S S S/	s s1 S S s S S S	0	0	0	0	0	0	0	0
+/s s S S s S S S/	s s S1 S s S S S	0	0	0	0	0	0	0	0
+/s s S S s S S S/	s s S S1 s S S S	0	0	0	0	0	0	0	0
+/s s S S s S S S/	s s S S s1 S S S	0	0	0	0	0	1	1	1
+/s s S S s S S S/	s s S S s S1 S S	0	0	0	1	1	0	0	0
+/s s S S s S S S/	s s S S s S S1 S	0	1	1	0	0	0	0	0
+/s s S S s S S S/	s s S S s S S S1	1	0	0	0	0	0	0	0
+/s s S S s S S s/	s1 s S S s S S s	0	0	0	0	0	0	0	0
+/s s S S s S S s/	s s1 S S s S S s	0	0	0	0	0	0	0	0
+/s s S S s S S s/	s s S1 S s S S s	0	0	0	0	0	0	0	0
+/s s S S s S S s/	s s S S1 s S S s	0	0	0	0	0	0	0	0
+/s s S S s S S s/	s s S S s1 S S s	0	0	0	0	0	1	1	1
+/s s S S s S S s/	s s S S s S1 S s	0	0	0	1	0	0	0	0
+/s s S S s S S s/	s s S S s S S1 s	0	1	0	0	0	0	0	0
+/s s S S s S S s/	s s S S s S S s1	1	0	1	0	1	0	0	0
+/s s S S s S s S/	s1 s S S s S s S	0	0	0	0	0	0	0	0
+/s s S S s S s S/	s s1 S S s S s S	0	0	0	0	0	0	0	0
+/s s S S s S s S/	s s S1 S s S s S	0	0	0	0	0	0	0	0
+/s s S S s S s S/	s s S S1 s S s S	0	0	0	0	0	0	0	0
+/s s S S s S s S/	s s S S s1 S s S	0	0	0	0	0	1	1	1
+/s s S S s S s S/	s s S S s S1 s S	0	0	0	1	0	0	0	0
+/s s S S s S s S/	s s S S s S s1 S	0	1	1	0	1	0	0	0
+/s s S S s S s S/	s s S S s S s S1	1	0	0	0	0	0	0	0
+/s s S S s S s s/	s1 s S S s S s s	0	0	0	0	0	0	0	0
+/s s S S s S s s/	s s1 S S s S s s	0	0	0	0	0	0	0	0
+/s s S S s S s s/	s s S1 S s S s s	0	0	0	0	0	0	0	0
+/s s S S s S s s/	s s S S1 s S s s	0	0	0	0	0	0	0	0
+/s s S S s S s s/	s s S S s1 S s s	0	0	0	0	0	1	1	1
+/s s S S s S s s/	s s S S s S1 s s	0	0	0	1	0	0	0	0
+/s s S S s S s s/	s s S S s S s1 s	0	1	1	0	1	0	0	0
+/s s S S s S s s/	s s S S s S s s1	1	0	0	0	0	0	0	0
+/s s S S s s S S/	s1 s S S s s S S	0	0	0	0	0	0	0	0
+/s s S S s s S S/	s s1 S S s s S S	0	0	0	0	0	0	0	0
+/s s S S s s S S/	s s S1 S s s S S	0	0	0	0	0	0	0	0
+/s s S S s s S S/	s s S S1 s s S S	0	0	0	0	0	0	0	0
+/s s S S s s S S/	s s S S s1 s S S	0	0	0	0	0	0	0	0
+/s s S S s s S S/	s s S S s s1 S S	0	0	0	1	1	1	1	1
+/s s S S s s S S/	s s S S s s S1 S	0	1	1	0	0	0	0	0
+/s s S S s s S S/	s s S S s s S S1	1	0	0	0	0	0	0	0
+/s s S S s s S s/	s1 s S S s s S s	0	0	0	0	0	0	0	0
+/s s S S s s S s/	s s1 S S s s S s	0	0	0	0	0	0	0	0
+/s s S S s s S s/	s s S1 S s s S s	0	0	0	0	0	0	0	0
+/s s S S s s S s/	s s S S1 s s S s	0	0	0	0	0	0	0	0
+/s s S S s s S s/	s s S S s1 s S s	0	0	0	0	0	0	0	0
+/s s S S s s S s/	s s S S s s1 S s	0	0	0	1	1	1	1	1
+/s s S S s s S s/	s s S S s s S1 s	0	1	0	0	0	0	0	0
+/s s S S s s S s/	s s S S s s S s1	1	0	1	0	0	0	0	0
+/s s S S s s s S/	s1 s S S s s s S	0	0	0	0	0	0	0	0
+/s s S S s s s S/	s s1 S S s s s S	0	0	0	0	0	0	0	0
+/s s S S s s s S/	s s S1 S s s s S	0	0	0	0	0	0	0	0
+/s s S S s s s S/	s s S S1 s s s S	0	0	0	0	0	0	0	0
+/s s S S s s s S/	s s S S s1 s s S	0	0	0	0	0	0	0	0
+/s s S S s s s S/	s s S S s s1 s S	0	0	0	1	1	1	1	1
+/s s S S s s s S/	s s S S s s s1 S	0	1	1	0	0	0	0	0
+/s s S S s s s S/	s s S S s s s S1	1	0	0	0	0	0	0	0
+/s s S S s s s s/	s1 s S S s s s s	0	0	0	0	0	0	0	0
+/s s S S s s s s/	s s1 S S s s s s	0	0	0	0	0	0	0	0
+/s s S S s s s s/	s s S1 S s s s s	0	0	0	0	0	0	0	0
+/s s S S s s s s/	s s S S1 s s s s	0	0	0	0	0	0	0	0
+/s s S S s s s s/	s s S S s1 s s s	0	0	0	0	0	0	0	0
+/s s S S s s s s/	s s S S s s1 s s	0	0	0	1	1	1	1	1
+/s s S S s s s s/	s s S S s s s1 s	0	1	1	0	0	0	0	0
+/s s S S s s s s/	s s S S s s s s1	1	0	0	0	0	0	0	0
+/s s S s S S S S/	s1 s S s S S S S	0	0	0	0	0	0	0	0
+/s s S s S S S S/	s s1 S s S S S S	0	0	0	0	0	0	0	0
+/s s S s S S S S/	s s S1 s S S S S	0	0	0	0	0	0	0	0
+/s s S s S S S S/	s s S s1 S S S S	0	0	0	0	0	0	1	1
+/s s S s S S S S/	s s S s S1 S S S	0	0	0	0	0	0	0	0
+/s s S s S S S S/	s s S s S S1 S S	0	0	0	1	1	1	0	0
+/s s S s S S S S/	s s S s S S S1 S	0	1	1	0	0	0	0	0
+/s s S s S S S S/	s s S s S S S S1	1	0	0	0	0	0	0	0
+/s s S s S S S s/	s1 s S s S S S s	0	0	0	0	0	0	0	0
+/s s S s S S S s/	s s1 S s S S S s	0	0	0	0	0	0	0	0
+/s s S s S S S s/	s s S1 s S S S s	0	0	0	0	0	0	0	0
+/s s S s S S S s/	s s S s1 S S S s	0	0	0	0	0	0	1	1
+/s s S s S S S s/	s s S s S1 S S s	0	0	0	0	0	0	0	0
+/s s S s S S S s/	s s S s S S1 S s	0	0	0	1	0	1	0	0
+/s s S s S S S s/	s s S s S S S1 s	0	1	0	0	0	0	0	0
+/s s S s S S S s/	s s S s S S S s1	1	0	1	0	1	0	0	0
+/s s S s S S s S/	s1 s S s S S s S	0	0	0	0	0	0	0	0
+/s s S s S S s S/	s s1 S s S S s S	0	0	0	0	0	0	0	0
+/s s S s S S s S/	s s S1 s S S s S	0	0	0	0	0	0	0	0
+/s s S s S S s S/	s s S s1 S S s S	0	0	0	0	0	0	1	1
+/s s S s S S s S/	s s S s S1 S s S	0	0	0	0	0	0	0	0
+/s s S s S S s S/	s s S s S S1 s S	0	0	0	1	0	0	0	0
+/s s S s S S s S/	s s S s S S s1 S	0	1	1	0	1	1	0	0
+/s s S s S S s S/	s s S s S S s S1	1	0	0	0	0	0	0	0
+/s s S s S S s s/	s1 s S s S S s s	0	0	0	0	0	0	0	0
+/s s S s S S s s/	s s1 S s S S s s	0	0	0	0	0	0	0	0
+/s s S s S S s s/	s s S1 s S S s s	0	0	0	0	0	0	0	0
+/s s S s S S s s/	s s S s1 S S s s	0	0	0	0	0	0	1	1
+/s s S s S S s s/	s s S s S1 S s s	0	0	0	0	0	0	0	0
+/s s S s S S s s/	s s S s S S1 s s	0	0	0	1	0	0	0	0
+/s s S s S S s s/	s s S s S S s1 s	0	1	1	0	1	1	0	0
+/s s S s S S s s/	s s S s S S s s1	1	0	0	0	0	0	0	0
+/s s S s S s S S/	s1 s S s S s S S	0	0	0	0	0	0	0	0
+/s s S s S s S S/	s s1 S s S s S S	0	0	0	0	0	0	0	0
+/s s S s S s S S/	s s S1 s S s S S	0	0	0	0	0	0	0	0
+/s s S s S s S S/	s s S s1 S s S S	0	0	0	0	0	0	0	0
+/s s S s S s S S/	s s S s S1 s S S	0	0	0	0	0	0	0	0
+/s s S s S s S S/	s s S s S s1 S S	0	0	0	1	1	1	1	1
+/s s S s S s S S/	s s S s S s S1 S	0	1	1	0	0	0	0	0
+/s s S s S s S S/	s s S s S s S S1	1	0	0	0	0	0	0	0
+/s s S s S s S s/	s1 s S s S s S s	0	0	0	0	0	0	0	0
+/s s S s S s S s/	s s1 S s S s S s	0	0	0	0	0	0	0	0
+/s s S s S s S s/	s s S1 s S s S s	0	0	0	0	0	0	0	0
+/s s S s S s S s/	s s S s1 S s S s	0	0	0	0	0	0	0	0
+/s s S s S s S s/	s s S s S1 s S s	0	0	0	0	0	0	0	0
+/s s S s S s S s/	s s S s S s1 S s	0	0	0	1	1	1	1	1
+/s s S s S s S s/	s s S s S s S1 s	0	1	0	0	0	0	0	0
+/s s S s S s S s/	s s S s S s S s1	1	0	1	0	0	0	0	0
+/s s S s S s s S/	s1 s S s S s s S	0	0	0	0	0	0	0	0
+/s s S s S s s S/	s s1 S s S s s S	0	0	0	0	0	0	0	0
+/s s S s S s s S/	s s S1 s S s s S	0	0	0	0	0	0	0	0
+/s s S s S s s S/	s s S s1 S s s S	0	0	0	0	0	0	0	0
+/s s S s S s s S/	s s S s S1 s s S	0	0	0	0	0	0	0	0
+/s s S s S s s S/	s s S s S s1 s S	0	0	0	1	1	1	1	1
+/s s S s S s s S/	s s S s S s s1 S	0	1	1	0	0	0	0	0
+/s s S s S s s S/	s s S s S s s S1	1	0	0	0	0	0	0	0
+/s s S s S s s s/	s1 s S s S s s s	0	0	0	0	0	0	0	0
+/s s S s S s s s/	s s1 S s S s s s	0	0	0	0	0	0	0	0
+/s s S s S s s s/	s s S1 s S s s s	0	0	0	0	0	0	0	0
+/s s S s S s s s/	s s S s1 S s s s	0	0	0	0	0	0	0	0
+/s s S s S s s s/	s s S s S1 s s s	0	0	0	0	0	0	0	0
+/s s S s S s s s/	s s S s S s1 s s	0	0	0	1	1	1	1	1
+/s s S s S s s s/	s s S s S s s1 s	0	1	1	0	0	0	0	0
+/s s S s S s s s/	s s S s S s s s1	1	0	0	0	0	0	0	0
+/s s S s s S S S/	s1 s S s s S S S	0	0	0	0	0	0	0	0
+/s s S s s S S S/	s s1 S s s S S S	0	0	0	0	0	0	0	0
+/s s S s s S S S/	s s S1 s s S S S	0	0	0	0	0	0	0	0
+/s s S s s S S S/	s s S s1 s S S S	0	0	0	0	0	0	0	0
+/s s S s s S S S/	s s S s s1 S S S	0	0	0	0	0	1	1	1
+/s s S s s S S S/	s s S s s S1 S S	0	0	0	1	1	0	0	0
+/s s S s s S S S/	s s S s s S S1 S	0	1	1	0	0	0	0	0
+/s s S s s S S S/	s s S s s S S S1	1	0	0	0	0	0	0	0
+/s s S s s S S s/	s1 s S s s S S s	0	0	0	0	0	0	0	0
+/s s S s s S S s/	s s1 S s s S S s	0	0	0	0	0	0	0	0
+/s s S s s S S s/	s s S1 s s S S s	0	0	0	0	0	0	0	0
+/s s S s s S S s/	s s S s1 s S S s	0	0	0	0	0	0	0	0
+/s s S s s S S s/	s s S s s1 S S s	0	0	0	0	0	1	1	1
+/s s S s s S S s/	s s S s s S1 S s	0	0	0	1	0	0	0	0
+/s s S s s S S s/	s s S s s S S1 s	0	1	0	0	0	0	0	0
+/s s S s s S S s/	s s S s s S S s1	1	0	1	0	1	0	0	0
+/s s S s s S s S/	s1 s S s s S s S	0	0	0	0	0	0	0	0
+/s s S s s S s S/	s s1 S s s S s S	0	0	0	0	0	0	0	0
+/s s S s s S s S/	s s S1 s s S s S	0	0	0	0	0	0	0	0
+/s s S s s S s S/	s s S s1 s S s S	0	0	0	0	0	0	0	0
+/s s S s s S s S/	s s S s s1 S s S	0	0	0	0	0	1	1	1
+/s s S s s S s S/	s s S s s S1 s S	0	0	0	1	0	0	0	0
+/s s S s s S s S/	s s S s s S s1 S	0	1	1	0	1	0	0	0
+/s s S s s S s S/	s s S s s S s S1	1	0	0	0	0	0	0	0
+/s s S s s S s s/	s1 s S s s S s s	0	0	0	0	0	0	0	0
+/s s S s s S s s/	s s1 S s s S s s	0	0	0	0	0	0	0	0
+/s s S s s S s s/	s s S1 s s S s s	0	0	0	0	0	0	0	0
+/s s S s s S s s/	s s S s1 s S s s	0	0	0	0	0	0	0	0
+/s s S s s S s s/	s s S s s1 S s s	0	0	0	0	0	1	1	1
+/s s S s s S s s/	s s S s s S1 s s	0	0	0	1	0	0	0	0
+/s s S s s S s s/	s s S s s S s1 s	0	1	1	0	1	0	0	0
+/s s S s s S s s/	s s S s s S s s1	1	0	0	0	0	0	0	0
+/s s S s s s S S/	s1 s S s s s S S	0	0	0	0	0	0	0	0
+/s s S s s s S S/	s s1 S s s s S S	0	0	0	0	0	0	0	0
+/s s S s s s S S/	s s S1 s s s S S	0	0	0	0	0	0	0	0
+/s s S s s s S S/	s s S s1 s s S S	0	0	0	0	0	0	0	0
+/s s S s s s S S/	s s S s s1 s S S	0	0	0	0	0	0	0	0
+/s s S s s s S S/	s s S s s s1 S S	0	0	0	1	1	1	1	1
+/s s S s s s S S/	s s S s s s S1 S	0	1	1	0	0	0	0	0
+/s s S s s s S S/	s s S s s s S S1	1	0	0	0	0	0	0	0
+/s s S s s s S s/	s1 s S s s s S s	0	0	0	0	0	0	0	0
+/s s S s s s S s/	s s1 S s s s S s	0	0	0	0	0	0	0	0
+/s s S s s s S s/	s s S1 s s s S s	0	0	0	0	0	0	0	0
+/s s S s s s S s/	s s S s1 s s S s	0	0	0	0	0	0	0	0
+/s s S s s s S s/	s s S s s1 s S s	0	0	0	0	0	0	0	0
+/s s S s s s S s/	s s S s s s1 S s	0	0	0	1	1	1	1	1
+/s s S s s s S s/	s s S s s s S1 s	0	1	0	0	0	0	0	0
+/s s S s s s S s/	s s S s s s S s1	1	0	1	0	0	0	0	0
+/s s S s s s s S/	s1 s S s s s s S	0	0	0	0	0	0	0	0
+/s s S s s s s S/	s s1 S s s s s S	0	0	0	0	0	0	0	0
+/s s S s s s s S/	s s S1 s s s s S	0	0	0	0	0	0	0	0
+/s s S s s s s S/	s s S s1 s s s S	0	0	0	0	0	0	0	0
+/s s S s s s s S/	s s S s s1 s s S	0	0	0	0	0	0	0	0
+/s s S s s s s S/	s s S s s s1 s S	0	0	0	1	1	1	1	1
+/s s S s s s s S/	s s S s s s s1 S	0	1	1	0	0	0	0	0
+/s s S s s s s S/	s s S s s s s S1	1	0	0	0	0	0	0	0
+/s s S s s s s s/	s1 s S s s s s s	0	0	0	0	0	0	0	0
+/s s S s s s s s/	s s1 S s s s s s	0	0	0	0	0	0	0	0
+/s s S s s s s s/	s s S1 s s s s s	0	0	0	0	0	0	0	0
+/s s S s s s s s/	s s S s1 s s s s	0	0	0	0	0	0	0	0
+/s s S s s s s s/	s s S s s1 s s s	0	0	0	0	0	0	0	0
+/s s S s s s s s/	s s S s s s1 s s	0	0	0	1	1	1	1	1
+/s s S s s s s s/	s s S s s s s1 s	0	1	1	0	0	0	0	0
+/s s S s s s s s/	s s S s s s s s1	1	0	0	0	0	0	0	0
+/s s s S S S S S/	s1 s s S S S S S	0	0	0	0	0	0	0	0
+/s s s S S S S S/	s s1 s S S S S S	0	0	0	0	0	0	0	0
+/s s s S S S S S/	s s s1 S S S S S	0	0	0	0	0	0	0	1
+/s s s S S S S S/	s s s S1 S S S S	0	0	0	0	0	0	0	0
+/s s s S S S S S/	s s s S S1 S S S	0	0	0	0	0	0	0	0
+/s s s S S S S S/	s s s S S S1 S S	0	0	0	1	1	1	1	0
+/s s s S S S S S/	s s s S S S S1 S	0	1	1	0	0	0	0	0
+/s s s S S S S S/	s s s S S S S S1	1	0	0	0	0	0	0	0
+/s s s S S S S s/	s1 s s S S S S s	0	0	0	0	0	0	0	0
+/s s s S S S S s/	s s1 s S S S S s	0	0	0	0	0	0	0	0
+/s s s S S S S s/	s s s1 S S S S s	0	0	0	0	0	0	0	1
+/s s s S S S S s/	s s s S1 S S S s	0	0	0	0	0	0	0	0
+/s s s S S S S s/	s s s S S1 S S s	0	0	0	0	0	0	0	0
+/s s s S S S S s/	s s s S S S1 S s	0	0	0	1	0	1	1	0
+/s s s S S S S s/	s s s S S S S1 s	0	1	0	0	0	0	0	0
+/s s s S S S S s/	s s s S S S S s1	1	0	1	0	1	0	0	0
+/s s s S S S s S/	s1 s s S S S s S	0	0	0	0	0	0	0	0
+/s s s S S S s S/	s s1 s S S S s S	0	0	0	0	0	0	0	0
+/s s s S S S s S/	s s s1 S S S s S	0	0	0	0	0	0	0	1
+/s s s S S S s S/	s s s S1 S S s S	0	0	0	0	0	0	0	0
+/s s s S S S s S/	s s s S S1 S s S	0	0	0	0	0	0	0	0
+/s s s S S S s S/	s s s S S S1 s S	0	0	0	1	0	0	0	0
+/s s s S S S s S/	s s s S S S s1 S	0	1	1	0	1	1	1	0
+/s s s S S S s S/	s s s S S S s S1	1	0	0	0	0	0	0	0
+/s s s S S S s s/	s1 s s S S S s s	0	0	0	0	0	0	0	0
+/s s s S S S s s/	s s1 s S S S s s	0	0	0	0	0	0	0	0
+/s s s S S S s s/	s s s1 S S S s s	0	0	0	0	0	0	0	1
+/s s s S S S s s/	s s s S1 S S s s	0	0	0	0	0	0	0	0
+/s s s S S S s s/	s s s S S1 S s s	0	0	0	0	0	0	0	0
+/s s s S S S s s/	s s s S S S1 s s	0	0	0	1	0	0	0	0
+/s s s S S S s s/	s s s S S S s1 s	0	1	1	0	1	1	1	0
+/s s s S S S s s/	s s s S S S s s1	1	0	0	0	0	0	0	0
+/s s s S S s S S/	s1 s s S S s S S	0	0	0	0	0	0	0	0
+/s s s S S s S S/	s s1 s S S s S S	0	0	0	0	0	0	0	0
+/s s s S S s S S/	s s s1 S S s S S	0	0	0	0	0	0	0	0
+/s s s S S s S S/	s s s S1 S s S S	0	0	0	0	0	0	0	0
+/s s s S S s S S/	s s s S S1 s S S	0	0	0	0	0	0	0	0
+/s s s S S s S S/	s s s S S s1 S S	0	0	0	1	1	1	1	1
+/s s s S S s S S/	s s s S S s S1 S	0	1	1	0	0	0	0	0
+/s s s S S s S S/	s s s S S s S S1	1	0	0	0	0	0	0	0
+/s s s S S s S s/	s1 s s S S s S s	0	0	0	0	0	0	0	0
+/s s s S S s S s/	s s1 s S S s S s	0	0	0	0	0	0	0	0
+/s s s S S s S s/	s s s1 S S s S s	0	0	0	0	0	0	0	0
+/s s s S S s S s/	s s s S1 S s S s	0	0	0	0	0	0	0	0
+/s s s S S s S s/	s s s S S1 s S s	0	0	0	0	0	0	0	0
+/s s s S S s S s/	s s s S S s1 S s	0	0	0	1	1	1	1	1
+/s s s S S s S s/	s s s S S s S1 s	0	1	0	0	0	0	0	0
+/s s s S S s S s/	s s s S S s S s1	1	0	1	0	0	0	0	0
+/s s s S S s s S/	s1 s s S S s s S	0	0	0	0	0	0	0	0
+/s s s S S s s S/	s s1 s S S s s S	0	0	0	0	0	0	0	0
+/s s s S S s s S/	s s s1 S S s s S	0	0	0	0	0	0	0	0
+/s s s S S s s S/	s s s S1 S s s S	0	0	0	0	0	0	0	0
+/s s s S S s s S/	s s s S S1 s s S	0	0	0	0	0	0	0	0
+/s s s S S s s S/	s s s S S s1 s S	0	0	0	1	1	1	1	1
+/s s s S S s s S/	s s s S S s s1 S	0	1	1	0	0	0	0	0
+/s s s S S s s S/	s s s S S s s S1	1	0	0	0	0	0	0	0
+/s s s S S s s s/	s1 s s S S s s s	0	0	0	0	0	0	0	0
+/s s s S S s s s/	s s1 s S S s s s	0	0	0	0	0	0	0	0
+/s s s S S s s s/	s s s1 S S s s s	0	0	0	0	0	0	0	0
+/s s s S S s s s/	s s s S1 S s s s	0	0	0	0	0	0	0	0
+/s s s S S s s s/	s s s S S1 s s s	0	0	0	0	0	0	0	0
+/s s s S S s s s/	s s s S S s1 s s	0	0	0	1	1	1	1	1
+/s s s S S s s s/	s s s S S s s1 s	0	1	1	0	0	0	0	0
+/s s s S S s s s/	s s s S S s s s1	1	0	0	0	0	0	0	0
+/s s s S s S S S/	s1 s s S s S S S	0	0	0	0	0	0	0	0
+/s s s S s S S S/	s s1 s S s S S S	0	0	0	0	0	0	0	0
+/s s s S s S S S/	s s s1 S s S S S	0	0	0	0	0	0	0	0
+/s s s S s S S S/	s s s S1 s S S S	0	0	0	0	0	0	0	0
+/s s s S s S S S/	s s s S s1 S S S	0	0	0	0	0	1	1	1
+/s s s S s S S S/	s s s S s S1 S S	0	0	0	1	1	0	0	0
+/s s s S s S S S/	s s s S s S S1 S	0	1	1	0	0	0	0	0
+/s s s S s S S S/	s s s S s S S S1	1	0	0	0	0	0	0	0
+/s s s S s S S s/	s1 s s S s S S s	0	0	0	0	0	0	0	0
+/s s s S s S S s/	s s1 s S s S S s	0	0	0	0	0	0	0	0
+/s s s S s S S s/	s s s1 S s S S s	0	0	0	0	0	0	0	0
+/s s s S s S S s/	s s s S1 s S S s	0	0	0	0	0	0	0	0
+/s s s S s S S s/	s s s S s1 S S s	0	0	0	0	0	1	1	1
+/s s s S s S S s/	s s s S s S1 S s	0	0	0	1	0	0	0	0
+/s s s S s S S s/	s s s S s S S1 s	0	1	0	0	0	0	0	0
+/s s s S s S S s/	s s s S s S S s1	1	0	1	0	1	0	0	0
+/s s s S s S s S/	s1 s s S s S s S	0	0	0	0	0	0	0	0
+/s s s S s S s S/	s s1 s S s S s S	0	0	0	0	0	0	0	0
+/s s s S s S s S/	s s s1 S s S s S	0	0	0	0	0	0	0	0
+/s s s S s S s S/	s s s S1 s S s S	0	0	0	0	0	0	0	0
+/s s s S s S s S/	s s s S s1 S s S	0	0	0	0	0	1	1	1
+/s s s S s S s S/	s s s S s S1 s S	0	0	0	1	0	0	0	0
+/s s s S s S s S/	s s s S s S s1 S	0	1	1	0	1	0	0	0
+/s s s S s S s S/	s s s S s S s S1	1	0	0	0	0	0	0	0
+/s s s S s S s s/	s1 s s S s S s s	0	0	0	0	0	0	0	0
+/s s s S s S s s/	s s1 s S s S s s	0	0	0	0	0	0	0	0
+/s s s S s S s s/	s s s1 S s S s s	0	0	0	0	0	0	0	0
+/s s s S s S s s/	s s s S1 s S s s	0	0	0	0	0	0	0	0
+/s s s S s S s s/	s s s S s1 S s s	0	0	0	0	0	1	1	1
+/s s s S s S s s/	s s s S s S1 s s	0	0	0	1	0	0	0	0
+/s s s S s S s s/	s s s S s S s1 s	0	1	1	0	1	0	0	0
+/s s s S s S s s/	s s s S s S s s1	1	0	0	0	0	0	0	0
+/s s s S s s S S/	s1 s s S s s S S	0	0	0	0	0	0	0	0
+/s s s S s s S S/	s s1 s S s s S S	0	0	0	0	0	0	0	0
+/s s s S s s S S/	s s s1 S s s S S	0	0	0	0	0	0	0	0
+/s s s S s s S S/	s s s S1 s s S S	0	0	0	0	0	0	0	0
+/s s s S s s S S/	s s s S s1 s S S	0	0	0	0	0	0	0	0
+/s s s S s s S S/	s s s S s s1 S S	0	0	0	1	1	1	1	1
+/s s s S s s S S/	s s s S s s S1 S	0	1	1	0	0	0	0	0
+/s s s S s s S S/	s s s S s s S S1	1	0	0	0	0	0	0	0
+/s s s S s s S s/	s1 s s S s s S s	0	0	0	0	0	0	0	0
+/s s s S s s S s/	s s1 s S s s S s	0	0	0	0	0	0	0	0
+/s s s S s s S s/	s s s1 S s s S s	0	0	0	0	0	0	0	0
+/s s s S s s S s/	s s s S1 s s S s	0	0	0	0	0	0	0	0
+/s s s S s s S s/	s s s S s1 s S s	0	0	0	0	0	0	0	0
+/s s s S s s S s/	s s s S s s1 S s	0	0	0	1	1	1	1	1
+/s s s S s s S s/	s s s S s s S1 s	0	1	0	0	0	0	0	0
+/s s s S s s S s/	s s s S s s S s1	1	0	1	0	0	0	0	0
+/s s s S s s s S/	s1 s s S s s s S	0	0	0	0	0	0	0	0
+/s s s S s s s S/	s s1 s S s s s S	0	0	0	0	0	0	0	0
+/s s s S s s s S/	s s s1 S s s s S	0	0	0	0	0	0	0	0
+/s s s S s s s S/	s s s S1 s s s S	0	0	0	0	0	0	0	0
+/s s s S s s s S/	s s s S s1 s s S	0	0	0	0	0	0	0	0
+/s s s S s s s S/	s s s S s s1 s S	0	0	0	1	1	1	1	1
+/s s s S s s s S/	s s s S s s s1 S	0	1	1	0	0	0	0	0
+/s s s S s s s S/	s s s S s s s S1	1	0	0	0	0	0	0	0
+/s s s S s s s s/	s1 s s S s s s s	0	0	0	0	0	0	0	0
+/s s s S s s s s/	s s1 s S s s s s	0	0	0	0	0	0	0	0
+/s s s S s s s s/	s s s1 S s s s s	0	0	0	0	0	0	0	0
+/s s s S s s s s/	s s s S1 s s s s	0	0	0	0	0	0	0	0
+/s s s S s s s s/	s s s S s1 s s s	0	0	0	0	0	0	0	0
+/s s s S s s s s/	s s s S s s1 s s	0	0	0	1	1	1	1	1
+/s s s S s s s s/	s s s S s s s1 s	0	1	1	0	0	0	0	0
+/s s s S s s s s/	s s s S s s s s1	1	0	0	0	0	0	0	0
+/s s s s S S S S/	s1 s s s S S S S	0	0	0	0	0	0	0	0
+/s s s s S S S S/	s s1 s s S S S S	0	0	0	0	0	0	0	0
+/s s s s S S S S/	s s s1 s S S S S	0	0	0	0	0	0	0	0
+/s s s s S S S S/	s s s s1 S S S S	0	0	0	0	0	0	1	1
+/s s s s S S S S/	s s s s S1 S S S	0	0	0	0	0	0	0	0
+/s s s s S S S S/	s s s s S S1 S S	0	0	0	1	1	1	0	0
+/s s s s S S S S/	s s s s S S S1 S	0	1	1	0	0	0	0	0
+/s s s s S S S S/	s s s s S S S S1	1	0	0	0	0	0	0	0
+/s s s s S S S s/	s1 s s s S S S s	0	0	0	0	0	0	0	0
+/s s s s S S S s/	s s1 s s S S S s	0	0	0	0	0	0	0	0
+/s s s s S S S s/	s s s1 s S S S s	0	0	0	0	0	0	0	0
+/s s s s S S S s/	s s s s1 S S S s	0	0	0	0	0	0	1	1
+/s s s s S S S s/	s s s s S1 S S s	0	0	0	0	0	0	0	0
+/s s s s S S S s/	s s s s S S1 S s	0	0	0	1	0	1	0	0
+/s s s s S S S s/	s s s s S S S1 s	0	1	0	0	0	0	0	0
+/s s s s S S S s/	s s s s S S S s1	1	0	1	0	1	0	0	0
+/s s s s S S s S/	s1 s s s S S s S	0	0	0	0	0	0	0	0
+/s s s s S S s S/	s s1 s s S S s S	0	0	0	0	0	0	0	0
+/s s s s S S s S/	s s s1 s S S s S	0	0	0	0	0	0	0	0
+/s s s s S S s S/	s s s s1 S S s S	0	0	0	0	0	0	1	1
+/s s s s S S s S/	s s s s S1 S s S	0	0	0	0	0	0	0	0
+/s s s s S S s S/	s s s s S S1 s S	0	0	0	1	0	0	0	0
+/s s s s S S s S/	s s s s S S s1 S	0	1	1	0	1	1	0	0
+/s s s s S S s S/	s s s s S S s S1	1	0	0	0	0	0	0	0
+/s s s s S S s s/	s1 s s s S S s s	0	0	0	0	0	0	0	0
+/s s s s S S s s/	s s1 s s S S s s	0	0	0	0	0	0	0	0
+/s s s s S S s s/	s s s1 s S S s s	0	0	0	0	0	0	0	0
+/s s s s S S s s/	s s s s1 S S s s	0	0	0	0	0	0	1	1
+/s s s s S S s s/	s s s s S1 S s s	0	0	0	0	0	0	0	0
+/s s s s S S s s/	s s s s S S1 s s	0	0	0	1	0	0	0	0
+/s s s s S S s s/	s s s s S S s1 s	0	1	1	0	1	1	0	0
+/s s s s S S s s/	s s s s S S s s1	1	0	0	0	0	0	0	0
+/s s s s S s S S/	s1 s s s S s S S	0	0	0	0	0	0	0	0
+/s s s s S s S S/	s s1 s s S s S S	0	0	0	0	0	0	0	0
+/s s s s S s S S/	s s s1 s S s S S	0	0	0	0	0	0	0	0
+/s s s s S s S S/	s s s s1 S s S S	0	0	0	0	0	0	0	0
+/s s s s S s S S/	s s s s S1 s S S	0	0	0	0	0	0	0	0
+/s s s s S s S S/	s s s s S s1 S S	0	0	0	1	1	1	1	1
+/s s s s S s S S/	s s s s S s S1 S	0	1	1	0	0	0	0	0
+/s s s s S s S S/	s s s s S s S S1	1	0	0	0	0	0	0	0
+/s s s s S s S s/	s1 s s s S s S s	0	0	0	0	0	0	0	0
+/s s s s S s S s/	s s1 s s S s S s	0	0	0	0	0	0	0	0
+/s s s s S s S s/	s s s1 s S s S s	0	0	0	0	0	0	0	0
+/s s s s S s S s/	s s s s1 S s S s	0	0	0	0	0	0	0	0
+/s s s s S s S s/	s s s s S1 s S s	0	0	0	0	0	0	0	0
+/s s s s S s S s/	s s s s S s1 S s	0	0	0	1	1	1	1	1
+/s s s s S s S s/	s s s s S s S1 s	0	1	0	0	0	0	0	0
+/s s s s S s S s/	s s s s S s S s1	1	0	1	0	0	0	0	0
+/s s s s S s s S/	s1 s s s S s s S	0	0	0	0	0	0	0	0
+/s s s s S s s S/	s s1 s s S s s S	0	0	0	0	0	0	0	0
+/s s s s S s s S/	s s s1 s S s s S	0	0	0	0	0	0	0	0
+/s s s s S s s S/	s s s s1 S s s S	0	0	0	0	0	0	0	0
+/s s s s S s s S/	s s s s S1 s s S	0	0	0	0	0	0	0	0
+/s s s s S s s S/	s s s s S s1 s S	0	0	0	1	1	1	1	1
+/s s s s S s s S/	s s s s S s s1 S	0	1	1	0	0	0	0	0
+/s s s s S s s S/	s s s s S s s S1	1	0	0	0	0	0	0	0
+/s s s s S s s s/	s1 s s s S s s s	0	0	0	0	0	0	0	0
+/s s s s S s s s/	s s1 s s S s s s	0	0	0	0	0	0	0	0
+/s s s s S s s s/	s s s1 s S s s s	0	0	0	0	0	0	0	0
+/s s s s S s s s/	s s s s1 S s s s	0	0	0	0	0	0	0	0
+/s s s s S s s s/	s s s s S1 s s s	0	0	0	0	0	0	0	0
+/s s s s S s s s/	s s s s S s1 s s	0	0	0	1	1	1	1	1
+/s s s s S s s s/	s s s s S s s1 s	0	1	1	0	0	0	0	0
+/s s s s S s s s/	s s s s S s s s1	1	0	0	0	0	0	0	0
+/s s s s s S S S/	s1 s s s s S S S	0	0	0	0	0	0	0	0
+/s s s s s S S S/	s s1 s s s S S S	0	0	0	0	0	0	0	0
+/s s s s s S S S/	s s s1 s s S S S	0	0	0	0	0	0	0	0
+/s s s s s S S S/	s s s s1 s S S S	0	0	0	0	0	0	0	0
+/s s s s s S S S/	s s s s s1 S S S	0	0	0	0	0	1	1	1
+/s s s s s S S S/	s s s s s S1 S S	0	0	0	1	1	0	0	0
+/s s s s s S S S/	s s s s s S S1 S	0	1	1	0	0	0	0	0
+/s s s s s S S S/	s s s s s S S S1	1	0	0	0	0	0	0	0
+/s s s s s S S s/	s1 s s s s S S s	0	0	0	0	0	0	0	0
+/s s s s s S S s/	s s1 s s s S S s	0	0	0	0	0	0	0	0
+/s s s s s S S s/	s s s1 s s S S s	0	0	0	0	0	0	0	0
+/s s s s s S S s/	s s s s1 s S S s	0	0	0	0	0	0	0	0
+/s s s s s S S s/	s s s s s1 S S s	0	0	0	0	0	1	1	1
+/s s s s s S S s/	s s s s s S1 S s	0	0	0	1	0	0	0	0
+/s s s s s S S s/	s s s s s S S1 s	0	1	0	0	0	0	0	0
+/s s s s s S S s/	s s s s s S S s1	1	0	1	0	1	0	0	0
+/s s s s s S s S/	s1 s s s s S s S	0	0	0	0	0	0	0	0
+/s s s s s S s S/	s s1 s s s S s S	0	0	0	0	0	0	0	0
+/s s s s s S s S/	s s s1 s s S s S	0	0	0	0	0	0	0	0
+/s s s s s S s S/	s s s s1 s S s S	0	0	0	0	0	0	0	0
+/s s s s s S s S/	s s s s s1 S s S	0	0	0	0	0	1	1	1
+/s s s s s S s S/	s s s s s S1 s S	0	0	0	1	0	0	0	0
+/s s s s s S s S/	s s s s s S s1 S	0	1	1	0	1	0	0	0
+/s s s s s S s S/	s s s s s S s S1	1	0	0	0	0	0	0	0
+/s s s s s S s s/	s1 s s s s S s s	0	0	0	0	0	0	0	0
+/s s s s s S s s/	s s1 s s s S s s	0	0	0	0	0	0	0	0
+/s s s s s S s s/	s s s1 s s S s s	0	0	0	0	0	0	0	0
+/s s s s s S s s/	s s s s1 s S s s	0	0	0	0	0	0	0	0
+/s s s s s S s s/	s s s s s1 S s s	0	0	0	0	0	1	1	1
+/s s s s s S s s/	s s s s s S1 s s	0	0	0	1	0	0	0	0
+/s s s s s S s s/	s s s s s S s1 s	0	1	1	0	1	0	0	0
+/s s s s s S s s/	s s s s s S s s1	1	0	0	0	0	0	0	0
+/s s s s s s S S/	s1 s s s s s S S	0	0	0	0	0	0	0	0
+/s s s s s s S S/	s s1 s s s s S S	0	0	0	0	0	0	0	0
+/s s s s s s S S/	s s s1 s s s S S	0	0	0	0	0	0	0	0
+/s s s s s s S S/	s s s s1 s s S S	0	0	0	0	0	0	0	0
+/s s s s s s S S/	s s s s s1 s S S	0	0	0	0	0	0	0	0
+/s s s s s s S S/	s s s s s s1 S S	0	0	0	1	1	1	1	1
+/s s s s s s S S/	s s s s s s S1 S	0	1	1	0	0	0	0	0
+/s s s s s s S S/	s s s s s s S S1	1	0	0	0	0	0	0	0
+/s s s s s s S s/	s1 s s s s s S s	0	0	0	0	0	0	0	0
+/s s s s s s S s/	s s1 s s s s S s	0	0	0	0	0	0	0	0
+/s s s s s s S s/	s s s1 s s s S s	0	0	0	0	0	0	0	0
+/s s s s s s S s/	s s s s1 s s S s	0	0	0	0	0	0	0	0
+/s s s s s s S s/	s s s s s1 s S s	0	0	0	0	0	0	0	0
+/s s s s s s S s/	s s s s s s1 S s	0	0	0	1	1	1	1	1
+/s s s s s s S s/	s s s s s s S1 s	0	1	0	0	0	0	0	0
+/s s s s s s S s/	s s s s s s S s1	1	0	1	0	0	0	0	0
+/s s s s s s s S/	s1 s s s s s s S	0	0	0	0	0	0	0	0
+/s s s s s s s S/	s s1 s s s s s S	0	0	0	0	0	0	0	0
+/s s s s s s s S/	s s s1 s s s s S	0	0	0	0	0	0	0	0
+/s s s s s s s S/	s s s s1 s s s S	0	0	0	0	0	0	0	0
+/s s s s s s s S/	s s s s s1 s s S	0	0	0	0	0	0	0	0
+/s s s s s s s S/	s s s s s s1 s S	0	0	0	1	1	1	1	1
+/s s s s s s s S/	s s s s s s s1 S	0	1	1	0	0	0	0	0
+/s s s s s s s S/	s s s s s s s S1	1	0	0	0	0	0	0	0
+/s s s s s s s s/	s1 s s s s s s s	0	0	0	0	0	0	0	0
+/s s s s s s s s/	s s1 s s s s s s	0	0	0	0	0	0	0	0
+/s s s s s s s s/	s s s1 s s s s s	0	0	0	0	0	0	0	0
+/s s s s s s s s/	s s s s1 s s s s	0	0	0	0	0	0	0	0
+/s s s s s s s s/	s s s s s1 s s s	0	0	0	0	0	0	0	0
+/s s s s s s s s/	s s s s s s1 s s	0	0	0	1	1	1	1	1
+/s s s s s s s s/	s s s s s s s1 s	0	1	1	0	0	0	0	0
+/s s s s s s s s/	s s s s s s s s1	1	0	0	0	0	0	0	0
